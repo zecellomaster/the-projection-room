@@ -1,5 +1,5 @@
-### Welcome to The Coverage Gasm!
-Your one stop shop for semi-competent election coverage. Currently, this page is hosting a live anaylsis of the following election(s) using the Computerized Real-time Accounting Program (CRAP):
+### Welcome to The Coverage-Gasm!
+This is a personal project of mine I have developed in my free time, don't be surprised if you see a lot of updates and potential errors. Currently, this page is hosting a live anaylsis of the following election(s) using the Computerized Real-time Accounting Program (CRAP):
 
 US Senate- 2020 Kentucky Democratic Primary
 
@@ -8,3 +8,9 @@ For more details about what CRAP is, check out the [official documentation](http
 ### Live Anaylsis
 Comming soon!
 
+### Future Elections
+US Senate- 2020 Maine Democratic Primary
+US Senate- 2020 Massachusetts Democratic Primary
+US 2020 General Election
+
+If you find errors, please do not hesiate to let me know!
