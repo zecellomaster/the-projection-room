@@ -10,7 +10,9 @@ Comming soon!
 
 ### Future Elections
 US Senate- 2020 Maine Democratic Primary
+
 US Senate- 2020 Massachusetts Democratic Primary
+
 US 2020 General Election
 
 If you find errors, please do not hesiate to let me know!
