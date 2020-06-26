@@ -33,7 +33,7 @@ US 2020 General Election
 
 Election data from [The Washington Post](https://www.washingtonpost.com/elections/election-results/2020-primary-results/).
 
-Charts created using [Google Sheets](https://www.google.com/sheets/about/)
+Charts created using [Google Sheets](https://www.google.com/sheets/about/).
 
 The Computerized Real-time Accounting Program is a MATLAB script I designed myself. Source code coming soon.
 
