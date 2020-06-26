@@ -35,6 +35,6 @@ Election data from [The Washington Post](https://www.washingtonpost.com/election
 
 Charts created using [Google Sheets](https://www.google.com/sheets/about/).
 
-The Computerized Real-time Accounting Program is a MATLAB script I designed myself. Source code coming soon.
+The [Computerized Real-time Accounting Program](https://github.com/zecellomaster/the-coverage-gasm/blob/master/CRAP.m) is a MATLAB script I designed myself.
 
-If you find errors or potential sugestions, please do not hesiate to let me know!
+If you find errors or have potential sugestions, please do not hesiate to let me know!
