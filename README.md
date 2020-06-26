@@ -37,4 +37,4 @@ Charts created using [Google Sheets](https://www.google.com/sheets/about/)
 
 The Computerized Real-time Accounting Program is a MATLAB script I designed myself. Source code coming soon.
 
-If you find errors, please do not hesiate to let me know!
+If you find errors or potential sugestions, please do not hesiate to let me know!
