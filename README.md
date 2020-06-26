@@ -5,7 +5,7 @@ US Senate- 2020 Kentucky Democratic Primary
 
 For more details about what CRAP is, check out the [official documentation](https://docs.google.com/document/d/1JwVihLW2GugDK3el7i5EdO03wT124_zcrKv4sPQvE_8/edit?usp=sharing).
 
-# Live Anaylsis
+# Live Analysis
 
 ## US Sen- 2020 KY Dem Primary
 
