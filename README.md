@@ -19,7 +19,7 @@ For more details about what CRAP is, check out the [official documentation](http
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ07tu2z80Iaelc5koRloqiBT6uo5QyOV8DV8Gyh_ASarY-dpC1XRc0DY0uS8eEb1c08WE_scT8SIer/pubchart?oid=1721292002&amp;format=interactive"></iframe>
 
 ### Range of Projected Final Vote Share
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ07tu2z80Iaelc5koRloqiBT6uo5QyOV8DV8Gyh_ASarY-dpC1XRc0DY0uS8eEb1c08WE_scT8SIer/pubchart?oid=321705706&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1BMKeNSRM4k_ESgQ1PIR4RmJZ3Ly_wqv7Iz9HViv7UMM/htmlembed/sheet?gid=0&range=A14"></iframe>
 
 # Future Elections to Analyze
 
