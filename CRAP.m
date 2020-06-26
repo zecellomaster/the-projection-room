@@ -9,7 +9,7 @@ url_list = ["https://www.washingtonpost.com/elections/election-results/kentucky-
     "https://www.washingtonpost.com/elections/election-results/new-york-house-primary-live-results/",...
     "https://www.washingtonpost.com/elections/election-results/new-york-house-primary-live-results/"];
 
-sheet_url = '1BMKeNSRM4k_ESgQ1PIR4RmJZ3Ly_wqv7Iz9HViv7UMM';
+sheet_id = 'dQw4w9WgXcQ'; % ;)
 
 %Shows whether or not the expected 
 expected_turnout = [true, false, false];
