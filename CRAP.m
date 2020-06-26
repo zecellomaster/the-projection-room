@@ -15,7 +15,7 @@ names = ["Charles Booker","Mike Broihier","Amy McGrath","Others/Undecided";...
     "Jamaal Bowman", "Eliot Engel", "Chris Fink","Others/Undecided"];
 names_2 = ["David Buchwald","David Carlucci","Evelyn Farkas","Mondaire Jones","Adam Schleifer", "Others"];
 table_location = [1,29,33];
-forecast_files = ["C:\Users\BOSS COMPUTER\Documents\Election Stuff\KYDemSenate.xlsx", "",""];
+forecast_files = ["C:\Users\Computer\Documents\Election Stuff\KYDemSenate.xlsx", "",""];
 
 should_continue = true;
 
