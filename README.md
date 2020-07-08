@@ -21,7 +21,7 @@ For more details about what CRAP is, check out the [official documentation](http
 ### Range of Projected Final Vote Share
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSzTjXB3qAiovJO3TT7ZJMV0YNZG71U8EZ0Ma7FLcc7ouNv9arJ-BXvcGkp4sVeVLskU4lYd583Fn-B/pubchart?oid=321705706&amp;format=interactive"></iframe>
 
-## Real-time Chance of Victory
+## **NEW** Real-time Chance of Victory
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSzTjXB3qAiovJO3TT7ZJMV0YNZG71U8EZ0Ma7FLcc7ouNv9arJ-BXvcGkp4sVeVLskU4lYd583Fn-B/pubchart?oid=739929616&amp;format=interactive"></iframe>
 
 # Future Elections to Analyze
