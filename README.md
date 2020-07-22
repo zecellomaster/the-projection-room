@@ -1,7 +1,7 @@
 # Welcome to The Coverage-Gasm!
 This is a personal project of mine I have developed in my free time, so expect a lot of updates and some potential errors. Currently, this page is hosting a live anaylsis of the following election(s) using the Computerized Real-time Accounting Program (CRAP):
 
-US House of Representative- 2020 New Jersey 5th Congressional District Democratic Primary (*Update 7/9/2020*: This race has been called for Josh Gottheimer. However, since returns are still arriving, the page will continue to be intermittently updated.)
+US House of Representatives- 2020 New Jersey 5th Congressional District Democratic Primary  (*Update 7/9/2020*: This race has been called for Josh Gottheimer, so the forecast is no longer being updated.)
 
 For more details about what CRAP is, check out the [official documentation](https://docs.google.com/document/d/1JwVihLW2GugDK3el7i5EdO03wT124_zcrKv4sPQvE_8/edit?usp=sharing).
 
@@ -26,11 +26,11 @@ For more details about what CRAP is, check out the [official documentation](http
 
 # Future Elections to Analyze
 
-US Senate- 2020 Maine Democratic Primary
+US Senate: 2020 Massachusetts Democratic Primary
 
-US Senate- 2020 Massachusetts Democratic Primary
+US House: 2020 Michigan 13th Congressional District Democratic Primary
 
-US 2020 General Election
+2020 General Election
 
 # Other Stuff
 
@@ -41,3 +41,9 @@ Charts created using [Google Sheets](https://www.google.com/sheets/about/).
 The [Computerized Real-time Accounting Program](https://github.com/zecellomaster/the-coverage-gasm/blob/master/CRAP.m) is a MATLAB script I designed myself.
 
 If you find errors or have potential sugestions, please do not hesiate to let me know!
+
+<!-- Begin 270towin.com 2020 Presidential Election Countdown Widget -->
+<iframe src="https://www.270towin.com/2020-countdown-clock/widget300x200.php" width="300" height="215" border="0" frameBorder="0">
+    Browser not supported. Visit <a href="https://www.270towin.com/">www.270towin.com</a>
+</iframe>
+<!-- End 270towin.com 2020 Presidential Election Countdown widget -->
