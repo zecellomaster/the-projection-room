@@ -50,4 +50,4 @@ If you find errors or have potential sugestions, please do not hesiate to let me
 </iframe>
 <!-- End 270towin.com 2020 Presidential Election Countdown widget -->
 
-<meta http-equiv="refresh" content="10" />
+<meta http-equiv="refresh" content="360" />
