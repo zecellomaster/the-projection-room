@@ -2,6 +2,7 @@
 This is a personal project of mine I have developed in my free time, so expect a lot of updates and some potential errors. Currently, this page is hosting a live anaylsis of the following election(s) using the Computerized Real-time Accounting Program (CRAP):
 
 US House of Representatives- 2020 Minnesota 5th Congressional District Democratic Primary
+
 US House of Representatives- 2020 Georgia 14th Congressional District Republican Primary
 
 For more details about what CRAP is, check out the [official documentation](https://docs.google.com/document/d/1JwVihLW2GugDK3el7i5EdO03wT124_zcrKv4sPQvE_8/edit?usp=sharing).
