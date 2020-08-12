@@ -3,7 +3,7 @@ This is a personal project of mine I have developed in my free time, so expect a
 
 US House of Representatives- 2020 Minnesota 5th Congressional District Democratic Primary
 
-US House of Representatives- 2020 Georgia 14th Congressional District Republican Primary
+US House of Representatives- 2020 Georgia 14th Congressional District Republican Primary (*Update 8/11/2020*: This race has been called for Marjorie Greene)
 
 For more details about what CRAP is, check out the [official documentation](https://docs.google.com/document/d/1JwVihLW2GugDK3el7i5EdO03wT124_zcrKv4sPQvE_8/edit?usp=sharing).
 
