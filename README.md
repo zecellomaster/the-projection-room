@@ -1,5 +1,5 @@
 # Welcome to The Coverage-Gasm!
-This is a personal project of mine I have developed in my free time, so expect a lot of updates and some potential errors. Currently, this page is hosting a live anaylsis of the following election(s) using the Computerized Real-time Accounting Program (CRAP):
+This is a personal project of mine I have developed in my free time, so expect a lot of updates and some potential errors. Currently, this page is hosting a live anaylsis of the following election(s) using the Computerized Real-time Analysis Program (CRAP):
 
 US House of Representatives- 2020 Minnesota 5th Congressional District Democratic Primary (*Update 8/11/2020*: This race has been called for Ilhan Omar)
 
