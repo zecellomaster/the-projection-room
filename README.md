@@ -17,7 +17,7 @@ If you find errors or have potential sugestions, please do not hesiate to let me
 </iframe>
 <!-- End 270towin.com 2020 Presidential Election Countdown widget -->
 
-<meta http-equiv="refresh" content="360" />
+<!--<meta http-equiv="refresh" content="360" />-->
 
 <html>
   <head>
@@ -59,3 +59,22 @@ If you find errors or have potential sugestions, please do not hesiate to let me
     <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
   </body>
 </html>
+
+    function drawGID() {
+      var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');
+
+      var query = new google.visualization.Query(
+          'https://docs.google.com/spreadsheets/d/1XWJLkAwch5GXAt_7zOFDcg8Wm8Xv29_8PWuuW15qmAE/gviz/tq?gid=0&headers=1&tq=' + queryString);
+      query.send(handleQueryResponse);
+    }
+
+    function handleQueryResponse(response) {
+      if (response.isError()) {
+        alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+        return;
+      }
+
+      var data = response.getDataTable();
+      var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      chart.draw(data, { height: 400 });
+    }
