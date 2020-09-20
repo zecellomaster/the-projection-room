@@ -20,7 +20,6 @@ If you find errors or have potential sugestions, please do not hesiate to let me
 <!--<meta http-equiv="refresh" content="360" />-->
 
 <script>  
-        
     function drawGID() {
       var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');
 
@@ -39,7 +38,9 @@ If you find errors or have potential sugestions, please do not hesiate to let me
       var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
       chart.draw(data, { height: 400 });
     }
-    
 <script>  
+<body>
+    <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
+</body>
     
     
