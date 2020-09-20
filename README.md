@@ -38,19 +38,19 @@ If you find errors or have potential sugestions, please do not hesiate to let me
         alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
         return;
       }
-    }
-    function drawSeriesChart() {
-      var options = {
-        title: 'Correlation between life expectancy, fertility rate ' +
-               'and population of some world countries (2010)',
-        hAxis: {title: 'Life Expectancy'},
-        vAxis: {title: 'Fertility Rate'},
-        bubble: {textStyle: {fontSize: 11}}
-      };
-      var data = response.getDataTable();
-      var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
-      chart.draw(data, options);
-    }
+        function drawSeriesChart() {
+          var options = {
+            title: 'Correlation between life expectancy, fertility rate ' +
+                   'and population of some world countries (2010)',
+            hAxis: {title: 'Life Expectancy'},
+            vAxis: {title: 'Fertility Rate'},
+            bubble: {textStyle: {fontSize: 11}}
+          };
+          var data = response.getDataTable();
+          var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+          chart.draw(data, options);
+        }
+   }
     </script>
   </head>
   <body>
