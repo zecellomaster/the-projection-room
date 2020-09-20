@@ -24,6 +24,15 @@ If you find errors or have potential sugestions, please do not hesiate to let me
     <script type="text/javascript">
       google.charts.load('current', {'packages':['corechart']});
       google.charts.setOnLoadCallback(drawSeriesChart);
+  
+    function handleQueryResponse(response) {
+      if (response.isError()) {
+        alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+        return;
+        }
+        var stuff = response.getDataTable();
+        return stuff
+      }
     
     function drawSeriesChart() {
       var queryString = encodeURIComponent('SELECT A, B, C, D, E');
@@ -32,15 +41,6 @@ If you find errors or have potential sugestions, please do not hesiate to let me
           'https://docs.google.com/spreadsheets/d/1hmawmq3I3MzvqmMqS194_gTIROpyRmc-T_GMG-TVmj8/edit?usp=sharing' + queryString);
       var data = query.send(handleQueryResponse);
 
-        function handleQueryResponse(response) {
-          if (response.isError()) {
-            alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
-            return;
-            }
-            var stuff = response.getDataTable();
-            return stuff
-          }
-      
       var options = {
         title: 'Correlation between life expectancy, fertility rate ' +
                'and population of some world countries (2010)',
