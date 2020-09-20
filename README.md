@@ -26,7 +26,7 @@ If you find errors or have potential sugestions, please do not hesiate to let me
       google.charts.setOnLoadCallback(drawSeriesChart);
     
     function drawGID() {
-      var queryString = encodeURIComponent('SELECT A, H, O, Q, R, U LIMIT 5 OFFSET 8');
+      var queryString = encodeURIComponent('SELECT A, B, C, D, E');
 
       var query = new google.visualization.Query(
           'https://docs.google.com/spreadsheets/d/1hmawmq3I3MzvqmMqS194_gTIROpyRmc-T_GMG-TVmj8/edit#gid=0' + queryString);
