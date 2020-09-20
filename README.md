@@ -31,7 +31,7 @@ If you find errors or have potential sugestions, please do not hesiate to let me
 
       var query = new google.visualization.Query(
           'https://docs.google.com/spreadsheets/d/1hmawmq3I3MzvqmMqS194_gTIROpyRmc-T_GMG-TVmj8/edit?usp=sharing' + queryString);
-      query.send(handleQueryResponse);
+      var data = query.send(handleQueryResponse);
     }
 
     function handleQueryResponse(response) {
@@ -39,7 +39,8 @@ If you find errors or have potential sugestions, please do not hesiate to let me
         alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
         return;
         }
-        var data = response.getDataTable();
+        var stuff = response.getDataTable();
+        return stuff
       }
       
       var options = {
