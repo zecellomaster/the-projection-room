@@ -38,7 +38,6 @@ If you find errors or have potential sugestions, please do not hesiate to let me
         alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
         return;
       }
-      var data = response.getDataTable();
     }
     function drawSeriesChart() {
       var options = {
@@ -48,7 +47,7 @@ If you find errors or have potential sugestions, please do not hesiate to let me
         vAxis: {title: 'Fertility Rate'},
         bubble: {textStyle: {fontSize: 11}}
       };
-
+      var data = response.getDataTable();
       var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
       chart.draw(data, options);
     }
