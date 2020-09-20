@@ -19,6 +19,7 @@ If you find errors or have potential sugestions, please do not hesiate to let me
 
 <!--<meta http-equiv="refresh" content="360" />-->
 
+<head>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
       google.charts.load('current', {'packages':['corechart']});
