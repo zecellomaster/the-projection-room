@@ -1,8 +1,11 @@
 # Welcome to The Projection Room!
 
 After much delay, the forecast is finally ready! Before we dive in, however, is important to note a couple of things:
+
 1) This forecast is based a lot on polling data, and while better quality polls are considered more than worse ones, it is still subject to pollster error and is only a snapshot in time.
+
 2) It is important to note the fact that as with most numerical predictions, this only tells the *likelihood* of an event and therefore not a guarentee of what is **going** to happen.
+
 3) The model assumes an election where all the votes cast are counted and the election overall is run fairly. Recent [events](https://ballotpedia.org/Changes_to_election_dates,_procedures,_and_administration_in_response_to_the_coronavirus_(COVID-19)_pandemic,_2020), [comments](https://www.vox.com/policy-and-politics/2020/9/30/21454325/trump-2020-peaceful-transition-election-stealing), and [actions](https://fivethirtyeight.com/features/five-ways-trump-and-gop-officials-are-undermining-the-election-process/) have cast some doubt on whether or not that will happen this year  or at least to the extent it did in past elections, so expect uncertainty to be a bit more than expected.
 
 ## Presidential Election Forecast
