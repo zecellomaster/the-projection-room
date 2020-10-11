@@ -1,15 +1,26 @@
 # Welcome to The Projection Room!
-More info coming soon!
 
+## Presidential Election Forecast
+### Forecasted Electoral Votes
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=1731587575&amp;format=interactive"></iframe>
+Remember, 270 votes are required to win. A tie results in a much more [complicated process to choose the presidency)[https://www.270towin.com/content/electoral-college-ties/].
 
+### Electoral College Map
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=2086820880&amp;format=interactive"></iframe>
+The percent values represent the chance of victory for the incumbent, Donald J. Trump. Red indicates the *likelihood* of a Trump win while blue indicates a *likelihood* of a Biden win. The darker the shade, the higher the chance, with white being a 50%-50% tossup
 
-Election data from [The Washington Post](https://www.washingtonpost.com/elections/election-results/2020-primary-results/).
+## Senate Forecast
+Coming Soon!
+
+Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=irpromo).
 
 Charts created using [Google Sheets](https://www.google.com/sheets/about/).
 
-The [Computerized Real-time Accounting Program](https://github.com/zecellomaster/the-coverage-gasm/blob/master/CRAP.m) is a MATLAB script I designed myself.
+The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projection-room.git) is powered by a group of MATLAB scripts I designed myself.
 
-If you find errors or have potential sugestions, please do not hesiate to let me know!
+All data presented can be found on the [official online repository](https://drive.google.com/drive/folders/1kHx-x_HtC0uqQKqF8HZOrfzr62zd8wP6?usp=sharing).
+
+If you find errors or have potential sugestions, please do not hesiate to let me know! 
 
 <!-- Begin 270towin.com 2020 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/2020-countdown-clock/widget300x200.php" width="300" height="215" border="0" frameBorder="0">
@@ -18,42 +29,3 @@ If you find errors or have potential sugestions, please do not hesiate to let me
 <!-- End 270towin.com 2020 Presidential Election Countdown widget -->
 
 <!--<meta http-equiv="refresh" content="360" />-->
-
-<head>
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawSeriesChart);
-  
-    function handleQueryResponse(response) {
-      if (response.isError()) {
-        alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
-        return;
-        }
-        var stuff = response.getDataTable();
-        return stuff
-      }
-    
-    function drawSeriesChart() {
-      var queryString = encodeURIComponent('SELECT A, B, C, D, E');
-
-      var query = new google.visualization.Query(
-          'https://docs.google.com/spreadsheets/d/1hmawmq3I3MzvqmMqS194_gTIROpyRmc-T_GMG-TVmj8/edit?usp=sharing' + queryString);
-      var data = query.send(handleQueryResponse);
-
-      var options = {
-        title: 'Correlation between life expectancy, fertility rate ' +
-               'and population of some world countries (2010)',
-        hAxis: {title: 'Life Expectancy'},
-        vAxis: {title: 'Fertility Rate'},
-        bubble: {textStyle: {fontSize: 11}}
-      };
-      
-      var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
-      chart.draw(data, options);
-    }
-    </script>
-  </head>
-  <body>
-    <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
-  </body>
