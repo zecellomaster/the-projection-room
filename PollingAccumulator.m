@@ -2,7 +2,7 @@
 % Author: Zecellomaster
 % This script will organize the presidential polling numbers by state/district for
 % the following candidates: Joe Biden, Donald Trump, Jo Jorgenson, Howie
-% Hawkins, and Kanye West
+% Hawkins
 tic
 
 clearvars
@@ -63,11 +63,11 @@ for i = 1:size(state_names,1)
             old_id = raw_polls{j+1,1};
             
         else
-            if i == 56 & ~isequal(poll_line(1,1), "") & ~isequal(poll_line(1,6), "") ...
+            if i == size(state_names,1) & ~isequal(poll_line(1,1), "") & ~isequal(poll_line(1,6), "") ...
                     & ~isequal(poll_line(1,7), "") 
                 poll_list = [poll_list;poll_line];
                 break
-            elseif i ~= 56 & ~isequal(poll_line(1,1), "") & ~isequal(poll_line(1,6), "") ...
+            elseif i ~= size(state_names,1) & ~isequal(poll_line(1,1), "") & ~isequal(poll_line(1,6), "") ...
                     & ~isequal(poll_line(1,7), "")  
                 poll_list = [poll_list;poll_line];
                 break
@@ -86,7 +86,7 @@ for i = 1:size(state_names,1)
                 poll_list = [poll_list;poll_line];
             end
             
-            poll_line = strings(1,10);
+            poll_line = strings(1,size(candidate_names,2));
             
             %Sets the new info in the current line (date, poll id, etc)
             poll_line(1,1) = raw_polls{j,21};
@@ -97,7 +97,7 @@ for i = 1:size(state_names,1)
         end
         
         %Data collection for national polls
-        if i == 56 & isempty(char(raw_polls{j,4}))
+        if i == size(state_names,1) & isempty(char(raw_polls{j,4}))
             for k = 6:size(candidate_names,2)
                 if isequal(string(raw_polls{j,34}), candidate_names(1,k))
                     poll_line(1,k) = string(raw_polls{j,38});

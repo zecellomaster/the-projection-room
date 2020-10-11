@@ -2,7 +2,7 @@
 % Author: Zecellomaster
 % This script will calculate the polling averages nationally, as well as
 % for every state and district for the following candidates : Joe Biden, 
-% Donald Trump, Jo Jorgenson, Howie Hawkins, and Kanye West
+% Donald Trump, Jo Jorgenson, Howie Hawkins
 clearvars
 tic
 %Set for how far back in time polling averages are needed
@@ -27,10 +27,15 @@ for i = 1:size(state_names,1) %This loop selects each state/district
     average_format = readtable('C:\Users\BOSS COMPUTER\Documents\Election Stuff\Data\Presidential Polling Average Format.xlsx');
     polling_average = string(average_format.Properties.VariableNames);
     
-    if isempty(polls) %Only executes if there is no polls for a state/distric
+
+    
+    if isempty(polls) %Only executes if there is no polls for a state/district
         for j = start_date:current_date
             polling_average(j-start_date + 2,:) = string(zeros(1,size(average_format,2)));
-            polling_average(j-start_date + 2,1) = string(datestr(j,2));
+            raw_date = datestr(j,2);
+            raw_year = num2str(round(str2num(raw_date(end-1:end))+ 2000));
+            polling_average(j-start_date + 2,1) = string(strcat(...
+                raw_date(1:end-2),raw_year));
         end
         writematrix(polling_average,save_location);
         continue
@@ -39,39 +44,42 @@ for i = 1:size(state_names,1) %This loop selects each state/district
     polls.Date.Format = 'MM/dd/yy';
     
     for j = 1:size(polls,1) %MATLAB's strict rules on dates is forcing me to
-        %do this as well. This code should be good for polls past 2000
+        %do this as well. This code should be good for polls past 1999
         raw_date = datestr(polls{j,1},2);
         raw_year = num2str(round(str2num(raw_date(end-1:end))+ 2000));
         polls{j,1} = datetime(strcat(raw_date(1:end-2),raw_year));
     end
-    
-    polls{:,end+1} = zeros(size(polls,1),1);
+    %This part needed since data will be inserted in the column after the
+    %last candidate
+    last_column = size(polls,2);
+    polls{:,last_column+1} = zeros(size(polls,1),1);
 
+    
     for j = 1:size(polls,1)
         %Calculating the weights for each of the polls
-        
+
         sample = polls{j,4};
         %This portion of the algorithm deals with the sample size weight for
         %national polls
-        if i == 56
-            multiplier = (atan(sample/500)/atan(5/2));
+        if i == size(state_names,1)
+            multiplier = (atan(sample/350)/atan(5/2));
         else 
         %This portion deals with the sample size weight for state polls
-            multiplier = (atan(sample/400)/atan(5/2));
+            multiplier = (atan(sample/280)/atan(5/2));
         end
   
         %This portion sets the weight for the grade
         grade = string(polls{j,3});
         
         switch grade
-            case {"A"}
-                multiplier = multiplier*1;
+            case {"A+"}
+                multiplier = multiplier*1.10;
             
             case{"A"}
-                multiplier = multiplier*0.955;
+                multiplier = multiplier*0.965;
             
             case {"A-"}
-                multiplier = multiplier*0.91;
+                multiplier = multiplier*0.920;
         
             case {"A/B" "B+"}
                 multiplier = multiplier*0.88;
@@ -92,13 +100,13 @@ for i = 1:size(state_names,1) %This loop selects each state/district
                 multiplier = multiplier*0.71;
             
             case {"C/D" "D+"}
-                multiplier = multiplier*0.68;
+                multiplier = multiplier*0.58;
             
             case {"D"}
-                multiplier = multiplier*0.645;
+                multiplier = multiplier*0.545;
             
             case {"D-"}
-                multiplier = multiplier*0.61;
+                multiplier = multiplier*0.41;
                 
             otherwise
                 multiplier = multiplier*0.745;
@@ -107,36 +115,50 @@ for i = 1:size(state_names,1) %This loop selects each state/district
         poll_type = string(polls{j,5});
         
         if isequal(poll_type,"lv")
-            multiplier = multiplier*1.2;
+            multiplier = multiplier*1.1;
             
         elseif isequal(poll_type, "rv")
-            multiplier = multiplier*1.1;
+            multiplier = multiplier*1.05;
         end
         
-        polls{j,end+1} = multiplier;
+        polls{j,last_column+1} = multiplier;
     end
-    
     
     for j = start_date:current_date
     %This portion selects the valid polls that were taken before the
     %selected date
-    
         for k = 1:size(polls,1)
+                    
             poll_date = datenum(polls{k,1});
             
-            %This portion sets the weight for the proximity to the current date
-            polls{k,end+1} = polls{k,end+1}*(0.5-(atan(((j-poll_date)-100)/40)/(2*atan(5/2))));
+            %This portion sets the weight for the proximity to the current
+            %date. This multiplier is set to the column after the
+            %previously calculated one
+            if (j - poll_date) <= 25
+                polls{k,last_column+2} = polls{k,last_column+1} * (1-((j - poll_date)/50));
             
-            if j < poll_date
+            elseif (j - poll_date) > 25 & (j - poll_date) <= 100
+                polls{k,last_column+2} = polls{k,last_column+1} * ((-1/250)*(j - poll_date)) + (3/5);
+                
+            elseif (j - poll_date) > 100
+                polls{k,last_column+2} = polls{k,last_column+1} * 0.2 ;
+            end
+            %Remember that j represents the selected date to calculate
+            %averages
+            if j >= poll_date & k ~= size(polls,1)
+                continue
+            elseif j >= poll_date & k == size(polls,1)
+                selected_polls = polls(1:k,:);
+                break
+            elseif j < poll_date %& k ~= size(polls,1)
                 selected_polls = polls(1:k-1,:);
                 break
-            else
-                continue
             end
         end
-        
+
         average_line = strings(1,size(average_format,2));
-        average_line(1,1) = string(datestr(j,2));
+        average_line(1,1) = string(datestr(j,23));
+        
         
         if isempty(selected_polls)
             average_line(1,2:end) = string(zeros(1,size(average_format,2)-1));
@@ -150,7 +172,7 @@ for i = 1:size(state_names,1) %This loop selects each state/district
             candidate_column = round((k/3)+(16/3));
             
             candidate_data = rmmissing([selected_polls{:,candidate_column},...
-                selected_polls{:,end+1}],1);
+                selected_polls{:,last_column+2}],1);
             
             if isempty(candidate_data) %Only runs if a candidate has no data
                 average_line(1,k:k+2) = string(zeros(1,3));
@@ -169,8 +191,10 @@ for i = 1:size(state_names,1) %This loop selects each state/district
         %party vote share is 0, it is assumed that it is 3%, which is used
         %for calculation
         
-        third_party_vote = str2double(average_line(8)) + str2double(average_line(end+1)) + ...
-            str2double(average_line(14));
+        %IMPORTANT: If you change the number of candidates being averaged,
+        %you MUST change these column names to the appropriate names/types 
+        %of candidates  or else this will break
+        third_party_vote = str2double(average_line(8)) + str2double(average_line(11));
         
         if third_party_vote == 0
            third_party_vote = 3; 
