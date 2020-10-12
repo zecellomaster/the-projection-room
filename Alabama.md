@@ -2,6 +2,7 @@ layout: page
 title: "Alabama Forecast"
 permalink: https://zecellomaster.github.io/the-projection-room/alabama
 
+
 # Alabama
 
 ## Presidential Election Forecast
