@@ -2,3 +2,7 @@ theme: jekyll-theme-cayman
 title: The Projection Room
 description: Using the past and present to "see" into the future!
 background-image: linear-gradient(120deg, #FF8000, #FF0000)
+
+layout: page
+title: "Alabama Forecast"
+permalink: https://zecellomaster.github.io/the-projection-room/alabama
