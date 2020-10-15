@@ -1,6 +1,6 @@
 layout: page
-title: Alabama Forecast
-permalink: https://zecellomaster.github.io/the-projection-room/alabama
+title: "Alabama Forecast"
+permalink: /alabama/
 
 # Alabama
 
