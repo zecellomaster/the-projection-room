@@ -1,5 +1,5 @@
 layout: page
-title: "Alabama Forecast"
+title: Alabama Forecast
 permalink: https://zecellomaster.github.io/the-projection-room/alabama
 
 # Alabama
