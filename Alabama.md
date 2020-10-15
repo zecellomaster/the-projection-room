@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Alabama Forecast"
 permalink: /alabama/
+---
 
 # Alabama
 
