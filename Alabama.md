@@ -1,8 +1,11 @@
 ---
 layout: page
+theme: jekyll-theme-cayman
 title: "Alabama Forecast"
 permalink: /alabama/
 ---
+
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
 
 # Alabama
 
