@@ -11,7 +11,6 @@ After much delay, the forecast is finally ready! Before we dive in, however, is 
 ## Presidential Election Forecast
 ### Forecasted Chance of Winning
 <iframe width="600" height="212" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=1003958298&amp;format=interactive"></iframe>
-Remember, 270 votes are required to win. A 269-269 tie results in a much more [complicated process to choose the presidency](https://www.270towin.com/content/electoral-college-ties/).
 This tells the *probability* that a candidate will win the election via the electoral college. The higher the chance, the more pathways that candidate has to 270.
 
 ### Chance of Winning Over Time
@@ -24,7 +23,7 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
 
 ### Electoral Votes Over Time
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=993494504&amp;format=interactive"></iframe>
-A look at how the range of forecasted electoral votes have changed over the course of time.
+A look at how the range of forecasted electoral votes have changed over the course of time. Remember, 270 votes are required to win. A 269-269 tie results in a much more [complicated process to choose the president](https://www.270towin.com/content/electoral-college-ties/).
 
 ### Forecasted Vote Share
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=1119499338&amp;format=interactive"></iframe>
@@ -34,7 +33,32 @@ This is a look at what the vote share could look like on election day using hist
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=687436770&amp;format=interactive"></iframe>
 A look at how the range of the forecasted vote share has changed over the course of time.
 
-### A Closer Look
+### Battleground Races
+These are the races that are either the most interesting or most likely to get interesting 
+[Arizona](https://zecellomaster.github.io/the-projection-room/arizona/)
+[Colorado](https://zecellomaster.github.io/the-projection-room/colorado/)
+[Florida](https://zecellomaster.github.io/the-projection-room/florida/)
+[Georgia](https://zecellomaster.github.io/the-projection-room/georgia/)
+[Iowa](https://zecellomaster.github.io/the-projection-room/iowa/)
+[Michigan](https://zecellomaster.github.io/the-projection-room/michigan/)
+[Minnesota](https://zecellomaster.github.io/the-projection-room/minnesota/)
+[Nevada](https://zecellomaster.github.io/the-projection-room/nevada/)
+[New Hampshire](https://zecellomaster.github.io/the-projection-room/new_hampshire/)
+[New Mexico](https://zecellomaster.github.io/the-projection-room/new_mexico/)
+[North Carolina]
+[Ohio](https://zecellomaster.github.io/the-projection-room/ohio/)
+[Pennsylvania](https://zecellomaster.github.io/the-projection-room/pennsylvania/)
+[Texas](https://zecellomaster.github.io/the-projection-room/texas/)
+[Wisconsin](https://zecellomaster.github.io/the-projection-room/wisconsin/)
+[Maine CD-2](https://zecellomaster.github.io/the-projection-room/maine_cd_2/)
+[Nebraska CD-2](https://zecellomaster.github.io/the-projection-room/nebraska_cd_2/)
+
+### Tipping Point
+The tipping point is defined as the state that gets the eventual winner thier 270th electoral vote
+
+
+
+### All States
 <iframe width="500" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubhtml?gid=160042951&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 Highlighted bold states are battleground races. Note that the margin of victory is negative if Biden leads and positive if Trump leads. Note that Nebraska and Maine use a [slightly different system](https://www.270towin.com/content/split-electoral-votes-maine-and-nebraska/) to allocate electors than winner-take-all, so the statewide vote for both is denoted with a (S) while the congressional districts are labeled individually.
 
