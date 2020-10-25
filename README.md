@@ -36,21 +36,37 @@ A look at how the range of the forecasted vote share has changed over the course
 ### Battleground Races
 These are the races that are either the most interesting or most likely to get interesting 
 [Arizona](https://zecellomaster.github.io/the-projection-room/arizona/)
+
 [Colorado](https://zecellomaster.github.io/the-projection-room/colorado/)
+
 [Florida](https://zecellomaster.github.io/the-projection-room/florida/)
+
 [Georgia](https://zecellomaster.github.io/the-projection-room/georgia/)
+
 [Iowa](https://zecellomaster.github.io/the-projection-room/iowa/)
+
 [Michigan](https://zecellomaster.github.io/the-projection-room/michigan/)
+
 [Minnesota](https://zecellomaster.github.io/the-projection-room/minnesota/)
+
 [Nevada](https://zecellomaster.github.io/the-projection-room/nevada/)
+
 [New Hampshire](https://zecellomaster.github.io/the-projection-room/new_hampshire/)
+
 [New Mexico](https://zecellomaster.github.io/the-projection-room/new_mexico/)
+
 [North Carolina]
+
 [Ohio](https://zecellomaster.github.io/the-projection-room/ohio/)
+
 [Pennsylvania](https://zecellomaster.github.io/the-projection-room/pennsylvania/)
+
 [Texas](https://zecellomaster.github.io/the-projection-room/texas/)
+
 [Wisconsin](https://zecellomaster.github.io/the-projection-room/wisconsin/)
+
 [Maine CD-2](https://zecellomaster.github.io/the-projection-room/maine_cd_2/)
+
 [Nebraska CD-2](https://zecellomaster.github.io/the-projection-room/nebraska_cd_2/)
 
 ### Tipping Point
