@@ -36,7 +36,7 @@ A look at how the range of the forecasted vote share has changed over the course
 ### Battleground Races
 These are the races that are either the most interesting or most likely to get interesting 
 
-[Arizona](https://zecellomaster.github.io/the-projection-room/arizona/)
+[Arizona](https://zecellomaster.github.io/the-projection-room/arizona/)     
 
 [Colorado](https://zecellomaster.github.io/the-projection-room/colorado/)
 
@@ -56,7 +56,7 @@ These are the races that are either the most interesting or most likely to get i
 
 [New Mexico](https://zecellomaster.github.io/the-projection-room/new_mexico/)
 
-[North Carolina]
+[North Carolina](https://zecellomaster.github.io/the-projection-room/north_carolina/)
 
 [Ohio](https://zecellomaster.github.io/the-projection-room/ohio/)
 
