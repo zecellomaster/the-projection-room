@@ -35,6 +35,7 @@ A look at how the range of the forecasted vote share has changed over the course
 
 ### Battleground Races
 These are the races that are either the most interesting or most likely to get interesting 
+
 [Arizona](https://zecellomaster.github.io/the-projection-room/arizona/)
 
 [Colorado](https://zecellomaster.github.io/the-projection-room/colorado/)
@@ -70,7 +71,7 @@ These are the races that are either the most interesting or most likely to get i
 [Nebraska CD-2](https://zecellomaster.github.io/the-projection-room/nebraska_cd_2/)
 
 ### Tipping Point
-The tipping point is defined as the state that gets the eventual winner thier 270th electoral vote
+The tipping point is defined as the state that gets the eventual winner their 270th electoral vote
 
 
 
