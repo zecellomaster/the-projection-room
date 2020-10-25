@@ -6,7 +6,7 @@ permalink: /alabama/
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
 
-# Alabama
+# Alabama (9 Electoral Votes)
 
 ## Presidential Election Forecast
 ### Chance of Winning
