@@ -1,4 +1,4 @@
-# Welcome to The Projection Room!
+# Welcome to The Projection Room Forecast!
 
 After much delay, the forecast is finally ready! Before we dive in, however, is important to note a couple of things:
 
