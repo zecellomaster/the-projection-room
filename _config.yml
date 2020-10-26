@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: The Projection Room
+title: The Projection Room Forecast
 description: An election forcast model that uses the past and present to *project* into the future!
 background-image: linear-gradient(120deg, #FF8000, #FF0000)
