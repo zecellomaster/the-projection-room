@@ -11,7 +11,7 @@ permalink: /new_mexico/
 ## Presidential Election Forecast
 ### Chance of Winning
 <iframe width="647" height="212" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=125320747&amp;format=interactive"></iframe>
-This tells the *probability* that a candidate will win this state. The higher the chance, the more likely it is.
+This tells the *probability*  that a candidate will win this state. The higher the chance, the more likely it is.
 
 ### Projected Vote Share
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=1361078048&amp;format=interactive"></iframe>
