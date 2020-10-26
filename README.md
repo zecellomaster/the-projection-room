@@ -94,10 +94,7 @@ The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projec
 
 All data presented can be found on the [official online repository](https://drive.google.com/drive/folders/1kHx-x_HtC0uqQKqF8HZOrfzr62zd8wP6?usp=sharing).
 
-Found any errors? Want to make a suggestion? 
-Tweet me [@zecellomaster](https://twitter.com/zecellomaster)
-
-Email me [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
+Found any errors? Want to make a suggestion? Have any comments? Tweet me [@zecellomaster](https://twitter.com/zecellomaster) or email me at [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
 
 <!-- Begin 270towin.com 2020 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/2020-countdown-clock/widget300x200.php" width="300" height="215" border="0" frameBorder="0">
