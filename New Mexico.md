@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "New Mexico Forecast"
-permalink: /new_mexico/
+permalink: /new-mexico/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
