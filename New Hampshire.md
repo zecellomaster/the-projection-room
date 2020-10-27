@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "New Hampshire Forecast"
-permalink: /new_hampshire/
+permalink: /new-hampshire/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
