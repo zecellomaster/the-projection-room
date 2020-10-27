@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "West Virginia Forecast"
-permalink: /west_virginia/
+permalink: /west-virginia/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
