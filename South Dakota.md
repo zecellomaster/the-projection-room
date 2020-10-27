@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "South Dakota Forecast"
-permalink: /south_dakota/
+permalink: /south-dakota/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
