@@ -28,10 +28,8 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
         <body>
                 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
                 <script type="text/javascript">
-        google.charts.load('current', {
-                'packages': ['corechart']
-              });
-              google.charts.setOnLoadCallback(drawBubbleChart);
+        
+        google.charts.load('current', {'packages': ['corechart']});
 
               function drawBubbleChart() {
 
@@ -86,6 +84,7 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
                 chart.draw(data, options);
 
               }
+              google.charts.setOnLoadCallback(drawBubbleChart);
         </script>
         <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
         </body>
