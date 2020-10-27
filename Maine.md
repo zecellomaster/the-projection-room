@@ -6,7 +6,7 @@ permalink: /maine/
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
 
-# Maine (3 Electoral Votes)
+# Maine (2 Electoral Votes)
 
 ## Presidential Election Forecast
 ### Chance of Winning
