@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Nebraska CD-3 Forecast"
-permalink: /nebraska_cd_3/
+permalink: /nebraska-cd-3/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
