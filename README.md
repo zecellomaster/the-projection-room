@@ -95,7 +95,9 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
         </body>
 </html>
 
-<i>Visual developed by Brandon Wilson - Computer Science Undergraduate</i>
+<i>Visual developed by Brandon Wilson ([@KnightLizard](https://github.com/KnightLizard)) - Computer Science Undergraduate</i>
+
+This view shows the races with the sizes representing the number of electoral votes they have, the horizontal axis representing the margin of victory (negative for Biden, positive for Trump), and the color/vertical axis representing who has the better odds of winning there (red for Trump, blue for Biden). The darker the shade, the higher the chance.
 
 ### Electoral Votes Over Time
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=993494504&amp;format=interactive"></iframe>
@@ -168,11 +170,15 @@ Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=i
 
 Charts created using [Google Sheets](https://www.google.com/sheets/about/).
 
-The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projection-room/tree/master/Scripts) is powered by a group of MATLAB scripts I designed myself.
+The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projection-room/tree/master/Scripts) is powered by a group of MATLAB scripts.
 
 All data presented can be found on the [official online repository](https://drive.google.com/drive/folders/1kHx-x_HtC0uqQKqF8HZOrfzr62zd8wP6?usp=sharing).
 
-Found any errors? Want to make a suggestion? Have any comments? Tweet me [@zecellomaster](https://twitter.com/zecellomaster) or email me at [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com).
+Page built by: [@zecellomaster](https://github.com/zecellomaster)  [@KnightLizard](https://github.com/KnightLizard)
+
+Found any errors? Want to make a suggestion? Have any comments? 
+
+Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
 
 <!-- Begin 270towin.com 2020 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/2020-countdown-clock/widget300x200.php" width="300" height="215" border="0" frameBorder="0">
