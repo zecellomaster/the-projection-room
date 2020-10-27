@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "North Dakota Forecast"
-permalink: /north_dakota/
+permalink: /north-dakota/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
