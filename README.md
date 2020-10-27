@@ -38,15 +38,15 @@ A look at how the range of the forecasted vote share has changed over the course
 ### Battleground Races
 These are the races that are either the most interesting or most likely to get interesting 
 
-[Arizona](https://zecellomaster.github.io/the-projection-room/arizona/) | [Colorado](https://zecellomaster.github.io/the-projection-room/colorado/) 
-| [Florida](https://zecellomaster.github.io/the-projection-room/florida/) | [Georgia](https://zecellomaster.github.io/the-projection-room/georgia/) 
-| [Iowa](https://zecellomaster.github.io/the-projection-room/iowa/) | [Maine (Statewide)](https://zecellomaster.github.io/the-projection-room/maine/) 
-| [Michigan](https://zecellomaster.github.io/the-projection-room/michigan/) | [Minnesota](https://zecellomaster.github.io/the-projection-room/minnesota/) 
-| [Nevada](https://zecellomaster.github.io/the-projection-room/nevada/) | [New Hampshire](https://zecellomaster.github.io/the-projection-room/new_hampshire/) 
-| [New Mexico](https://zecellomaster.github.io/the-projection-room/new_mexico/) | [North Carolina](https://zecellomaster.github.io/the-projection-room/north_carolina/) 
-| [Ohio](https://zecellomaster.github.io/the-projection-room/ohio/) | [Pennsylvania](https://zecellomaster.github.io/the-projection-room/pennsylvania/) | [Texas](https://zecellomaster.github.io/the-projection-room/texas/) 
-| [Wisconsin](https://zecellomaster.github.io/the-projection-room/wisconsin/) | [Maine CD-2](https://zecellomaster.github.io/the-projection-room/maine_cd_2/) 
-| [Nebraska CD-2](https://zecellomaster.github.io/the-projection-room/nebraska_cd_2/)
+[Arizona](https://theprforecast.com/arizona/) | [Colorado](https://theprforecast.com/colorado/) |
+[Florida](https://theprforecast.com/florida/) | [Georgia](https://theprforecast.com/georgia/) |
+[Iowa](https://theprforecast.com/iowa/) | [Maine (Statewide)](https://theprforecast.com/maine/) |
+[Michigan](https://theprforecast.com/michigan/) | [Minnesota](https://theprforecast.com/minnesota/) |
+[Nevada](https://theprforecast.com/nevada/) | [New Hampshire](https://theprforecast.com/new_hampshire/) |
+[New Mexico](https://theprforecast.com/new_mexico/) | [North Carolina](https://theprforecast.com/north_carolina/) |
+[Ohio](https://theprforecast.com/ohio/) | [Pennsylvania](https://theprforecast.com/pennsylvania/) |
+[Texas](https://theprforecast.com/texas/) | [Wisconsin](https://theprforecast.com/wisconsin/) | 
+[Maine CD-2](https://theprforecast.com/maine_cd_2/) | [Nebraska CD-2](https://theprforecast.com/nebraska_cd_2/)
 
 ### Tipping Point
 <iframe width="500" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubhtml?gid=1871926673&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
