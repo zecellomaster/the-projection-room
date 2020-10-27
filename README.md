@@ -1,3 +1,6 @@
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
 # Welcome to The Projection Room Forecast!
 
 Before we dive in, is important to note a couple of things:
