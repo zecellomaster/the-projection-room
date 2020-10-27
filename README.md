@@ -90,7 +90,7 @@ Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=i
 
 Charts created using [Google Sheets](https://www.google.com/sheets/about/).
 
-The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projection-room.git) is powered by a group of MATLAB scripts I designed myself.
+The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projection-room/tree/master/Scripts) is powered by a group of MATLAB scripts I designed myself.
 
 All data presented can be found on the [official online repository](https://drive.google.com/drive/folders/1kHx-x_HtC0uqQKqF8HZOrfzr62zd8wP6?usp=sharing).
 
