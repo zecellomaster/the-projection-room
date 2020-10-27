@@ -22,5 +22,5 @@ This is a look at what the vote share could look like on election day using hist
 This shows how the chances of winning have modified over time.
 
 ### Projected Vote Share Over Time (%)
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=338229584&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=906754626&amp;format=interactive"></iframe>
 A look at how the range of the forecasted vote share has changed over the course of time. Dotted lines represent the 90% confidence interval for each candidate. 
