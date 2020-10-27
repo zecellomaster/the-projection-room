@@ -14,7 +14,7 @@ permalink: /missouri/
 This tells the *probability* that a candidate will win this state. The higher the chance, the more likely it is.
 
 ### Projected Vote Share
-<iframe width="647" height="212" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=764789412&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=365898241&amp;format=interactive"></iframe>
 This is a look at what the vote share could look like on election day using historical data and polling averages.
 
 ### Chance of Winning Over Time (%)
