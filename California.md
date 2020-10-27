@@ -6,7 +6,7 @@ permalink: /california/
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
 
-# california (55 Electoral Votes)
+# California (55 Electoral Votes)
 
 ## Presidential Election Forecast
 ### Chance of Winning
