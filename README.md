@@ -58,9 +58,11 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
                   },
                   vAxis: {
                     title: "Chance of Victory",
-                    maxValue: 1.1
+                    maxValue: 1.1,
+                    minValue: 0.45
                   },
                   sizeAxis: {
+                        maxSize: 30,
                         title: "Biden"
                   },
                   colorAxis:{
