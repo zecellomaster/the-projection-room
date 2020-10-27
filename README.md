@@ -24,8 +24,10 @@ This shows how the chances of winning have modified over time.
 The percent values represent the chance of victory for the incumbent, Donald J. Trump. Red indicates the *likelihood* of a Trump win while blue indicates a *likelihood* of a Biden win. The darker the shade, the higher the chance, with white being a 50%-50% tossup
 
 <html>
-        <head>
-        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js">
+        <head></head>
+        <body>
+                <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+                <script type="text/javascript>
         google.charts.load('current', {
                 'packages': ['corechart']
               });
@@ -85,8 +87,6 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
 
               }
         </script>
-        </head>
-        <body>
         <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
         </body>
 </html>
