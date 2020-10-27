@@ -79,9 +79,39 @@ These are the races that are either the most interesting or most likely to get i
 The tipping point is defined as the state that gets the eventual winner their 270th electoral vote. Here is a list of the races that are most likely to do just that, along with the forecasted margins of victory (negative if Biden leads, positive if Trump leads). Note that Nebraska and Maine use a [slightly different system](https://www.270towin.com/content/split-electoral-votes-maine-and-nebraska/) to allocate electors than winner-take-all, so the statewide vote for both is denoted with a (S) while the congressional districts are labeled individually.
 
 
-### All States
+### Race Overview
 <iframe width="500" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubhtml?gid=160042951&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 Highlighted bold states are battleground races. Note that the margin of victory is negative if Biden leads and positive if Trump leads. Note that Nebraska and Maine use a [slightly different system](https://www.270towin.com/content/split-electoral-votes-maine-and-nebraska/) to allocate electors than winner-take-all, so the statewide vote for both is denoted with a (S) while the congressional districts are labeled individually.
+
+### All Races
+| [Alabama](https://theprforecast.com/alabama/)                           | [Alaska](https://theprforecast.com/alaska/)                 |
+| [Arizona](https://theprforecast.com/arizona/)                           | [Arkansas](https://theprforecast.com/arkansas/)             |
+| [California](https://theprforecast.com/california/)                     | [Colorado](https://theprforecast.com/colorado/)             |
+| [Connecticut](https://theprforecast.com/connecticut/)                   | [Delaware](https://theprforecast.com/delaware/)             |
+| [District of Columbia](https://theprforecast.com/district_of_columbia/) | [Florida](https://theprforecast.com/florida/)               |
+| [Georgia](https://theprforecast.com/georgia/)                           | [Hawaii](https://theprforecast.com/hawaii/)                 |
+| [Idaho](https://theprforecast.com/idaho/)                               | [Illinois](https://theprforecast.com/illinois/)             |
+| [Indiana](https://theprforecast.com/indiana/)                           | [Iowa](https://theprforecast.com/iowa/)                     |
+| [Kansas](https://theprforecast.com/kansas/)                             | [Kentucky](https://theprforecast.com/kentucky/)             |
+| [Louisiana](https://theprforecast.com/louisiana/)                       | [Maine (Statewide)](https://theprforecast.com/maine/)       |
+| [Maryland](https://theprforecast.com/maryland/)                         | [Massachusetts](https://theprforecast.com/massachusetts/)   |
+| [Michigan](https://theprforecast.com/michigan/)                         | [Minnesota](https://theprforecast.com/minnesota/)           |
+| [Mississippi](https://theprforecast.com/mississippi/)                   | [Missouri](https://theprforecast.com/missouri/)             |
+| [Montana](https://theprforecast.com/montana/)                           | [Nebraska (Statewide)](https://theprforecast.com/nebraska/) |
+| [Nevada](https://theprforecast.com/nevada/)                             | [New Hampshire](https://theprforecast.com/new_hampshire/)   |
+| [New Jersey](https://theprforecast.com/new_jersey/)                     | [New Mexico](https://theprforecast.com/new_mexico/)         |
+| [New York](https://theprforecast.com/new_york)                          | [North Carolina](https://theprforecast.com/north_carolina/) |
+| [North Dakota](https://theprforecast.com/north_dakota/)                 | [Ohio](https://theprforecast.com/ohio/)                     |
+| [Oklahoma]((https://theprforecast.com/oklahoma/)                        | [Oregon](https://theprforecast.com/oregon/)                 |
+| [Pennsylvania](https://theprforecast.com/pennsylvania/)                 | [Rhode Island](https://theprforecast.com/rhode_island/)     |
+| [South Carolina](https://theprforecast.com/south_carolina/)             | [South Dakota](https://theprforecast.com/south_dakota/)     |
+| [Tennessee] (https://theprforecast.com/tennessee/)                      | [Texas](https://theprforecast.com/texas/)                   |
+| [Utah](https://theprforecast.com/utah/)                                 | [Vermont](https://theprforecast.com/vermont/)               |
+| [Virginia](https://theprforecast.com/virginia/)                         | [Washington](https://theprforecast.com/washington/)         |
+| [West Virginia](https://theprforecast.com/west_virginia/)               | [Wisconsin](https://theprforecast.com/wisconsin/)           |
+| [Wyoming](https://theprforecast.com/wyoming/)                           | [Maine CD-1](https://theprforecast.com/maine_cd_1/)         |
+| [Maine CD-2](https://theprforecast.com/maine_cd_2/)                     | [Nebraska CD-1](https://theprforecast.com/nebraska_cd_1/)   |
+| [Nebraska CD-2](https://theprforecast.com/nebraska_cd_2/)               | [Nebraska CD-3](https://theprforecast.com/nebraska_cd_3/)   |
 
 ## Senate Forecast
 Coming Soon!
