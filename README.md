@@ -102,10 +102,10 @@ Highlighted bold states are battleground races. Note that the margin of victory 
 | [New Jersey](https://theprforecast.com/new_jersey/)                     | [New Mexico](https://theprforecast.com/new_mexico/)         |
 | [New York](https://theprforecast.com/new_york)                          | [North Carolina](https://theprforecast.com/north_carolina/) |
 | [North Dakota](https://theprforecast.com/north_dakota/)                 | [Ohio](https://theprforecast.com/ohio/)                     |
-| [Oklahoma]((https://theprforecast.com/oklahoma/)                        | [Oregon](https://theprforecast.com/oregon/)                 |
+| [Oklahoma](https://theprforecast.com/oklahoma/)                         | [Oregon](https://theprforecast.com/oregon/)                 |
 | [Pennsylvania](https://theprforecast.com/pennsylvania/)                 | [Rhode Island](https://theprforecast.com/rhode_island/)     |
 | [South Carolina](https://theprforecast.com/south_carolina/)             | [South Dakota](https://theprforecast.com/south_dakota/)     |
-| [Tennessee] (https://theprforecast.com/tennessee/)                      | [Texas](https://theprforecast.com/texas/)                   |
+| [Tennessee](https://theprforecast.com/tennessee/)                       | [Texas](https://theprforecast.com/texas/)                   |
 | [Utah](https://theprforecast.com/utah/)                                 | [Vermont](https://theprforecast.com/vermont/)               |
 | [Virginia](https://theprforecast.com/virginia/)                         | [Washington](https://theprforecast.com/washington/)         |
 | [West Virginia](https://theprforecast.com/west_virginia/)               | [Wisconsin](https://theprforecast.com/wisconsin/)           |
