@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Illinois Forecast"
-permalink: /Illinois/
+permalink: /illinois/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
