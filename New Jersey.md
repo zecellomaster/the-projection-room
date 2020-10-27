@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "New Jersey Forecast"
-permalink: /new_jersey/
+permalink: /new-jersey/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
