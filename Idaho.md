@@ -6,7 +6,7 @@ permalink: /idaho/
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
 
-# Idaho (9 Electoral Votes)
+# Idaho (4 Electoral Votes)
 
 ## Presidential Election Forecast
 ### Chance of Winning
