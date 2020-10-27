@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "District of Columbia"
-permalink: /district_of_columbia/
+permalink: /district-of-columbia/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
