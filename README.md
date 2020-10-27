@@ -53,16 +53,17 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
                 var options = {
                   title: "State Forecast",
                   hAxis: {
-                    title: "Points",
+                    title: "Margin of Victory (%)",
                     //maxValue: 1.25
                   },
                   vAxis: {
                     title: "Chance of Victory",
+                    format: 'percent',
                     maxValue: 1.1,
                     minValue: 0.45
                   },
                   sizeAxis: {
-                        maxSize: 30,
+                        maxSize: 50,
                         title: "Biden"
                   },
                   colorAxis:{
