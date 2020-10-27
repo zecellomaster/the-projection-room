@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Delaware Forecast"
-permalink: /delware/
+permalink: /delaware/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
