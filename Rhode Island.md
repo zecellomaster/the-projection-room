@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Rhode Island Forecast"
-permalink: /rhode_island/
+permalink: /rhode-island/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
