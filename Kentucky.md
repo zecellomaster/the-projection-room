@@ -6,7 +6,7 @@ permalink: /kentucky/
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
 
-# Kentucky (6 Electoral Votes)
+# Kentucky (8 Electoral Votes)
 
 ## Presidential Election Forecast
 ### Chance of Winning
