@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "New York Forecast"
-permalink: /new_york/
+permalink: /new-york/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
