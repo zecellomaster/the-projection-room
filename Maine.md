@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Maine Forecast"
-permalink: /alabama/
+permalink: /maine/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
