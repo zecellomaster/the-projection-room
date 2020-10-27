@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Maryland Forecast"
-permalink: /Maryland/
+permalink: /maryland/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
