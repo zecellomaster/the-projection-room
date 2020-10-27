@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Vermont Forecast"
-permalink: /vt/
+permalink: /vermont/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
