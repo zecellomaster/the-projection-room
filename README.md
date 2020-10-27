@@ -27,7 +27,7 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
         <head></head>
         <body>
                 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-                <script type="text/javascript>
+                <script type="text/javascript">
         google.charts.load('current', {
                 'packages': ['corechart']
               });
