@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "South Carolina Forecast"
-permalink: /south_carolina/
+permalink: /south-carolina/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
