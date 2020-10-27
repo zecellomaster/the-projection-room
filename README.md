@@ -91,6 +91,8 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
         </body>
 </html>
 
+<i>Visual developed by Brandon Wilson - Computer Science Undergraduate</i>
+
 ### Electoral Votes Over Time
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=993494504&amp;format=interactive"></iframe>
 A look at how the range of forecasted electoral votes have changed over the course of time. Remember, 270 votes are required to win. A 269-269 tie results in a much more [complicated process to choose the president](https://www.270towin.com/content/electoral-college-ties/). Dotted lines represent the 90% confidence interval for each candidate.
