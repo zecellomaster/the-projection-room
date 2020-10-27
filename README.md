@@ -23,6 +23,68 @@ This shows how the chances of winning have modified over time.
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubchart?oid=2086820880&amp;format=interactive"></iframe>
 The percent values represent the chance of victory for the incumbent, Donald J. Trump. Red indicates the *likelihood* of a Trump win while blue indicates a *likelihood* of a Biden win. The darker the shade, the higher the chance, with white being a 50%-50% tossup
 
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js">
+google.charts.load('current', {
+        'packages': ['corechart']
+      });
+      google.charts.setOnLoadCallback(drawBubbleChart);
+
+      function drawBubbleChart() {
+
+        var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1DLtvZ9YqcIoV_mxNDHvvyTXpaycDfGqPYhaNhJEwe68/gviz/tq?gid=553196491');
+        
+        query.setQuery('SELECT A, C, D, B, F LIMIT 57 OFFSET 1');
+        query.send(handleQueryResponse);
+
+      }
+
+      function handleQueryResponse(response) {
+
+        if (response.isError()) {
+          alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+          return;
+        }
+        
+        var data = response.getDataTable();
+
+        var options = {
+          title: "State Forecast",
+          hAxis: {
+            title: "Chance of Victory",
+            maxValue: 1.25
+          },
+          vAxis: {
+            title: "Points"
+          },
+          sizeAxis: {
+          	title: "Biden"
+          },
+          colorAxis:{
+          	title: "Margin of Victory (%)",
+            colors: ['red', 'white', 'blue']
+          },
+          bubble: {
+            textStyle: {
+              fontSize: 11
+            }
+          }
+        }
+        
+        //Alter chance to reflect on Joe Biden chance of victory
+        for(var i = 0; i < 56; i++){
+        	var chance = data.getValue(i, 1);
+        	if(chance < 0.5){
+          	data.setValue(i, 1, 1 - chance);
+          }
+        }
+        
+        var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+        chart.draw(data, options);
+
+      }
+</script>
+<div id="series_chart_div" style="width: 900px; height: 500px;"></div>
+
 ### Electoral Votes Over Time
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=993494504&amp;format=interactive"></iframe>
 A look at how the range of forecasted electoral votes have changed over the course of time. Remember, 270 votes are required to win. A 269-269 tie results in a much more [complicated process to choose the president](https://www.270towin.com/content/electoral-college-ties/).
