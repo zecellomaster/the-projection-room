@@ -1,3 +1,4 @@
+<html>
 <head>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js">
 google.charts.load('current', {
@@ -56,10 +57,10 @@ google.charts.load('current', {
 
         var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
         chart.draw(data, options);
-
       }
 </script>
 </head>
 <body>
   <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
 </body>
+</html>
