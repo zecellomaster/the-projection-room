@@ -8,7 +8,7 @@ Before we dive in, is important to note a couple of things:
 
 3) The model assumes an election where all the votes cast are counted and the election overall is run fairly. Recent [events](https://ballotpedia.org/Changes_to_election_dates,_procedures,_and_administration_in_response_to_the_coronavirus_(COVID-19)_pandemic,_2020), [comments](https://www.vox.com/policy-and-politics/2020/9/30/21454325/trump-2020-peaceful-transition-election-stealing), and [actions](https://fivethirtyeight.com/features/five-ways-trump-and-gop-officials-are-undermining-the-election-process/) have cast some doubt on whether or not that will happen this year or at least to the extent it did in past elections, so uncertainty may be more than expected.
 
-**Update (10/25/20)**: The election is ~8 days away and the website is at 65% completeness, but most of the major things I want to implement are here. The issue at the moment is Florida, the model shows about an 80% chance for Biden, but it has a [glaring lack of high quality (B+ or higher) polls taken recently](https://projects.fivethirtyeight.com/polls/president-general/florida/). The model is instructed to ignore low quality polls for higher ones, even if they are older, but only for a short time, as the wieght drops off rather quickly. We might see this one get much closer, which will certainly have major implications for the election, unless a good poll is taken recently that shows the margin holding steady for Biden.
+**Update (10/27/20)**: The webpage is finally complete! All of the states/districts have a forecast page with their associated charts. Click the links in the "All Races" section to see more!
 
 ## Presidential Election Forecast
 ### Forecasted Chance of Winning
@@ -124,7 +124,7 @@ The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projec
 
 All data presented can be found on the [official online repository](https://drive.google.com/drive/folders/1kHx-x_HtC0uqQKqF8HZOrfzr62zd8wP6?usp=sharing).
 
-Found any errors? Want to make a suggestion? Have any comments? Tweet me [@zecellomaster](https://twitter.com/zecellomaster) or email me at [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
+Found any errors? Want to make a suggestion? Have any comments? Tweet me [@zecellomaster](https://twitter.com/zecellomaster) or email me at [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com).
 
 <!-- Begin 270towin.com 2020 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/2020-countdown-clock/widget300x200.php" width="300" height="215" border="0" frameBorder="0">
