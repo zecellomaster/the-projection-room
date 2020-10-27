@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Maine CD-1 Forecast"
-permalink: /maine_cd_1/
+permalink: /maine-cd-1/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
