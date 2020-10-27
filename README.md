@@ -118,11 +118,11 @@ These are the races that are either the most interesting or most likely to get i
 [Florida](https://theprforecast.com/florida/) | [Georgia](https://theprforecast.com/georgia/) |
 [Iowa](https://theprforecast.com/iowa/) | [Maine (Statewide)](https://theprforecast.com/maine/) |
 [Michigan](https://theprforecast.com/michigan/) | [Minnesota](https://theprforecast.com/minnesota/) |
-[Nevada](https://theprforecast.com/nevada/) | [New Hampshire](https://theprforecast.com/new_hampshire/) |
-[New Mexico](https://theprforecast.com/new_mexico/) | [North Carolina](https://theprforecast.com/north_carolina/) |
+[Nevada](https://theprforecast.com/nevada/) | [New Hampshire](https://theprforecast.com/new-hampshire/) |
+[New Mexico](https://theprforecast.com/new-mexico/) | [North Carolina](https://theprforecast.com/north-carolina/) |
 [Ohio](https://theprforecast.com/ohio/) | [Pennsylvania](https://theprforecast.com/pennsylvania/) |
 [Texas](https://theprforecast.com/texas/) | [Wisconsin](https://theprforecast.com/wisconsin/) | 
-[Maine CD-2](https://theprforecast.com/maine_cd_2/) | [Nebraska CD-2](https://theprforecast.com/nebraska_cd_2/)
+[Maine CD-2](https://theprforecast.com/maine-cd-2/) | [Nebraska CD-2](https://theprforecast.com/nebraska-cd-2/)
 
 ### Tipping Point
 <iframe width="500" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubhtml?gid=1871926673&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -138,7 +138,7 @@ Highlighted bold states are battleground races. Note that the margin of victory 
 [Arizona](https://theprforecast.com/arizona/)                           | [Arkansas](https://theprforecast.com/arkansas/)             |
 [California](https://theprforecast.com/california/)                     | [Colorado](https://theprforecast.com/colorado/)             |
 [Connecticut](https://theprforecast.com/connecticut/)                   | [Delaware](https://theprforecast.com/delaware/)             |
-[District of Columbia](https://theprforecast.com/district_of_columbia/) | [Florida](https://theprforecast.com/florida/)               |
+[District of Columbia](https://theprforecast.com/district-of-columbia/) | [Florida](https://theprforecast.com/florida/)               |
 [Georgia](https://theprforecast.com/georgia/)                           | [Hawaii](https://theprforecast.com/hawaii/)                 |
 [Idaho](https://theprforecast.com/idaho/)                               | [Illinois](https://theprforecast.com/illinois/)             |
 [Indiana](https://theprforecast.com/indiana/)                           | [Iowa](https://theprforecast.com/iowa/)                     |
@@ -148,20 +148,20 @@ Highlighted bold states are battleground races. Note that the margin of victory 
 [Michigan](https://theprforecast.com/michigan/)                         | [Minnesota](https://theprforecast.com/minnesota/)           |
 [Mississippi](https://theprforecast.com/mississippi/)                   | [Missouri](https://theprforecast.com/missouri/)             |
 [Montana](https://theprforecast.com/montana/)                           | [Nebraska (Statewide)](https://theprforecast.com/nebraska/) |
-[Nevada](https://theprforecast.com/nevada/)                             | [New Hampshire](https://theprforecast.com/new_hampshire/)   |
-[New Jersey](https://theprforecast.com/new_jersey/)                     | [New Mexico](https://theprforecast.com/new_mexico/)         |
-[New York](https://theprforecast.com/new_york)                          | [North Carolina](https://theprforecast.com/north_carolina/) |
-[North Dakota](https://theprforecast.com/north_dakota/)                 | [Ohio](https://theprforecast.com/ohio/)                     |
+[Nevada](https://theprforecast.com/nevada/)                             | [New Hampshire](https://theprforecast.com/new-hampshire/)   |
+[New Jersey](https://theprforecast.com/new-jersey/)                     | [New Mexico](https://theprforecast.com/new-mexico/)         |
+[New York](https://theprforecast.com/new-york)                          | [North Carolina](https://theprforecast.com/north-carolina/) |
+[North Dakota](https://theprforecast.com/north-dakota/)                 | [Ohio](https://theprforecast.com/ohio/)                     |
 [Oklahoma](https://theprforecast.com/oklahoma/)                         | [Oregon](https://theprforecast.com/oregon/)                 |
-[Pennsylvania](https://theprforecast.com/pennsylvania/)                 | [Rhode Island](https://theprforecast.com/rhode_island/)     |
-[South Carolina](https://theprforecast.com/south_carolina/)             | [South Dakota](https://theprforecast.com/south_dakota/)     |
+[Pennsylvania](https://theprforecast.com/pennsylvania/)                 | [Rhode Island](https://theprforecast.com/rhode-island/)     |
+[South Carolina](https://theprforecast.com/south-carolina/)             | [South Dakota](https://theprforecast.com/south-dakota/)     |
 [Tennessee](https://theprforecast.com/tennessee/)                       | [Texas](https://theprforecast.com/texas/)                   |
 [Utah](https://theprforecast.com/utah/)                                 | [Vermont](https://theprforecast.com/vermont/)               |
 [Virginia](https://theprforecast.com/virginia/)                         | [Washington](https://theprforecast.com/washington/)         |
-[West Virginia](https://theprforecast.com/west_virginia/)               | [Wisconsin](https://theprforecast.com/wisconsin/)           |
-[Wyoming](https://theprforecast.com/wyoming/)                           | [Maine CD-1](https://theprforecast.com/maine_cd_1/)         |
-[Maine CD-2](https://theprforecast.com/maine_cd_2/)                     | [Nebraska CD-1](https://theprforecast.com/nebraska_cd_1/)   |
-[Nebraska CD-2](https://theprforecast.com/nebraska_cd_2/)               | [Nebraska CD-3](https://theprforecast.com/nebraska_cd_3/)   |
+[West Virginia](https://theprforecast.com/west-virginia/)               | [Wisconsin](https://theprforecast.com/wisconsin/)           |
+[Wyoming](https://theprforecast.com/wyoming/)                           | [Maine CD-1](https://theprforecast.com/maine-cd-1/)         |
+[Maine CD-2](https://theprforecast.com/maine-cd-2/)                     | [Nebraska CD-1](https://theprforecast.com/nebraska-cd-1/)   |
+[Nebraska CD-2](https://theprforecast.com/nebraska-cd-2/)               | [Nebraska CD-3](https://theprforecast.com/nebraska-cd-3/)   |
 
 ## Senate Forecast
 Coming Soon!
