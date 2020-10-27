@@ -35,7 +35,7 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
 
                 var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1DLtvZ9YqcIoV_mxNDHvvyTXpaycDfGqPYhaNhJEwe68/gviz/tq?gid=553196491');
 
-                query.setQuery('SELECT A, C, D, B, F LIMIT 57 OFFSET 1');
+                query.setQuery('SELECT A, D, C, B, F LIMIT 57 OFFSET 1');
                 query.send(handleQueryResponse);
 
               }
@@ -74,9 +74,9 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
 
                 //Alter chance to reflect on Joe Biden chance of victory
                 for(var i = 0; i < 56; i++){
-                        var chance = data.getValue(i, 1);
+                        var chance = data.getValue(i, 2);
                         if(chance < 0.5){
-                        data.setValue(i, 1, 1 - chance);
+                        data.setValue(i, 2, 1 - chance);
                   }
                 }
 
