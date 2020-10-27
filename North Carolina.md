@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "North Carolina Forecast"
-permalink: /north_carolina/
+permalink: /north-carolina/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
