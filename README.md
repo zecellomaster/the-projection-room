@@ -13,7 +13,7 @@ Before we dive in, is important to note a couple of things:
 ## Presidential Election Forecast
 ### Forecasted Chance of Winning
 <iframe width="600" height="212" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=1003958298&amp;format=interactive"></iframe>
-This tells the *probability* that a candidate will win the election via the electoral college. The higher the chance, the more pathways that candidate has to 270.
+This tells the *probability* that a candidate will win the election via the electoral college. The higher the chance, the more pathways that candidate has to 270. If no candidate reaches 270 electoral votes, a much more [complicated process is used to choose the president](https://www.270towin.com/content/electoral-college-ties/).
 
 ### Chance of Winning Over Time
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=1593274173&amp;format=interactive"></iframe>
@@ -51,7 +51,7 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
                 var data = response.getDataTable();
 
                 var options = {
-                  title: "State Forecast",
+                  title: " ",
                   hAxis: {
                     title: "Margin of Victory (%)",
                     //maxValue: 1.25
@@ -97,11 +97,11 @@ The percent values represent the chance of victory for the incumbent, Donald J. 
 
 <i>Visual developed by Brandon Wilson ([@KnightLizard](https://github.com/KnightLizard)) - Computer Science Undergraduate</i>
 
-This view shows the races with the sizes representing the number of electoral votes they have, the horizontal axis representing the margin of victory (negative for Biden, positive for Trump), and the color/vertical axis representing who has the better odds of winning there (red for Trump, blue for Biden). The darker the shade, the higher the chance.
+This view shows all the races with the sizes representing the number of electoral votes they have, the horizontal axis representing the margin of victory (negative for Biden, positive for Trump), and the color/vertical axis representing who has the better odds of winning there (red for Trump, blue for Biden). The darker the shade, the higher the chance.
 
 ### Electoral Votes Over Time
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=993494504&amp;format=interactive"></iframe>
-A look at how the range of forecasted electoral votes have changed over the course of time. Remember, 270 votes are required to win. A 269-269 tie results in a much more [complicated process to choose the president](https://www.270towin.com/content/electoral-college-ties/). Dotted lines represent the 90% confidence interval for each candidate.
+A look at how the range of forecasted electoral votes have changed over the course of time. Dotted lines represent the 90% confidence interval for each candidate. Remember, 270 votes are required to win.
 
 ### Forecasted Vote Share
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=1119499338&amp;format=interactive"></iframe>
@@ -129,7 +129,7 @@ These are the races that are either the most interesting or most likely to get i
 The tipping point is defined as the state that gets the eventual winner their 270th electoral vote. Here is a list of the races that are most likely to do just that, along with the forecasted margins of victory (negative if Biden leads, positive if Trump leads). Note that Nebraska and Maine use a [slightly different system](https://www.270towin.com/content/split-electoral-votes-maine-and-nebraska/) to allocate electors than winner-take-all, so the statewide vote for both is denoted with a (S) while the congressional districts are labeled individually.
 
 
-### Race Overview
+### Big Board
 <iframe width="500" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsb4OQeyJBX2P0Od5zN1-S6EGaB4ChjwERt_hbjkp9ck_4XTCZx_SgDzaDxgietocK2hPAtlgFdS6d/pubhtml?gid=160042951&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 Highlighted bold states are battleground races. Note that the margin of victory is negative if Biden leads and positive if Trump leads. Note that Nebraska and Maine use a [slightly different system](https://www.270towin.com/content/split-electoral-votes-maine-and-nebraska/) to allocate electors than winner-take-all, so the statewide vote for both is denoted with a (S) while the congressional districts are labeled individually.
 
@@ -168,7 +168,7 @@ Coming Soon!
 
 Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=irpromo).
 
-Charts created using [Google Sheets](https://www.google.com/sheets/about/).
+Charts created using [Google Sheets](https://www.google.com/sheets/about/) and [Google Visualization API](https://developers.google.com/chart/interactive/docs/reference)
 
 The [Pre-Election Estimation System](https://github.com/zecellomaster/the-projection-room/tree/master/Scripts) is powered by a group of MATLAB scripts.
 
@@ -176,9 +176,7 @@ All data presented can be found on the [official online repository](https://driv
 
 Page built by: [@zecellomaster](https://github.com/zecellomaster)  [@KnightLizard](https://github.com/KnightLizard)
 
-Found any errors? Want to make a suggestion? Have any comments? 
-
-Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
+Found any errors? Want to make a suggestion? Have any comments? Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
 
 <!-- Begin 270towin.com 2020 Presidential Election Countdown Widget -->
 <iframe src="https://www.270towin.com/2020-countdown-clock/widget300x200.php" width="300" height="215" border="0" frameBorder="0">
@@ -186,4 +184,4 @@ Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.c
 </iframe>
 <!-- End 270towin.com 2020 Presidential Election Countdown widget -->
 
-<!--<meta http-equiv="refresh" content="360" />-->
+<!--<meta http-equiv="refresh" content="600" />-->
