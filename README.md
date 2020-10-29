@@ -103,6 +103,10 @@ This view shows all the races with the sizes representing the number of electora
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=993494504&amp;format=interactive"></iframe>
 A look at how the range of forecasted electoral votes have changed over the course of time. Dotted lines represent the 90% confidence interval for each candidate. Remember, 270 votes are required to win.
 
+### Spread of Electoral Votes
+<iframe width="753" height="505" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=1793068855&amp;format=interactive"></iframe>
+The spread of the electoral votes for the winner in all of the 40,000 simulations done to make this forecast.
+
 ### Forecasted Vote Share
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubchart?oid=1119499338&amp;format=interactive"></iframe>
 This is a look at what the vote share could look like on election day using historical data and polling averages.
