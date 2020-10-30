@@ -1,4 +1,4 @@
-# Welcome to The Projection Room!
+# Welcome!
 
 Before we dive in, is important to note a couple of things:
 
