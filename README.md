@@ -167,8 +167,6 @@ Highlighted bold states are battleground races. Note that the margin of victory 
 [Maine CD-2](https://theprforecast.com/maine-cd-2/)                     | [Nebraska CD-1](https://theprforecast.com/nebraska-cd-1/)   |
 [Nebraska CD-2](https://theprforecast.com/nebraska-cd-2/)               | [Nebraska CD-3](https://theprforecast.com/nebraska-cd-3/)   |
 
-## Senate Forecast
-Coming Soon!
 
 Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=irpromo).
 
