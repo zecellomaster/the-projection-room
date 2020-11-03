@@ -8,15 +8,7 @@ Before we dive in, is important to note a couple of things:
 
 3) The model assumes an election where all the votes cast are counted and the election overall is run fairly. Recent [events](https://ballotpedia.org/Changes_to_election_dates,_procedures,_and_administration_in_response_to_the_coronavirus_(COVID-19)_pandemic,_2020), [comments](https://www.vox.com/policy-and-politics/2020/9/30/21454325/trump-2020-peaceful-transition-election-stealing), and [actions](https://fivethirtyeight.com/features/five-ways-trump-and-gop-officials-are-undermining-the-election-process/) have cast some doubt on whether or not that will happen this year or at least to the extent it did in past elections, so uncertainty may be more than expected.
 
-**Update (10/31/20)**: Happy Halloween all! TL;DR: Updated the way the odds, electoral votes, and tipping point percents were calculated.
-
-I've updated the percent chance of winning using a system adopted from [Sam Minter](http://www.abulsme.com/) over on [ElectionGraphs.com](https://electiongraphs.com/). The previous chance estimator used a "top down system", where a national result was simulated with a Gaussian distribution and applied to each of the states using their [538 elasticity rating](https://twitter.com/NateSilver538/status/1272618296571985920?s=20). While it allowed for more variance in the national results, it also resulted in basically impossible state level ones (for example, Trump winning California or Biden winning Oklahoma). Moreover, it seems a bit incompatible with the mean electoral vote lead Biden had leveraged (~150).
-
-The opposite is a "bottom up" system, where the individual state chances are put through a uniform distribution sim, then the electoral votes are added up to determine the winner. The problem is that this causes the results to be completely detached from each other, so a win for a candidate in one state would not correlate to an increased chance for them in a demographically similar state. This method resulted in Biden winning >99% of the time, as the states he leads in have far more electoral votes than those he is not. This also seemed a little too unreasonable.
-
-The solution? Average values produced by both methods to get a little bit of both worlds, some connection to the national environment, yet some independence for each state. This shifts Biden's odds of victory from 77.5% -> 88.8%. 
-
-Keep in mind that none of this guareentees a Biden win/Trump loss. It only emphasizes the fact that Biden seems to have more pathways to the White House than Trump does to reelection.
+**Update (11/03/20)**: Election Night! FiveThirtyEight locked their forecast at midnight, so the data here is final. Polls close soon, so we'll get our first results then. In the meantime, check out my [lengthy recap on what the model expects to happen](https://docs.google.com/document/d/1V6jIQTXFkJLPBknkXslr5KtGvBdZ2AzCw2xey2JpaTo/edit?usp=sharing).
 
 ## Presidential Election Forecast
 ### Forecasted Chance of Winning
