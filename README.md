@@ -8,7 +8,7 @@ Before we dive in, is important to note a couple of things:
 
 3) The model assumes an election where all the votes cast are counted and the election overall is run fairly. Recent [events](https://ballotpedia.org/Changes_to_election_dates,_procedures,_and_administration_in_response_to_the_coronavirus_(COVID-19)_pandemic,_2020), [comments](https://www.vox.com/policy-and-politics/2020/9/30/21454325/trump-2020-peaceful-transition-election-stealing), and [actions](https://fivethirtyeight.com/features/five-ways-trump-and-gop-officials-are-undermining-the-election-process/) have cast some doubt on whether or not that will happen this year or at least to the extent it did in past elections, so uncertainty may be more than expected.
 
-**Update (11/07/20)**: All major networks have called the election for Joesph R. Biden Jr. by virtue of winning Pennsylvania. This makes it the tipping point state, which it was in 48.1% of the simulations. Results are still coming in, so a comprehensive review of what this forecast model got right and wrong will be coming sometime in the future. Stay tuned!
+**Update (11/07/20)**: All major networks have called the election for Joesph R. Biden Jr. by virtue of winning Pennsylvania. Results are still coming in, so a comprehensive review of what this forecast model got right and wrong will be coming sometime in the future. Stay tuned!
 
 ## Presidential Election Forecast
 ### Forecasted Chance of Winning
