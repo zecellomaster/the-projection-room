@@ -1,5 +1,11 @@
 # Welcome!
 
+**Update (11/14/20)**: The final calls have been made by all major networks, and it appears Joesph R. Biden Jr. [has won the electoral college 306-232](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=election_recirc), a margin of 74 votes. Ironically, this is the same result as Donald J. Trump's 2016 victory over Hillary R. Clinton (if the faithless electors are discarded). The state calls are enough to do some preliminary analysis (which will come eventually), but the overal vote count will still take time, so a more in-depth look about where the model failed and succeeded will be a bit longer down the road.
+
+As for what is next, [both of Georgia's senate seats are going into runoffs](https://www.nytimes.com/2020/11/14/us/politics/georgia-runoffs-senate-control.html) that will occur early next year and this site will attempt to forecast (perhaps even live forecast) those races. A lot is still to come, so stay tuned!
+
+*Note: This model has been locked since 11/03. On that day, I wrote about what it was forecasting. You can still find that article [here](https://docs.google.com/document/d/1V6jIQTXFkJLPBknkXslr5KtGvBdZ2AzCw2xey2JpaTo/edit?usp=sharing).
+
 Before we dive in, is important to note a couple of things:
 
 1) This forecast is based a lot on polling data, and while better quality polls are weighted more than worse ones, it is still subject to pollster error and is only a snapshot in time.
@@ -7,8 +13,6 @@ Before we dive in, is important to note a couple of things:
 2) It is important to note the fact that as with most numerical predictions, this only tells the *likelihood* of an event and therefore not a guarentee of what is **going** to happen.
 
 3) The model assumes an election where all the votes cast are counted and the election overall is run fairly. Recent [events](https://ballotpedia.org/Changes_to_election_dates,_procedures,_and_administration_in_response_to_the_coronavirus_(COVID-19)_pandemic,_2020), [comments](https://www.vox.com/policy-and-politics/2020/9/30/21454325/trump-2020-peaceful-transition-election-stealing), and [actions](https://fivethirtyeight.com/features/five-ways-trump-and-gop-officials-are-undermining-the-election-process/) have cast some doubt on whether or not that will happen this year or at least to the extent it did in past elections, so uncertainty may be more than expected.
-
-**Update (11/07/20)**: All major networks have called the election for Joesph R. Biden Jr. by virtue of winning Pennsylvania. Results are still coming in, so a comprehensive review of what this forecast model got right and wrong will be coming sometime in the future. Stay tuned!
 
 ## Presidential Election Forecast
 ### Forecasted Chance of Winning
