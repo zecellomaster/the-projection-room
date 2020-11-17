@@ -4,7 +4,7 @@
 
 As for what is next, [both of Georgia's senate seats are going into runoffs](https://www.nytimes.com/2020/11/14/us/politics/georgia-runoffs-senate-control.html) that will occur early next year and this site will attempt to forecast (perhaps even live forecast) those races. A lot is still to come, so stay tuned!
 
-*Note: This model has been locked since 11/03. On that day, I wrote about what it was forecasting. You can still find that article [here](https://docs.google.com/document/d/1V6jIQTXFkJLPBknkXslr5KtGvBdZ2AzCw2xey2JpaTo/edit?usp=sharing).
+*Note: This model has been locked since 11/03. On that day, I wrote about what it was forecasting. You can still find that article [here](https://docs.google.com/document/d/1V6jIQTXFkJLPBknkXslr5KtGvBdZ2AzCw2xey2JpaTo/edit?usp=sharing)*.
 
 Before we dive in, is important to note a couple of things:
 
