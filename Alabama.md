@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Alabama Forecast"
-permalink: /2020P-alabama/
+permalink: /alabama/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
