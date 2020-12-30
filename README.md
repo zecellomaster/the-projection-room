@@ -1,4 +1,5 @@
-# Welcome!
+# 2020 Presidential Election Forecast
+Hi there! This is the archived page of our 2020 election. [Click here](https://zecellomaster.github.io/the-projection-room/) to go back to the main page.
 
 **Update (11/14/20)**: The final calls have been made by all major networks, and it appears Joesph R. Biden Jr. [has won the electoral college 306-232](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=election_recirc), a margin of 74 votes. Ironically, this is the same result as Donald J. Trump's 2016 victory over Hillary R. Clinton (if the faithless electors are discarded). The state calls are enough to do some preliminary analysis (which will come eventually), but the overal vote count will still take time, so a more in-depth look about where the model failed and succeeded will be a bit longer down the road.
 
@@ -122,15 +123,16 @@ A look at how the range of the forecasted vote share has changed over the course
 ### Battleground Races
 These are the races that are either the most interesting or most likely to get interesting 
 
-[Arizona](https://theprforecast.com/arizona/) | [Colorado](https://theprforecast.com/colorado/) |
-[Florida](https://theprforecast.com/florida/) | [Georgia](https://theprforecast.com/georgia/) |
-[Iowa](https://theprforecast.com/iowa/) | [Maine (Statewide)](https://theprforecast.com/maine/) |
-[Michigan](https://theprforecast.com/michigan/) | [Minnesota](https://theprforecast.com/minnesota/) |
-[Nevada](https://theprforecast.com/nevada/) | [New Hampshire](https://theprforecast.com/new-hampshire/) |
-[New Mexico](https://theprforecast.com/new-mexico/) | [North Carolina](https://theprforecast.com/north-carolina/) |
-[Ohio](https://theprforecast.com/ohio/) | [Pennsylvania](https://theprforecast.com/pennsylvania/) |
-[Texas](https://theprforecast.com/texas/) | [Wisconsin](https://theprforecast.com/wisconsin/) | 
-[Maine CD-2](https://theprforecast.com/maine-cd-2/) | [Nebraska CD-2](https://theprforecast.com/nebraska-cd-2/)
+[Arizona](https://zecellomaster.github.io/the-projection-room/arizona/) | [Colorado](https://zecellomaster.github.io/the-projection-room/colorado/) |
+[Florida](https://zecellomaster.github.io/the-projection-room/florida/) | [Georgia](https://zecellomaster.github.io/the-projection-room/georgia/) |
+[Iowa](https://zecellomaster.github.io/the-projection-room/iowa/) | [Maine (Statewide)](https://zecellomaster.github.io/the-projection-room/maine/) |
+[Michigan](https://zecellomaster.github.io/the-projection-room/michigan/) | [Minnesota](https://zecellomaster.github.io/the-projection-room/minnesota/) |
+[Nevada](https://zecellomaster.github.io/the-projection-room/nevada/) | [New Hampshire](https://zecellomaster.github.io/the-projection-room/new-hampshire/) |
+[New Mexico](https://zecellomaster.github.io/the-projection-room/new-mexico/) | [North Carolina](https://zecellomaster.github.io/the-projection-room/north-carolina/) |
+[Ohio](https://zecellomaster.github.io/the-projection-room/ohio/) | [Pennsylvania](https://zecellomaster.github.io/the-projection-room/pennsylvania/) |
+[Texas](https://zecellomaster.github.io/the-projection-room/texas/) | [Wisconsin](https://zecellomaster.github.io/the-projection-room/wisconsin/) |
+[Maine CD-2](https://zecellomaster.github.io/the-projection-room/maine-cd-2/) | [Nebraska CD-2](https://zecellomaster.github.io/the-projection-room/nebraska-cd-2/)
+
 
 ### Tipping Point
 <iframe width="500" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQT7zI2PyREKcBTf5CJflh-Y0O-B_E0DExA0AQJICXH9gMMJia4ugx6LezMPtNZ3qWxozhOZFA_zbL6/pubhtml?gid=1871926673&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
@@ -142,34 +144,35 @@ The tipping point is defined as the state that gets the eventual winner their 27
 Highlighted bold states are battleground races. Note that the margin of victory is negative if Biden leads and positive if Trump leads. Nebraska and Maine use a [slightly different system](https://www.270towin.com/content/split-electoral-votes-maine-and-nebraska/) to allocate electors than winner-take-all, so the statewide vote for both is denoted with a (S) while the congressional districts are labeled individually.
 
 ### All Races
-[Alabama](https://theprforecast.com/alabama/)                           | [Alaska](https://theprforecast.com/alaska/)                 |
-[Arizona](https://theprforecast.com/arizona/)                           | [Arkansas](https://theprforecast.com/arkansas/)             |
-[California](https://theprforecast.com/california/)                     | [Colorado](https://theprforecast.com/colorado/)             |
-[Connecticut](https://theprforecast.com/connecticut/)                   | [Delaware](https://theprforecast.com/delaware/)             |
-[District of Columbia](https://theprforecast.com/district-of-columbia/) | [Florida](https://theprforecast.com/florida/)               |
-[Georgia](https://theprforecast.com/georgia/)                           | [Hawaii](https://theprforecast.com/hawaii/)                 |
-[Idaho](https://theprforecast.com/idaho/)                               | [Illinois](https://theprforecast.com/illinois/)             |
-[Indiana](https://theprforecast.com/indiana/)                           | [Iowa](https://theprforecast.com/iowa/)                     |
-[Kansas](https://theprforecast.com/kansas/)                             | [Kentucky](https://theprforecast.com/kentucky/)             |
-[Louisiana](https://theprforecast.com/louisiana/)                       | [Maine (Statewide)](https://theprforecast.com/maine/)       |
-[Maryland](https://theprforecast.com/maryland/)                         | [Massachusetts](https://theprforecast.com/massachusetts/)   |
-[Michigan](https://theprforecast.com/michigan/)                         | [Minnesota](https://theprforecast.com/minnesota/)           |
-[Mississippi](https://theprforecast.com/mississippi/)                   | [Missouri](https://theprforecast.com/missouri/)             |
-[Montana](https://theprforecast.com/montana/)                           | [Nebraska (Statewide)](https://theprforecast.com/nebraska/) |
-[Nevada](https://theprforecast.com/nevada/)                             | [New Hampshire](https://theprforecast.com/new-hampshire/)   |
-[New Jersey](https://theprforecast.com/new-jersey/)                     | [New Mexico](https://theprforecast.com/new-mexico/)         |
-[New York](https://theprforecast.com/new-york)                          | [North Carolina](https://theprforecast.com/north-carolina/) |
-[North Dakota](https://theprforecast.com/north-dakota/)                 | [Ohio](https://theprforecast.com/ohio/)                     |
-[Oklahoma](https://theprforecast.com/oklahoma/)                         | [Oregon](https://theprforecast.com/oregon/)                 |
-[Pennsylvania](https://theprforecast.com/pennsylvania/)                 | [Rhode Island](https://theprforecast.com/rhode-island/)     |
-[South Carolina](https://theprforecast.com/south-carolina/)             | [South Dakota](https://theprforecast.com/south-dakota/)     |
-[Tennessee](https://theprforecast.com/tennessee/)                       | [Texas](https://theprforecast.com/texas/)                   |
-[Utah](https://theprforecast.com/utah/)                                 | [Vermont](https://theprforecast.com/vermont/)               |
-[Virginia](https://theprforecast.com/virginia/)                         | [Washington](https://theprforecast.com/washington/)         |
-[West Virginia](https://theprforecast.com/west-virginia/)               | [Wisconsin](https://theprforecast.com/wisconsin/)           |
-[Wyoming](https://theprforecast.com/wyoming/)                           | [Maine CD-1](https://theprforecast.com/maine-cd-1/)         |
-[Maine CD-2](https://theprforecast.com/maine-cd-2/)                     | [Nebraska CD-1](https://theprforecast.com/nebraska-cd-1/)   |
-[Nebraska CD-2](https://theprforecast.com/nebraska-cd-2/)               | [Nebraska CD-3](https://theprforecast.com/nebraska-cd-3/)   |
+[Alabama](https://zecellomaster.github.io/the-projection-room/alabama/)                           | [Alaska](https://zecellomaster.github.io/the-projection-room/alaska/)                 |
+[Arizona](https://zecellomaster.github.io/the-projection-room/arizona/)                           | [Arkansas](https://zecellomaster.github.io/the-projection-room/arkansas/)             |
+[California](https://zecellomaster.github.io/the-projection-room/california/)                     | [Colorado](https://zecellomaster.github.io/the-projection-room/colorado/)             |
+[Connecticut](https://zecellomaster.github.io/the-projection-room/connecticut/)                   | [Delaware](https://zecellomaster.github.io/the-projection-room/delaware/)             |
+[District of Columbia](https://zecellomaster.github.io/the-projection-room/district-of-columbia/) | [Florida](https://zecellomaster.github.io/the-projection-room/florida/)               |
+[Georgia](https://zecellomaster.github.io/the-projection-room/georgia/)                           | [Hawaii](https://zecellomaster.github.io/the-projection-room/hawaii/)                 |
+[Idaho](https://zecellomaster.github.io/the-projection-room/idaho/)                               | [Illinois](https://zecellomaster.github.io/the-projection-room/illinois/)             |
+[Indiana](https://zecellomaster.github.io/the-projection-room/indiana/)                           | [Iowa](https://zecellomaster.github.io/the-projection-room/iowa/)                     |
+[Kansas](https://zecellomaster.github.io/the-projection-room/kansas/)                             | [Kentucky](https://zecellomaster.github.io/the-projection-room/kentucky/)             |
+[Louisiana](https://zecellomaster.github.io/the-projection-room/louisiana/)                       | [Maine (Statewide)](https://zecellomaster.github.io/the-projection-room/maine/)       |
+[Maryland](https://zecellomaster.github.io/the-projection-room/maryland/)                         | [Massachusetts](https://zecellomaster.github.io/the-projection-room/massachusetts/)   |
+[Michigan](https://zecellomaster.github.io/the-projection-room/michigan/)                         | [Minnesota](https://zecellomaster.github.io/the-projection-room/minnesota/)           |
+[Mississippi](https://zecellomaster.github.io/the-projection-room/mississippi/)                   | [Missouri](https://zecellomaster.github.io/the-projection-room/missouri/)             |
+[Montana](https://zecellomaster.github.io/the-projection-room/montana/)                           | [Nebraska (Statewide)](https://zecellomaster.github.io/the-projection-room/nebraska/) |
+[Nevada](https://zecellomaster.github.io/the-projection-room/nevada/)                             | [New Hampshire](https://zecellomaster.github.io/the-projection-room/new-hampshire/)   |
+[New Jersey](https://zecellomaster.github.io/the-projection-room/new-jersey/)                     | [New Mexico](https://zecellomaster.github.io/the-projection-room/new-mexico/)         |
+[New York](https://zecellomaster.github.io/the-projection-room/new-york)                          | [North Carolina](https://zecellomaster.github.io/the-projection-room/north-carolina/) |
+[North Dakota](https://zecellomaster.github.io/the-projection-room/north-dakota/)                 | [Ohio](https://zecellomaster.github.io/the-projection-room/ohio/)                     |
+[Oklahoma](https://zecellomaster.github.io/the-projection-room/oklahoma/)                         | [Oregon](https://zecellomaster.github.io/the-projection-room/oregon/)                 |
+[Pennsylvania](https://zecellomaster.github.io/the-projection-room/pennsylvania/)                 | [Rhode Island](https://zecellomaster.github.io/the-projection-room/rhode-island/)     |
+[South Carolina](https://zecellomaster.github.io/the-projection-room/south-carolina/)             | [South Dakota](https://zecellomaster.github.io/the-projection-room/south-dakota/)     |
+[Tennessee](https://zecellomaster.github.io/the-projection-room/tennessee/)                       | [Texas](https://zecellomaster.github.io/the-projection-room/texas/)                   |
+[Utah](https://zecellomaster.github.io/the-projection-room/utah/)                                 | [Vermont](https://zecellomaster.github.io/the-projection-room/vermont/)               |
+[Virginia](https://zecellomaster.github.io/the-projection-room/virginia/)                         | [Washington](https://zecellomaster.github.io/the-projection-room/washington/)         |
+[West Virginia](https://zecellomaster.github.io/the-projection-room/west-virginia/)               | [Wisconsin](https://zecellomaster.github.io/the-projection-room/wisconsin/)           |
+[Wyoming](https://zecellomaster.github.io/the-projection-room/wyoming/)                           | [Maine CD-1](https://zecellomaster.github.io/the-projection-room/maine-cd-1/)         |
+[Maine CD-2](https://zecellomaster.github.io/the-projection-room/maine-cd-2/)                     | [Nebraska CD-1](https://zecellomaster.github.io/the-projection-room/nebraska-cd-1/)   |
+[Nebraska CD-2](https://zecellomaster.github.io/the-projection-room/nebraska-cd-2/)               | [Nebraska CD-3](https://zecellomaster.github.io/the-projection-room/nebraska-cd-3/)   |
+
 
 
 Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=irpromo).
