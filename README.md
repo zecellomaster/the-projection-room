@@ -48,6 +48,8 @@ A look at how the range of the forecasted vote share has changed over the course
 How the candidates' odds of victory have changed over the course of time.
 
 ### Other Stuff
+Check out our [2020 Presidential Forecast](https://zecellomaster.github.io/theprforecast/president-2020/)
+
 Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=irpromo).
 
 Charts created using [Plotly for R](https://plotly.com/r/)
