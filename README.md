@@ -47,6 +47,7 @@ A look at how the range of the forecasted vote share has changed over the course
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/specialline.html" height="400" width="100%"></iframe>
 How the candidates' odds of victory have changed over the course of time.
 
+### Other Stuff
 Polling data from [538.com](https://projects.fivethirtyeight.com/polls/?ex_cid=irpromo).
 
 Charts created using [Plotly for R](https://plotly.com/r/)
@@ -56,6 +57,3 @@ Page built by: [@zecellomaster](https://github.com/zecellomaster)
 Check out our Twitter: [@theprforecast](https://twitter.com/theprforecast)
 
 Found any errors? Want to make a suggestion? Have any comments? Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
-
-
-
