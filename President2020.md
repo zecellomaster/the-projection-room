@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-title: "Alabama Forecast"
+title: "2020 Presidential Forecast"
 permalink: /president-2020/
 ---
 # 2020 Presidential Election Forecast
