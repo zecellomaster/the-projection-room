@@ -1,3 +1,8 @@
+---
+theme: jekyll-theme-cayman
+title: "Alabama Forecast"
+permalink: /president-2020/
+---
 # 2020 Presidential Election Forecast
 Hi there! This is the archived page of our 2020 election. [Click here](https://zecellomaster.github.io/the-projection-room/) to go back to the main page.
 
