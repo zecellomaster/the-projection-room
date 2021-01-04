@@ -10,7 +10,7 @@ Last November, both of Georgia's senate seats were up for grabs, but since no ca
 This is the runoff for the regular election, where incumbent Senator David Perdue (R) is looking for reelection against Jon Ossoff. Perdue won the first round, but was unable to secure more than 50% of the vote, triggering the runoff.
 
 ### Chance of Winning
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/regularchances.html" height="400" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/regularchances.html" height="300" width="100%"></iframe>
 This is the *likelihood* of a candidate winning, not a guarantee.
 
 ### Forecasted Vote Share
@@ -33,7 +33,7 @@ How the candidates' odds of victory have changed over the course of time.
 Senator Kelly Loeffler was appointed to her seat by Governor Brian Kemp (R) to replace Senator Johnny Isakson (R) who resigned. For special elections, Georgia holds a blanket primary (more commonly known as a "jungle primary") where all candidates, regardless of party, appear on the same ballot. No one was able to receive the necessary 50%, so Loeffler is now facing Raphael Warnock in a bid to serve out the rest of Isakson’s term.
 
 ### Chance of Winning
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/specialchances.html" height="400" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/specialchances.html" height="300" width="100%"></iframe>
 This is the *likelihood* of a candidate winning, not a guarantee.
 
 ### Forecasted Vote Share
