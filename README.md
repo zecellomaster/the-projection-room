@@ -1,10 +1,5 @@
----
-theme: jekyll-theme-cayman
-title: "GA Runoffs"
-permalink: /testing/
----
 # Georgia Senate Runoffs Forecast
-Last November, both of Georgia's senate seats were up for grabs, but since no candidate in either race won over 50% of the vote, the top two vote-getters in each race qualified for a runoff on January 5th. As vice-president-elect, Kamala Harris (D-CA) will hold the tie breaking vote in the Senate if it comes down to a 50-50 split, effectively giving the Democratic Party slight control the Senate. This will only happen if Democrats Jon Ossoff and Raphael Warnock *both* win their runoffs against Republicans David Perdue and Kelly Loeffler respectively. However, if either Republican wins, the GOP majority in the chamber will be preserved.
+Last November, both of Georgia's senate seats were up for grabs, but since no candidate in either race won over 50% of the vote, the top two vote-getters in each race qualified for a [runoff on January 5th](https://fivethirtyeight.com/features/georgias-runoffs-will-determine-control-of-the-senate-heres-what-we-know-so-far/). As vice-president-elect, Kamala Harris (D-CA) will hold the tie breaking vote in the Senate if it comes down to a 50-50 split, effectively giving the Democratic Party slight control the Senate. This will only happen if Democrats Jon Ossoff and Raphael Warnock *both* win their runoffs against Republicans David Perdue and Kelly Loeffler respectively. However, if either Republican wins, the GOP majority in the chamber will be preserved.
 
 ## Regular Election
 This is the runoff for the regular election, where incumbent Senator David Perdue (R) is looking for reelection against Jon Ossoff. Perdue won the first round, but was unable to secure more than 50% of the vote, triggering the runoff.
