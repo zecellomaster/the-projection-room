@@ -4,7 +4,7 @@ title: "Alaska Forecast"
 permalink: /alaska/
 ---
 
-[<< Back to national forecast <<](https://theprforecast.com)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Alaska (3 Electoral Votes)
 
