@@ -3,8 +3,7 @@ theme: jekyll-theme-cayman
 title: "Alabama Forecast"
 permalink: /alabama/
 ---
-
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Alabama (9 Electoral Votes)
 
