@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Massachusetts Forecast"
-permalink: /massachusetts/
+permalink: /president-2020/massachusetts/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Massachusetts (11 Electoral Votes)
 
