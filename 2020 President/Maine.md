@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Maine Forecast"
-permalink: /maine/
+permalink: /president-2020/maine/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Maine: Statewide (2 Electoral Votes)
 
