@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Minnesota Forecast"
-permalink: /minnesota/
+permalink: /president-2020/minnesota/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Minnesota (10 Electoral Votes)
 
