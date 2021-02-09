@@ -4,7 +4,7 @@ title: "2020 Presidential Forecast"
 permalink: /president-2020/
 ---
 # 2020 Presidential Election Forecast
-Hi there! This is the archived page of our 2020 election. [Click here](https://zecellomaster.github.io/the-projection-room/) to go back to the main page.
+Hi there! This is the archived page of our 2020 election forecast. [Click here](https://zecellomaster.github.io/the-projection-room/) to go back to the main page.
 
 **Update (11/14/20)**: The final calls have been made by all major networks, and it appears Joesph R. Biden Jr. [has won the electoral college 306-232](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=election_recirc), a margin of 74 votes. Ironically, this is the same result as Donald J. Trump's 2016 victory over Hillary R. Clinton (if the faithless electors are discarded). The state calls are enough to do some preliminary analysis (which will come eventually), but the overal vote count will still take time, so a more in-depth look about where the model failed and succeeded will be a bit longer down the road.
 
