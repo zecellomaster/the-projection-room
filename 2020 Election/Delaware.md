@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Delaware Forecast"
-permalink: /delaware/
+permalink: /president-2020/delaware/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Delaware (3 Electoral Votes)
 
