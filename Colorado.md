@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Colorado Forecast"
-permalink: /colorado/
+permalink: /president-2020/colorado/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Colorado (9 Electoral Votes)
 
