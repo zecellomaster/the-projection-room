@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "District of Columbia"
-permalink: /district-of-columbia/
+permalink: /president-2020/district-of-columbia/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # District of Columbia (3 Electoral Votes)
 
