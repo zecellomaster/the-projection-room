@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Maine CD-1 Forecast"
-permalink: /maine-cd-1/
+permalink: /president-2020/maine-cd-1/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Maine's 1st Congressional District (1 Electoral Vote)
 
