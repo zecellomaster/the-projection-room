@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Arizona Forecast"
-permalink: /arizona/
+permalink: /president-2020/arizona/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
