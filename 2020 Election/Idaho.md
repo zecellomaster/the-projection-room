@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Idaho Forecast"
-permalink: /idaho/
+permalink: /president-2020/idaho/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Idaho (4 Electoral Votes)
 
