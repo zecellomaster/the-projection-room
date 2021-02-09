@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Iowa Forecast"
-permalink: /iowa/
+permalink: /president-2020/iowa/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Iowa (6 Electoral Votes)
 
