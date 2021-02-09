@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Michigan Forecast"
-permalink: /michigan/
+permalink: /president-2020/michigan/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Michigan (16 Electoral Votes)
 
