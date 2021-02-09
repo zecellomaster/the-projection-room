@@ -4,7 +4,7 @@ title: "Illinois Forecast"
 permalink: /president-2020/illinois/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Illinois (20 Electoral Votes)
 
