@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Hawaii Forecast"
-permalink: /hawaii/
+permalink: /president-2020/hawaii/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Hawaii (4 Electoral Votes)
 
