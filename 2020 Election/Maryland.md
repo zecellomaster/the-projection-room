@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Maryland Forecast"
-permalink: /maryland/
+permalink: /president-2020/maryland/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Maryland (10 Electoral Votes)
 
