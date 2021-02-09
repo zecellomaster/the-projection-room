@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Maine CD-2 Forecast"
-permalink: /maine-cd-2/
+permalink: /president-2020/maine-cd-2/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Maine's 2nd Congressional District (1 Electoral Vote)
 
