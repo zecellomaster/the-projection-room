@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Georgia Forecast"
-permalink: /georgia/
+permalink: /president-2020/georgia/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Georgia (16 Electoral Votes)
 
