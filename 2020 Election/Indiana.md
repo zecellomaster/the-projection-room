@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Indiana Forecast"
-permalink: /indiana/
+permalink: /president-2020/indiana/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Indiana (11 Electoral Votes)
 
