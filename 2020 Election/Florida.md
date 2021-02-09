@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Florida Forecast"
-permalink: /florida/
+permalink: /president-2020/florida/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Florida (29 Electoral Votes)
 
