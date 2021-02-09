@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Kentucky Forecast"
-permalink: /kentucky/
+permalink: /president-2020/kentucky/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Kentucky (8 Electoral Votes)
 
