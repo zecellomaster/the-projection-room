@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "Alaska Forecast"
-permalink: /alaska/
+permalink: /president-2020/alabama/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
