@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Connecticut Forecast"
-permalink: /connecticut/
+permalink: /president-2020/connecticut/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Connecticut (7 Electoral Votes)
 
