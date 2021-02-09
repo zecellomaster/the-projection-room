@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Arkansas Forecast"
-permalink: /arkansas/
+permalink: /president-2020/arkansas/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Arkansas (6 Electoral Votes)
 
