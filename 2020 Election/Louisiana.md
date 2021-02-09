@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Louisiana Forecast"
-permalink: /louisiana/
+permalink: /president-2020/louisiana/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Louisiana (8 Electoral Votes)
 
