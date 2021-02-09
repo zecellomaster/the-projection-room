@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "California Forecast"
-permalink: /california/
+permalink: /president-2020/california/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # California (55 Electoral Votes)
 
