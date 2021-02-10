@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Nebraska CD-3 Forecast"
-permalink: /nebraska-cd-3/
+permalink: /president-2020/nebraska-cd-3/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Nebraska's 3rd Congressional District (1 Electoral Vote)
 
