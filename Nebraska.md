@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Nebraska Forecast"
-permalink: /nebraska/
+permalink: /president-2020/nebraska/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Nebraska: Statewide (2 Electoral Votes)
 
