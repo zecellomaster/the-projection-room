@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "New Hampshire Forecast"
-permalink: /new-hampshire/
+permalink: /president-2020/new-hampshire/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # New Hampshire (4 Electoral Votes)
 
