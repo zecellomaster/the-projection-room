@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Pennsylvania Forecast"
-permalink: /pennsylvania/
+permalink: /president-2020/pennsylvania/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Pennsylvania (20 Electoral Votes)
 
