@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Mississippi Forecast"
-permalink: /mississippi/
+permalink: /president-2020/mississippi/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Mississippi (6 Electoral Votes)
 
