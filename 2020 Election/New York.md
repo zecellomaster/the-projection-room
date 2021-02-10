@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "New York Forecast"
-permalink: /new-york/
+permalink: /president-2020/new-york/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # New York (29 Electoral Votes)
 
