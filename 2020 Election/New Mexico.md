@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "New Mexico Forecast"
-permalink: /president-2020//new-mexico/
+permalink: /president-2020/new-mexico/
 ---
 
 [<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
