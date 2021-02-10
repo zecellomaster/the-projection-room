@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Nebraska CD-1 Forecast"
-permalink: /nebraska-cd-1/
+permalink: /president-2020/nebraska-cd-1/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Nebraska's 1st Congressional District (1 Electoral Vote)
 
