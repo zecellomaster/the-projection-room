@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Ohio Forecast"
-permalink: /ohio/
+permalink: /president-2020/ohio/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Ohio (18 Electoral Votes)
 
