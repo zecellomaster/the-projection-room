@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "New Jersey Forecast"
-permalink: /new-jersey/
+permalink: /president-2020/new-jersey/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # New Jersey (14 Electoral Votes)
 
