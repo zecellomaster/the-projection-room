@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Nevada Forecast"
-permalink: /nevada/
+permalink: /president-2020/nevada/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Nevada (6 Electoral Votes)
 
