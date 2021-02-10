@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Oregon Forecast"
-permalink: /oregon/
+permalink: /president-2020/oregon/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Oregon (7 Electoral Votes)
 
