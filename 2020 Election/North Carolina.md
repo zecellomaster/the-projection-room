@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "North Carolina Forecast"
-permalink: /north-carolina/
+permalink: /president-2020/north-carolina/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # North Carolina (15 Electoral Votes)
 
