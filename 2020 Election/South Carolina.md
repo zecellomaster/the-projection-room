@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "South Carolina Forecast"
-permalink: /south-carolina/
+permalink: /president-2020/south-carolina/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # South Carolina (9 Electoral Votes)
 
