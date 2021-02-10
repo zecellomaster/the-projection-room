@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Missouri Forecast"
-permalink: /missouri/
+permalink: /president-2020/missouri/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Missouri (10 Electoral Votes)
 
