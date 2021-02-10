@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "New Mexico Forecast"
-permalink: /new-mexico/
+permalink: /president-2020//new-mexico/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # New Mexico (5 Electoral Votes)
 
