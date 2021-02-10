@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "North Dakota Forecast"
-permalink: /north-dakota/
+permalink: /president-2020/north-dakota/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # North Dakota (3 Electoral Votes)
 
