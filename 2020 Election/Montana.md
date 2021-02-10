@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Montana Forecast"
-permalink: /montana/
+permalink: /president-2020/montana/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Montana (3 Electoral Votes)
 
