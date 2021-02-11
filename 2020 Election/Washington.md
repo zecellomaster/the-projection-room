@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Washington Forecast"
-permalink: /washington/
+permalink: /president-2020/washington/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Washington (12 Electoral Votes)
 
