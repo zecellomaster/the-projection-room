@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Wyoming Forecast"
-permalink: /wyoming/
+permalink: /president-2020/wyoming/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Wyoming (3 Electoral Votes)
 
