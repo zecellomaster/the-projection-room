@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Tennessee Forecast"
-permalink: /tennessee/
+permalink: /president-2020/tennessee/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Tennessee (11 Electoral Votes)
 
