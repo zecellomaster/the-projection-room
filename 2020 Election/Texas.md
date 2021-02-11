@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Texas Forecast"
-permalink: /texas/
+permalink: /president-2020/texas/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Texas (38 Electoral Votes)
 
