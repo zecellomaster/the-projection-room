@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Utah Forecast"
-permalink: /utah/
+permalink: /president-2020/utah/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Utah (6 Electoral Votes)
 
