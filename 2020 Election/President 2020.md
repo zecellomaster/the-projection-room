@@ -5,7 +5,7 @@ permalink: /president-2020/
 ---
 
 <meta name="twitter:card" content="summary">
-<meta property="og:image" content="https://github.com/zecellomaster/the-projection-room/blob/master/websitefavicon3.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 
 
 # 2020 Presidential Election Forecast
