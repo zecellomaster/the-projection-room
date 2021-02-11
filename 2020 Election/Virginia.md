@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Virginia Forecast"
-permalink: /virginia/
+permalink: /president-2020/virginia/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Virginia (13 Electoral Votes)
 
