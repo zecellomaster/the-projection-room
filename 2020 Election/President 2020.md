@@ -3,6 +3,11 @@ theme: jekyll-theme-cayman
 title: "2020 Presidential Forecast"
 permalink: /president-2020/
 ---
+<html>
+    <meta name="twitter:card" content="summary">
+    <meta property="og:image" content="https://github.com/zecellomaster/the-projection-room/blob/master/websitefavicon3.png">
+<html>
+
 # 2020 Presidential Election Forecast
 Hi there! This is the archived page of our 2020 election forecast. [Click here](https://zecellomaster.github.io/the-projection-room/) to go back to the main page.
 
