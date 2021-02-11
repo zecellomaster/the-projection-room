@@ -1,3 +1,6 @@
+<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
+
 # Georgia Senate Runoffs Forecast
 
 ***Update 01/05/2021**: 538 has stopped updating their database for these races, so this forecast is final.*
