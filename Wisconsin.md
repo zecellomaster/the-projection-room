@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Wisconsin Forecast"
-permalink: /wisconsin/
+permalink: /president-2020/wisconsin/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Wisconsin (10 Electoral Votes)
 
