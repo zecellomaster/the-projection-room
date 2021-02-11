@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "West Virginia Forecast"
-permalink: /west-virginia/
+permalink: /president-2020/west-virginia/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # West Virginia (5 Electoral Votes)
 
