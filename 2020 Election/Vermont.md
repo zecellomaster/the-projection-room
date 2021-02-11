@@ -1,10 +1,10 @@
 ---
 theme: jekyll-theme-cayman
 title: "Vermont Forecast"
-permalink: /vermont/
+permalink: /president-2020/vermont/
 ---
 
-[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/)
+[<< Back to national forecast <<](https://zecellomaster.github.io/the-projection-room/president-2020/)
 
 # Vermont (3 Electoral Votes)
 
