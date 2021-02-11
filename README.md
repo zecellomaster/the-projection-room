@@ -1,5 +1,9 @@
 <meta name="twitter:card" content="summary">
+<meta property="og:title" content="The Projection Room Forecast">
+<meta property="og:description" content="Main Page">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
+<meta property="og:url" content="https://theprforecast.com/">
+
 
 # Georgia Senate Runoffs Forecast
 
