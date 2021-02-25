@@ -1,6 +1,6 @@
 {
-  "name": "reactapp",
-  "version": "0.1.0",
+  "name": "the-projection-room",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
@@ -35,5 +35,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "An amateur forecast modeling website that predicts elections, sports, and more.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zecellomaster/the-projection-room.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zecellomaster/the-projection-room/issues"
   }
 }
