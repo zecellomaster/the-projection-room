@@ -13,10 +13,10 @@ Welcome to the main page of The Projection Room Forecast. Here you will find our
 [2]: https://theprforecast.com/
 
 
-[!["2020 Presidential Election Forecast"][1]][2]
+[!["2020 Presidential Election Forecast"][3]][4]
 
-[1]: https://github.com/zecellomaster/the-projection-room/blob/master/Preview%20Photos/Presidential%20Election.jpg
-[2]: https://theprforecast.com/president-2020/
+[3]: https://github.com/zecellomaster/the-projection-room/blob/master/Preview%20Photos/Presidential%20Election.jpg
+[4]: https://theprforecast.com/president-2020/
 
 
 Check us out on Twitter: [theprforecast](https://twitter.com/theprforecast)
