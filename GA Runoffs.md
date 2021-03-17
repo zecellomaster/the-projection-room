@@ -1,3 +1,9 @@
+---
+theme: jekyll-theme-cayman
+title: "Home Page"
+permalink: /ga-runoffs-2021/
+---
+
 <meta name="twitter:card" content="summary">
 <meta property="og:title" content="The Projection Room Forecast">
 <meta property="og:description" content="An amateur forecast modeling website that predicts elections, sports, and more.">
