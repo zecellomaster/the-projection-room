@@ -6,6 +6,13 @@ Welcome to the main page of The Projection Room Forecast. Here you will find our
 [1]: https://github.com/zecellomaster/the-projection-room/blob/master/Preview%20Photos/Georgia%20Runoffs.jpg
 [2]: https://theprforecast.com/
 
+
+[!["2020 Presidential Election Forecast"][1]][2]
+
+[1]: https://github.com/zecellomaster/the-projection-room/blob/master/Preview%20Photos/Presidential%20Election.jpg
+[2]: https://theprforecast.com/president-2020/
+
+
 Check us out on Twitter: [theprforecast](https://twitter.com/theprforecast)
 Page built by [@zecellomaster](https://twitter.com/zecellomaster)
 Found any errors? Want to make a suggestion? Have any comments? Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
