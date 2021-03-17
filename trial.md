@@ -22,7 +22,7 @@ Welcome to the main page of The Projection Room Forecast. Here you will find our
 [4]: https://theprforecast.com/president-2020/
 
 
-Check us out on Twitter: [theprforecast](https://twitter.com/theprforecast)
+Check us out on Twitter: [@theprforecast](https://twitter.com/theprforecast)
 
 Page built by [@zecellomaster](https://twitter.com/zecellomaster)
 
