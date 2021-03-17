@@ -1,3 +1,9 @@
+---
+theme: jekyll-theme-cayman
+title: "Home Page"
+permalink: /trial/
+---
+
 # Home Page
 Welcome to the main page of The Projection Room Forecast. Here you will find our previous and current projects.
 
