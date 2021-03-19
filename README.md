@@ -18,7 +18,7 @@ Welcome to the main page of The Projection Room Forecast! Here you will find our
 
 Check us out on Twitter: [@theprforecast](https://twitter.com/theprforecast)
 
-<a class="twitter-timeline" data-width="550" data-height="450" href="https://twitter.com/theprforecast?ref_src=twsrc%5Etfw">Tweets by theprforecast</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><a class="twitter-timeline" data-width="550" data-height="450" href="https://twitter.com/theprforecast?ref_src=twsrc%5Etfw">Tweets by theprforecast</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Page built by [@zecellomaster](https://twitter.com/zecellomaster)
 
