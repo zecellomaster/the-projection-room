@@ -10,6 +10,7 @@ permalink: /ga-runoffs-2021/
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 <meta property="og:url" content="https://theprforecast.com/">
 
+[<<Back to Home Page<<](https://theprforecast.com/)
 
 # Georgia Senate Runoffs Forecast
 
