@@ -7,6 +7,7 @@ permalink: /president-2020/
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 
+[<<Back to Home Page<<](https://theprforecast.com/)
 
 # 2020 Presidential Election Forecast
 Hi there! This is the archived page of our 2020 election forecast. [Click here](https://zecellomaster.github.io/the-projection-room/) to go back to the main page.
