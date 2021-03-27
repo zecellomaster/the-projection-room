@@ -1,3 +1,10 @@
+
+<meta name="twitter:card" content="summary">
+<meta property="og:title" content="The Projection Room Forecast">
+<meta property="og:description" content="An amateur forecast modeling website that predicts elections, sports, and more.">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
+<meta property="og:url" content="https://theprforecast.com/">
+
 # Home Page
 Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects.
 
