@@ -6,7 +6,7 @@
 <meta property="og:url" content="https://theprforecast.com/">
 
 # Home Page
-Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects.
+Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects. Just click on the image links to check them out.
 
 
 [!["2021 Georgia Runoffs Forecast"][1]][2]
