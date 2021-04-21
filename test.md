@@ -4,4 +4,4 @@ title: "Test"
 permalink: /test/
 ---
 
-<script src="http://gist-it.appspot.com/https://github.com/zecellomaster/tprdatarepo/blob/main/Season%20Table.html"></script>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/SeasonTable.html" height="300" width="100%"></iframe> 
