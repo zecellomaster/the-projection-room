@@ -4,5 +4,4 @@ title: "Test"
 permalink: /test/
 ---
 
-<iframe src="https://drive.google.com/file/d/1ih_kd81Bzhyhih-BUk5wdqgnQZIHa6tl/view?usp=sharing" width="640" height="480"></iframe>
-
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://github.com/zecellomaster/tprdatarepo/blob/main/Season%20Table.html" height="300" width="100%"></iframe>
