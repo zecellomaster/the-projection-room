@@ -41,7 +41,7 @@ MLS Archive Data courtesy [Joseph Mohr](https://www.kaggle.com/josephvm/major-le
 
 This forecast uses the scripts and data found in our [MLS Elo Forecast](https://github.com/zecellomaster/MLSEloForecast) repository.
 
-Follow us on Twitter: [@theprforecast](https://twitter.com/theprforecast).
+Follow us on Twitter: [@theprforecast](https://twitter.com/theprforecast)
 
 Check out our [other forecasts](https://zecellomaster.github.io/the-projection-room).
 
