@@ -8,7 +8,7 @@ permalink: /2021-mls-forecast/
 An Elo-based forecast model for the 2021 MLS Season that predicts end of season results.
 
 ## Current Forecast
-<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/SeasonTable.html" height="1000" width="100%"></iframe>
+<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/SeasonTable.html" height="950" width="100%"></iframe>
 Use the scroll bar to see more probabilities.
 It is important to note that this represents a *likelihood* of events happening (even "0%" and "100%" are approximations).
 
@@ -32,7 +32,6 @@ It is important to note that this represents a *likelihood* of events happening 
 *Make MLS Cup*: The chance a team has to make the 2021 MLS Cup.
 
 *Win MLS Cup*: The chance a team has to win the 2021 MLS Cup.
-
 
 ## Other Stuff
 2021 MLS scores courtesy [SportsReference.com](https://fbref.com/en/comps/22/schedule/Major-League-Soccer-Scores-and-Fixtures).
