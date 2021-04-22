@@ -3,6 +3,8 @@ theme: jekyll-theme-cayman
 title: "Home Page"
 permalink: /ga-runoffs-2021/
 ---
+<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/Georgia%20Runoffs.png">
 
 [<<Back to Home Page<<](https://theprforecast.com/)
 
