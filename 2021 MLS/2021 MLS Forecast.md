@@ -35,6 +35,10 @@ It is important to note that this represents a *likelihood* of events happening 
 
 *Win MLS Cup*: The chance a team has to win the 2021 MLS Cup.
 
+## Soon to Come
+* Match Predictions
+* Conference Forecasts
+
 ## Other Stuff
 2021 MLS scores courtesy [SportsReference.com](https://fbref.com/en/comps/22/schedule/Major-League-Soccer-Scores-and-Fixtures).
 
