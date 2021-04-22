@@ -3,6 +3,8 @@ theme: jekyll-theme-cayman
 title: "2021 MLS Forecast Main Page"
 permalink: /2021-mls-forecast/
 ---
+<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 
 # 2021 MLS Forecast
 An Elo-based forecast model for the 2021 MLS Season that predicts end of season results.
