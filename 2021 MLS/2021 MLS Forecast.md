@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "2021 MLS Forecast Main Page"
-permalink: /2021-mls-forecast/
+permalink: /mls-forecast-2021/
 ---
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
