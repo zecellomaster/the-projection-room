@@ -35,11 +35,11 @@ It is important to note that this represents a *likelihood* of events happening 
 
 *Win MLS Cup*: The chance a team has to win the 2021 MLS Cup.
 
-## Match Preditions
+## Match Predictions
 ### Next Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/NextGames.html" height="650" width="100%"></iframe>
 
-*What's "SIWI"?*: The "**S**hould **I** **W**atch **I**t?" rating is a measure of how competitive a match could be depending on both how evenly matched the two teams are and how good they are compared to the rest of the leauge. A high SIWI indicates two strong teams are facing off while a low SIWI indicates two weak teams, or a good team and a weak team are clashing.
+*What's "SIWI"?* : The "**S**hould **I** **W**atch **I**t?" rating is a measure of how competitive a match could be depending on both how evenly matched the two teams are and how good they are compared to the rest of the leauge. A high SIWI indicates two strong teams are facing off while a low SIWI indicates two weak teams, or a good team and a weak team are clashing.
 
 ### Completed Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/FinishedGames.html" height="600" width="100%"></iframe>
