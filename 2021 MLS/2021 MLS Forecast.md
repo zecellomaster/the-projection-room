@@ -10,7 +10,7 @@ permalink: /mls-forecast-2021/
 An Elo-based forecast model for the 2021 MLS Season that predicts end of season results.
 
 ## Current Forecast
-<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/SeasonTable.html" height="1000" width="100%"></iframe>
+<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/SeasonTable.html" height="1000" width="100%"></iframe>
 Use the scroll bar to see more probabilities.
 It is important to note that this represents a *likelihood* of events happening (even "0%" and "100%" are approximations).
 
