@@ -6,15 +6,17 @@
 <meta property="og:url" content="https://theprforecast.com/">
 
 # Home Page
-Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects. Just click on the image links to check them out.
+Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects. Just click on the links to check them out.
+
+[!["2021 Major League Soccer Forecast"][5]][6]
+[5]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/MLS%20Preview.jpg
+[6]: https://theprforecast.com/mls-forecast-2021/
 
 
 [!["2021 Georgia Runoffs Forecast"][1]][2]
 
 [1]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/Georgia%20Runoffs.png
 [2]: https://theprforecast.com/ga-runoffs-2021/
-
-
 
 
 [!["2020 Presidential Election Forecast"][3]][4]
