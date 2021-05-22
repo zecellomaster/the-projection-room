@@ -37,7 +37,9 @@ It is important to note that this represents a *likelihood* of events happening 
 
 # Changes Over Time
 How the forecast has altered over the course of the season.
+<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Make the Playoffs Over Time (Eastern Conference) OverTime.jpg" height="100%" width="100%"></iframe>
 
+<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Clinch a First Round Bye Over Time (Eastern Conference) OverTime.jpg" height="100%" width="100%"></iframe>
 
 ## Other Stuff
 2021 MLS scores courtesy [SportsReference.com](https://fbref.com/en/comps/22/schedule/Major-League-Soccer-Scores-and-Fixtures).
