@@ -8,7 +8,7 @@ permalink: /mls-forecast-2021/methodology
 
 # MLS Forecast Methodology
 
-[<<Back to the forecast<<](https://zecellomaster.github.io/the-projection-room/2021-mls-forecast/)
+[<<Back to the forecast<<](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021/)
 
 The Projection Room Forecast has previously been restricted to predicting political events, with our other forecasts focused on the [2020 Presidential Election](https://zecellomaster.github.io/the-projection-room/president-2020/) and the [2021 Georgia Senate Runoffs](https://zecellomaster.github.io/the-projection-room/ga-runoffs-2021/).
 
