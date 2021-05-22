@@ -1,3 +1,11 @@
+---
+theme: jekyll-theme-cayman
+title: "MLS Forecast Methodology Page"
+permalink: /mls-forecast-2021/methodology
+---
+<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
+
 # MLS Forecast Methodology
 
 [<<Back to the forecast<<](https://zecellomaster.github.io/the-projection-room/2021-mls-forecast/)
