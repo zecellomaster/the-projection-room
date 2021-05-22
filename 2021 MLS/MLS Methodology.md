@@ -72,7 +72,7 @@ Note that if a team is expected to win, the number of points they gain is *less*
 
 4) This process is done chronologically for every MLS game ever played. After each match, the teams' Elos are updated and used to calculate their next matches and so on. At the end of each season, the ratings are [regressed to the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) Elo of 1500 by a factor of 1 to 3. This helps account for personnel changes as well as the fact that a team could have just had a lucky or unlucky season.
 
-But are these ratings legit? Well, Elo ratings are meant to be predictive, and if properly calibrated, an Elo win expectancy of 60% means that on average, the team will win about 60% of the time.
+But are these ratings legit? Well, Elo ratings are meant to be predictive, and if properly calibrated, an Elo win expectancy of 60% means that on average the team will win about 60% of the time.
 
 We can apply this to all MLS games with a winner and a loser that occurred from 1996 to 2020 to create a calibration chart. Each bubble (a.k.a. bin) represents a certain number of match results. The horizontal axis represents a win/loss probability where each bin is centered around multiples of 5% and includes probabilities 2.5% greater or less than its center (i.e. the 60% bin includes probabilities from 57.5% to 62.5%). The vertical axis represents the *actual* result rate, or how many times the prediction result happened.
 
@@ -80,7 +80,7 @@ If a forecast is perfectly calibrated, then all the bins should inhabit a 45 deg
 
 ![MLS Elo Cal Chart](https://user-images.githubusercontent.com/67310349/119240257-7452e480-bb1c-11eb-9b04-7c23adf298ff.jpg)
 
-This is a fairly well calibrated ratings system, although it is a bit bullish on teams that have a >50% chance of winning, while bearish on their opponents. Moreover, the tight spread of distributions emphasize how competitive the MLS is; it's rare to have matches where a team is an overwhelming favorite.
+This is a fairly well calibrated rating system, although it is a bit bullish on teams that have a >50% chance of winning, while bearish on their opponents. Moreover, the tight spread of distributions emphasize how competitive the MLS is; it's rare to have matches where a team is an overwhelming favorite.
 
 ## Turning Ratings Into Predictions
 Win expectancy is cool and all, but it only accounts for win/loss, which doesn't help much in a trinary game such has soccer (since a team can win, lose, **or** draw). For this, a Poisson process is employed.
