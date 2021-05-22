@@ -70,7 +70,7 @@ We can apply this to all MLS games with a winner and a loser that occurred from 
 
 If a forecast is perfectly calibrated, then all the bins should inhabit a 45 degree line.
 
-[Insert calibration chart]
+![MLS Elo Cal Chart](https://user-images.githubusercontent.com/67310349/119240257-7452e480-bb1c-11eb-9b04-7c23adf298ff.jpg)
 
 This is a fairly well calibrated ratings system, although it is a bit bullish on teams that have a >50% chance of winning, while bearish on their opponents. Moreover, the tight spread of distributions emphasize how competitive the MLS is; it's rare to have matches where a team is an overwhelming favorite.
 
@@ -91,13 +91,14 @@ The Poisson regressions can be used in tandem with the Elo ratings (adjusted for
 
 For example, here are the distributions for the Orlando City vs FC Cincinnati match on May 1st, 2021
 
-[Orlando and FC Cincinnati Distributions]
+![FC Cincinnati](https://user-images.githubusercontent.com/67310349/119240183-1920f200-bb1c-11eb-99f6-2b6c453816bc.jpg)
+![Orlando City](https://user-images.githubusercontent.com/67310349/119240205-335ad000-bb1c-11eb-8794-5d2f8dc6b3d8.jpg)
 
-These distributions can combined to make a score probability matrix of the match.
+These distributions can combined to make a score probability matrix of the match. Below is a visualization of that.
 
-[Show example matrix]
+![MatchMatrix](https://user-images.githubusercontent.com/67310349/119240232-52f1f880-bb1c-11eb-91d4-73d2f37c9098.jpg)
 
-From this, the probability of all match results (win, loss, or draw) can be quantified. Due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with 74% chance of wining. They won 3-0.
+From this, the probability of all match results (win, loss, or draw) can be quantified. In this example, due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with 74% chance of wining. They won 3-0.
 
 The same process is done for every future match in the season. This forecast is run "hot", which means these simulated results get treated like actual results and are used to adjust Elo ratings. This way, a wider range of events can be observed, such as a bad team going on a win streak and overperforming expectations, or a good team playing poorly and underperforming them.
 
@@ -109,7 +110,8 @@ For playoff matches, draws are not possible, so in the occurrence of a draw, the
 As stated prior, expansion teams (such as Austin FC for the 2021 Season) are given the same Elo rating as any starting team. For their distributions, however, a little creativity is needed.
 
 Generally speaking, expansion teams don't really do so well in their inaugural season.
-[insert Expansion Elo Here]
+![Expansion Elos](https://user-images.githubusercontent.com/67310349/119240242-61401480-bb1c-11eb-9678-b11856f9e129.jpg)
+![MLS Elo Cal Chart](https://user-images.githubusercontent.com/67310349/119240252-6e5d0380-bb1c-11eb-9566-42c4429cd944.jpg)
 
 This can be due to a variety of reasons, such as the squad lacking chemistry, the youth teams/development system still being structured, an inexperienced coaching staff, etc. So for expansion teams, it is assumed that there strength is *somewhere* in between that of past expansion teams, meaning the results for the first seasons of all expansion teams since 2005 are used for the Poisson regression. This is changed to their actual match based regressions after they have played enough of them.
 
@@ -129,4 +131,3 @@ Check out our [other forecasts](https://zecellomaster.github.io/the-projection-r
 Page built by [@zecellomaster](https://twitter.com/zecellomaster).
 
 Found any errors? Want to make a suggestion? Have any comments? Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
-
