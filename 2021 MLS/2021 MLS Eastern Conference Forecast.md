@@ -35,7 +35,7 @@ It is important to note that this represents a *likelihood* of events happening 
 
 *Win MLS Cup*: The chance a team has to win the 2021 MLS Cup.
 
-# Changes Over Time
+## Changes Over Time
 How the forecast has altered over the course of the season.
 
 ![Chance to Make Playoffs Over Time - Eastern Conference](https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Make the Playoffs Over Time (Eastern Conference) OverTime.jpg)
