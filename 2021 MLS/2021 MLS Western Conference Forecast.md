@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-title: "2021 MLS Forecast: Eastern Conference"
+title: "2021 MLS Forecast: Western Conference"
 permalink: /mls-forecast-2021/western
 ---
 <meta name="twitter:card" content="summary">
