@@ -9,7 +9,7 @@ permalink: /mls-forecast-2021/
 [<<Back to Home Page<<](https://theprforecast.com/)
 
 # 2021 MLS Forecast
-An Elo-based forecast model for the 2021 MLS Season that predicts end of season results.
+An Elo-based forecast model for the 2021 MLS Season that predicts matches and end of season results.
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/SeasonTable.html" height="1000" width="100%"></iframe>
