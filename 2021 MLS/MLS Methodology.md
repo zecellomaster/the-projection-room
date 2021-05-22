@@ -38,24 +38,25 @@ K is the match weight, G is the goal difference weight, R is the result of the m
 To find the match weight (K) the following values are used:
 <center>
 
-| **Match Type**                                        | **Value**        |
-|-------------------------------------------------------|------------------|
-|     Regular Season Game                               |     20           |
-|     Play-In Round                                     |     25           |
-|     Playoffs; First Round/Conference Quarterfinals    |     30           |
-|     Playoffs; Conference Semifinals                   |     40           |
-|     Playoffs; Conference Finals                       |     50           |
-|     MLS Cup                                           |     60           |
+| Match Type                                     | Value |
+|------------------------------------------------|-------|
+| Regular Season Game                            | 20    |
+| Play-In Round                                  | 25    |
+| Playoffs; First Round/Conference Quarterfinals | 30    |
+| Playoffs; Conference Semifinals                | 40    |
+| Playoffs; Conference Finals                    | 50    |
+| MLS Cup                                        | 60    |
+
 
 </center>
 To find the goal difference weight (G) the following values are used:
 <center>
-
-| **Goal Difference (x)**    | **Value**         |
-|----------------------------|-------------------|
-|     Less or equal to 1     |     1             |
-|     Equal to 2             |     1.5           |
-|     Greater than 3         |     (11 + x)/8    |
+  
+| Goal Difference (x) | Value      |
+|---------------------|------------|
+| Less or equal to 1  | 1          |
+| Equal to 2          | 1.5        |
+| Greater than 3      | (11 + x)/8 |
 
 </center>
 Win expectancy is calculated using the formula:
@@ -119,7 +120,6 @@ As stated prior, expansion teams (such as Austin FC for the 2021 Season) are giv
 
 Generally speaking, expansion teams don't really do so well in their inaugural season.
 ![Expansion Elos](https://user-images.githubusercontent.com/67310349/119240242-61401480-bb1c-11eb-9678-b11856f9e129.jpg)
-![MLS Elo Cal Chart](https://user-images.githubusercontent.com/67310349/119240252-6e5d0380-bb1c-11eb-9566-42c4429cd944.jpg)
 
 This can be due to a variety of reasons, such as the squad lacking chemistry, the youth teams/development system still being structured, an inexperienced coaching staff, etc. So for expansion teams, it is assumed that there strength is *somewhere* in between that of past expansion teams, meaning the results for the first seasons of all expansion teams since 2005 are used for the Poisson regression. This is changed to their actual match based regressions after they have played enough of them.
 
