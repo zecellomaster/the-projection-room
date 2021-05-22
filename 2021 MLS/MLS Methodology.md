@@ -36,6 +36,7 @@ P = KG(R - W)
 K is the match weight, G is the goal difference weight, R is the result of the match (R is 0 for loss, 0.5 for a draw, 1 for a win), and W is the predicted win expectancy for a team.
 
 To find the match weight (K) the following values are used:
+
 <center>
 
 | Match Type                                     | Value |
@@ -47,9 +48,10 @@ To find the match weight (K) the following values are used:
 | Playoffs; Conference Finals                    | 50    |
 | MLS Cup                                        | 60    |
 
-
 </center>
+
 To find the goal difference weight (G) the following values are used:
+
 <center>
   
 | Goal Difference (x) | Value      |
@@ -59,12 +61,15 @@ To find the goal difference weight (G) the following values are used:
 | Greater than 3      | (11 + x)/8 |
 
 </center>
+
 Win expectancy is calculated using the formula:
+
 <center>
 
 W = 1/(10^(dr/400) + 1)
 
 </center>
+
 Where dr is the difference in Elo ratings.
 
 3) Using the games' results, add/subtract the number of points calculated (rounded to the nearest integer) to the both of the team's ratings. This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. Team A gets 2 points, Team B will lose 2 points).
