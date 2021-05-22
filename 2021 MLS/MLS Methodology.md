@@ -37,6 +37,8 @@ K is the match weight, G is the goal difference weight, R is the result of the m
 
 To find the match weight (K) the following values are used:
 
+<div align="center">
+
 | Match Type                                     | Value |
 |------------------------------------------------|-------|
 | Regular Season Game                            | 20    |
@@ -46,10 +48,13 @@ To find the match weight (K) the following values are used:
 | Playoffs; Conference Finals                    | 50    |
 | MLS Cup                                        | 60    |
 
+</div>
+
 Note: For the *2020 MLS is Back Tournament*, the semifinals are weighted as conference finals, the quarterfinals are weighted as conference semifinals, and so on.
 
 To find the goal difference weight (G) the following values are used:
 
+<div align="center">
   
 | Goal Difference (x) | Value      |
 |---------------------|------------|
@@ -57,6 +62,7 @@ To find the goal difference weight (G) the following values are used:
 | Equal to 2          | 1.5        |
 | Greater than 3      | (11 + x)/8 |
 
+<div>
 
 Win expectancy is calculated using the formula:
 
