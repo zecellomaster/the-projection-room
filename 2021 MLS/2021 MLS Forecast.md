@@ -6,15 +6,24 @@ permalink: /mls-forecast-2021/
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 
-[<<Back to Home Page<<](https://theprforecast.com/)
+[<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
 # 2021 MLS Forecast
 An Elo-based forecast model for the 2021 MLS Season that predicts matches and end of season results.
+
+See the [Eastern Conference](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021/eastern) and [Western Conference](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021/western) forecasts.
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/SeasonTable.html" height="1000" width="100%"></iframe>
 Use the scroll bar to see more probabilities.
 It is important to note that this represents a *likelihood* of events happening (even "0%" and "100%" are approximations).
+
+## Changes Over Time
+How the forecast has altered over the course of the season.
+
+![Chance to Win Supporters' Shield Over Time](https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Win the Supporter's Shield Over Time OverTime.jpg)
+
+![Chance to Win the MLS Cup Over Time](https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Win the MLS Cup Over Time OverTime.jpg)
 
 ### Legend
 *Elo*: The current Elo ratings for all teams. The average Elo rating is 1500 points.
@@ -50,7 +59,6 @@ It is important to note that this represents a *likelihood* of events happening 
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/UpcomingGames.html" height="600" width="100%"></iframe>
 
 ## Soon to Come
-* Conference Forecasts
 * Methodology
 
 ## Other Stuff
