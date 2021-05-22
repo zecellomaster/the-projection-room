@@ -107,7 +107,7 @@ These distributions can combined to make a score probability matrix of the match
 
 ![MatchMatrix](https://user-images.githubusercontent.com/67310349/119240232-52f1f880-bb1c-11eb-91d4-73d2f37c9098.jpg)
 
-From this, the probability of all match results (win, loss, or draw) can be quantified. In this example, due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with 74% chance of wining. They won 3-0.
+From this, the probability of all match results (win, loss, or draw) can be quantified. In the above math, due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with a 74% chance of wining. They won 3-0.
 
 The same process is done for every future match in the season. This forecast is run "hot", which means these simulated results get treated like actual results and are used to adjust Elo ratings. This way, a wider range of events can be observed, such as a bad team going on a win streak and overperforming expectations, or a good team playing poorly and underperforming them.
 
