@@ -6,11 +6,11 @@ permalink: /mls-forecast-2021/eastern
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 
-#2021 MLS Eastern Conference Forecast
+# 2021 MLS Eastern Conference Forecast
 [<<Back to Main Forecast Page<<](https://theprforecast.com/mls-forecast-2021)
 
 ## Current Forecast
-<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/EastTable.html" height="1000" width="100%"></iframe>
+<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/EastTable.html" height="100" width="100%"></iframe>
 Use the scroll bar to see more probabilities.
 It is important to note that this represents a *likelihood* of events happening (even "0%" and "100%" are approximations).
 
@@ -35,7 +35,7 @@ It is important to note that this represents a *likelihood* of events happening 
 
 *Win MLS Cup*: The chance a team has to win the 2021 MLS Cup.
 
-#Changes Over Time
+# Changes Over Time
 How the forecast has altered over the course of the season.
 
 
