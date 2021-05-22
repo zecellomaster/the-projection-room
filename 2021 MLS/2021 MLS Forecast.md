@@ -18,13 +18,6 @@ See the [Eastern Conference](https://zecellomaster.github.io/the-projection-room
 Use the scroll bar to see more probabilities.
 It is important to note that this represents a *likelihood* of events happening (even "0%" and "100%" are approximations).
 
-## Changes Over Time
-How the forecast has altered over the course of the season.
-
-![Chance to Win Supporters' Shield Over Time](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20MLS/Win%20the%20MLS%20Cup%20Over%20Time%20%20OverTime.jpg)
-
-![Chance to Win the MLS Cup Over Time](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20MLS/Win%20the%20Supporter's%20Shield%20Over%20Time%20%20OverTime.jpg)
-
 ### Legend
 *Elo*: The current Elo ratings for all teams. The average Elo rating is 1500 points.
 
@@ -45,6 +38,13 @@ How the forecast has altered over the course of the season.
 *Make MLS Cup*: The chance a team has to make the 2021 MLS Cup.
 
 *Win MLS Cup*: The chance a team has to win the 2021 MLS Cup.
+
+## Changes Over Time
+How the forecast has altered over the course of the season.
+
+![Chance to Win Supporters' Shield Over Time](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20MLS/Win%20the%20MLS%20Cup%20Over%20Time%20%20OverTime.jpg)
+
+![Chance to Win the MLS Cup Over Time](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20MLS/Win%20the%20Supporter's%20Shield%20Over%20Time%20%20OverTime.jpg)
 
 ## Match Predictions
 ### Next Matches
