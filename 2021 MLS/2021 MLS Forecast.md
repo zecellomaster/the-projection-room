@@ -21,9 +21,9 @@ It is important to note that this represents a *likelihood* of events happening 
 ## Changes Over Time
 How the forecast has altered over the course of the season.
 
-![Chance to Win Supporters' Shield Over Time](https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Win the Supporter's Shield Over Time OverTime.jpg)
+![Chance to Win Supporters' Shield Over Time]("https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Win the Supporter's Shield Over Time OverTime.jpg")
 
-![Chance to Win the MLS Cup Over Time](https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Win the MLS Cup Over Time OverTime.jpg)
+![Chance to Win the MLS Cup Over Time]("https://zecellomaster.github.io/tprdatarepo/2020%20MLS/Win the MLS Cup Over Time OverTime.jpg")
 
 ### Legend
 *Elo*: The current Elo ratings for all teams. The average Elo rating is 1500 points.
