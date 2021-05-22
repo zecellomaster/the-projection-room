@@ -9,7 +9,7 @@ permalink: /mls-forecast-2021/
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
 # 2021 MLS Forecast
-An Elo-based forecast model for the 2021 MLS Season that predicts matches and end of season results.
+An Elo-based forecast model for the 2021 MLS Season that predicts matches and end of season results. [How does this work?](https://zecellomaster.github.io/the-projection-room/2021-mls-forecast/methodology)
 
 See the [Eastern Conference](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021/eastern) and [Western Conference](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021/western) forecasts.
 
