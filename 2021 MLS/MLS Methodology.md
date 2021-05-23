@@ -112,7 +112,7 @@ The same process is done for every future match in the season. This forecast is 
 
 This process is repeated 15,000 times, with various observations (the number of points a team has, whether or not they made the playoffs, etc.) made at the end of each iteration. By dividing the number of times those events occurred, we can calculate the probability of those events happening in real life.
 
-For playoff matches, draws are not possible, so in the occurrence of a draw, the Elo calculated win probability is used to break it.
+For playoff matches, draws are not possible, so in the occurrence of a simulated draw, the Elo calculated win probability is used to break it.
 
 ### What about expansion teams?
 As stated prior, expansion teams (such as Austin FC for the 2021 Season) are given the same Elo rating as any starting team. For their distributions, however, a little creativity is needed.
