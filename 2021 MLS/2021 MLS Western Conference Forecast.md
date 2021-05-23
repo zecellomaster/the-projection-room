@@ -21,11 +21,11 @@ It is important to note that this represents a *likelihood* of events happening 
 
 *Avg. Goal Diff.*: The average goal difference the teams are forecasted to have by the end of the season.
 
-*Make Playoffs*: The chance a team has to make the 2021 MLS Playoffs.
+*Make Playoffs*: The chance a team has to make the 2021 MLS Playoffs. The top 7 teams in each conference qualify.
 
 *First Round Bye*: The chance a team has to win their conference and clinch a first round bye in the playoffs.
 
-*Win Supp. Shield*: The chance a team has to win the 2021 Supporter's Shield.
+*Win Supp. Shield*: The chance a team has to win the 2021 Supporter's Shield, which is given to the best team in the MLS.
 
 *Make Semifinals*: The chance a team has to make the playoff semifinals.
 
