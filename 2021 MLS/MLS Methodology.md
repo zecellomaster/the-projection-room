@@ -64,7 +64,7 @@ W = 1/(10^(dr/400) + 1)
 
 </center>
 
-Where dr is the difference in Elo ratings.
+Where dr is the difference in Elo ratings. Note that the home team has 100 points added onto their rating.
 
 3) Using the games' results, add/subtract the number of points calculated (rounded to the nearest integer) to the both of the team's ratings. This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. Team A gets 2 points, Team B will lose 2 points).
 
@@ -106,7 +106,7 @@ These distributions can combined to make a score probability matrix of the match
 
 ![MatchMatrix](https://user-images.githubusercontent.com/67310349/119240232-52f1f880-bb1c-11eb-91d4-73d2f37c9098.jpg)
 
-From this, the probability of all match results (win, loss, or draw) can be quantified. In the above math, due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with a 74% chance of wining. They won 3-0.
+From this, the probability of all match results (win, loss, or draw) can be quantified. In the above math, due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with a 74% chance of victory. They won 3-0.
 
 The same process is done for every future match in the season. This forecast is run "hot", which means these simulated results get treated like actual results and are used to adjust Elo ratings. This way, a wider range of events can be observed, such as a bad team going on a win streak and overperforming expectations, or a good team playing poorly and underperforming them.
 
