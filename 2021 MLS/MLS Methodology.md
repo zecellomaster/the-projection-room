@@ -12,7 +12,7 @@ permalink: /mls-forecast-2021/methodology
 
 The Projection Room Forecast has previously been restricted to predicting political events, with our other forecasts focused on the [2020 Presidential Election](https://zecellomaster.github.io/the-projection-room/president-2020/) and the [2021 Georgia Senate Runoffs](https://zecellomaster.github.io/the-projection-room/ga-runoffs-2021/).
 
-Now we've decided its high time to fulfill the other promise made in the byline of our website header: *predicting sports*. To do this, we're trying our hands at forecasting the 2020 Major League Soccer (MLS) season.
+Now we've decided its high time to fulfill the other promise made in the byline of our website header: *predicting sports*. To do this, we're trying our hands at forecasting the 2021 Major League Soccer (MLS) season.
 
 ## Background
 The forecast uses an MLS oriented version of the [*Elo rating system*](https://en.wikipedia.org/wiki/Elo_rating_system), a concept created by Hungarian-American physicist [Arpad Elo](https://en.wikipedia.org/wiki/Arpad_Elo) as a method to rank chess players. Specifically, it uses an algorithm based on the [World Football Elo Ratings](https://en.wikipedia.org/wiki/World_Football_Elo_Ratings), but has a few adjustments which will be discussed later.
@@ -64,11 +64,9 @@ W = 1/(10^(dr/400) + 1)
 
 </center>
 
-Where dr is the difference in Elo ratings. Note that the home team has 100 points added onto their rating.
+Where dr is the difference in Elo ratings. The home team has 100 points added onto their rating.
 
-3) Using the games' results, add/subtract the number of points calculated (rounded to the nearest integer) to the both of the team's ratings. This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. Team A gets 2 points, Team B will lose 2 points).
-
-Note that if a team is expected to win, the number of points they gain is *less* than the number that they would drop if they lost (or in some cases, draw) the match. Conversely, if a team is expected to lose, the would shed a fewer number of points than what they would gain if they won (or in some cases, draw).
+3) Using the games' results, add/subtract the number of points calculated (rounded to the nearest integer) to the both of the team's ratings. This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. Team A gets 2 points, Team B will lose 2 points). If a team is expected to win, the number of points they gain is *less* than the number that they would drop if they lost (or in some cases, draw) the match. Conversely, if a team is expected to lose, the would shed a fewer number of points than what they would gain if they won (or in some cases, draw).
 
 4) This process is done chronologically for every MLS game ever played. After each match, the teams' Elos are updated and used to calculate their next matches and so on. At the end of each season, the ratings are [regressed to the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) Elo of 1500 by a factor of 1 to 3. This helps account for personnel changes as well as the fact that a team could have just had a lucky or unlucky season.
 
@@ -106,7 +104,7 @@ These distributions can combined to make a score probability matrix of the match
 
 ![MatchMatrix](https://user-images.githubusercontent.com/67310349/119240232-52f1f880-bb1c-11eb-91d4-73d2f37c9098.jpg)
 
-From this, the probability of all match results (win, loss, or draw) can be quantified. In the above math, due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with a 74% chance of victory. They won 3-0.
+From this, the probability of all match results (win, loss, or draw) can be quantified. In the above match, due to the larger range of projected goal distributions for Orlando City, the model saw them as the overwhelming favorites with a 74% chance of victory. They won 3-0.
 
 The same process is done for every future match in the season. This forecast is run "hot", which means these simulated results get treated like actual results and are used to adjust Elo ratings. This way, a wider range of events can be observed, such as a bad team going on a win streak and overperforming expectations, or a good team playing poorly and underperforming them.
 
