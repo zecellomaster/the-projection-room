@@ -76,7 +76,7 @@ We can apply this to all MLS games with a winner and a loser that occurred from 
 
 If a forecast is perfectly calibrated, then all the bins should inhabit a 45 degree line.
 
-![MLS Elo Cal Chart](https://user-images.githubusercontent.com/67310349/119240257-7452e480-bb1c-11eb-9b04-7c23adf298ff.jpg)
+![MLS Elo Cal Chart](https://user-images.githubusercontent.com/67310349/120088731-b1d9e380-c0c1-11eb-9e5c-07267354034e.jpg)
 
 This is a fairly well calibrated rating system, although it is a bit bearish on teams that have a >50% chance of winning, while bullish on their opponents. Moreover, the tight spread of distributions emphasize how competitive the MLS is; it's rare to have matches where a team is an overwhelming favorite.
 
