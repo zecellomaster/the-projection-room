@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-title: "2021 MLS Forecast Main Page"
+title: "2021 MLS Forecast"
 permalink: /mls-forecast-2021/
 ---
 <meta name="twitter:card" content="summary">
