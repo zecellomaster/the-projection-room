@@ -66,7 +66,7 @@ W = 1/(10^(dr/400) + 1)
 
 Where dr is the difference in Elo ratings. The home team has 100 points added onto their rating.
 
-3) Using the games' results, add/subtract the number of points calculated (rounded to the nearest integer) to the both of the team's ratings. This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. Team A gets 2 points, Team B will lose 2 points). If a team is expected to win, the number of points they gain is *less* than the number that they would drop if they lost (or in some cases, draw) the match. Conversely, if a team is expected to lose, the would shed a fewer number of points than what they would gain if they won (or in some cases, draw).
+3) Using the games' results, add/subtract the number of points calculated (rounded to the nearest integer) to the both of the team's ratings. This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. Team A gets 2 points, Team B will lose 2 points). If a team is expected to win, the number of points they gain is *less* than the number that they would drop if they lost (or in some cases, draw) the match. Conversely, if a team is expected to lose, they would shed a fewer number of points than what they would gain if they won (or in some cases, draw).
 
 4) This process is done chronologically for every MLS game ever played. After each match, the teams' Elos are updated and used to calculate their next matches and so on. At the end of each season, the ratings are [regressed to the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean) Elo of 1500 by a factor of 1 to 3. This helps account for personnel changes as well as the fact that a team could have just had a lucky or unlucky season.
 
@@ -88,9 +88,9 @@ As described by [Will Koehrsen](https://towardsdatascience.com/the-poisson-distr
 
 A [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution) is a type of probability distribution that models the likelihood of a number of events that occur at a known rate within a fixed interval. A soccer match also has a number of events (goals) which occur with in a fixed interval (give or take 90 minutes), making a Poisson distribution a worthy method for modeling it.
 
-This forecast uses a nested Poisson regression, a technique utilized and described in detail by Lorentz Gilch in his [2019 African Cup of Nations Forecast](https://arxiv.org/pdf/1905.03628.pdf). It uses prior results and Elos from the past 3 seasons to create the distributions.
+This forecast uses a nested Poisson regression, a technique utilized and described in detail by Lorentz Gilch in his [2019 African Cup of Nations Forecast](https://arxiv.org/pdf/1905.03628.pdf). It uses prior results and Elos from the past 3 seasons of matches (including ones played this year) to create the distributions.
 
-While it takes a couple of extra steps, it allows for each team's offensive and defensive relative strengths to be accounted for, which it produces [more accurate results than other methods](https://arxiv.org/pdf/1806.01930.pdf) such as two independent Poisson distributions.
+While it takes a couple of extra steps, it allows for each team's offensive and defensive relative strengths to be accounted for, which produces [more accurate results than other methods](https://arxiv.org/pdf/1806.01930.pdf) such as two independent Poisson distributions.
 
 ### Match by Match
 The Poisson regressions can be used in tandem with the Elo ratings (adjusted for home field advantage) to create values for the average number of goals either team is expected to score on each other if the match was played multiple times under the same conditions. Using these values, the probability of a each team will score a certain number of goals can be calculated.
@@ -118,7 +118,7 @@ As stated prior, expansion teams (such as Austin FC for the 2021 Season) are giv
 Generally speaking, expansion teams don't really do so well in their inaugural season.
 ![Expansion Elos](https://user-images.githubusercontent.com/67310349/119240242-61401480-bb1c-11eb-9678-b11856f9e129.jpg)
 
-This can be due to a variety of reasons, such as the squad lacking chemistry, the youth teams/development system still being structured, an inexperienced coaching staff, etc. So for expansion teams, it is assumed that there strength is *somewhere* in between that of past expansion teams, meaning the results for the first seasons of all expansion teams since 2005 are used for the Poisson regression. This is changed to their actual match based regressions after they have played enough of them.
+This can be due to a variety of reasons, such as the squad lacking chemistry, the youth teams/development system still being structured, an inexperienced coaching staff, etc. So for expansion teams, it is assumed that there strength is somewhere in between that of past expansion teams, meaning the results for the first seasons of all expansion teams since 2005 are used for the Poisson regression. This is changed to their actual match based regressions after they have played enough of them.
 
 The forecast will be updated before the first game of every match day for the rest of the season. [Check it out here!](https://zecellomaster.github.io/the-projection-room/2021-mls-forecast/)
 
