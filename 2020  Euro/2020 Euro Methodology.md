@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "UEFA Euro 2020 Forecast"
-permalink: /euro-forecast-2020/methodology
+permalink: /euro-forecast-2020/methodology/
 ---
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
