@@ -51,7 +51,7 @@ How the forecast has altered over the course of the season.
 ## Other Stuff
 2020 UEFA Euro Scores courtesy [SportsReference.com](https://fbref.com/en/comps/22/schedule/Major-League-Soccer-Scores-and-Fixtures).
 
-Elo ratings from the [World Football Elo Ratings](https://www.eloratings.net/)
+Elo ratings from the [World Football Elo Ratings](https://www.eloratings.net/).
 
 Follow us on Twitter: [@theprforecast](https://twitter.com/theprforecast)
 
