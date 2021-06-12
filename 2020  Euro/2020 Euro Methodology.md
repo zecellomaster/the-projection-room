@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-title: "UEFA Euro 2020 Forecast"
+title: "UEFA Euro 2020 Forecast Methodology"
 permalink: /euro-forecast-2020/methodology/
 ---
 <meta name="twitter:card" content="summary">
