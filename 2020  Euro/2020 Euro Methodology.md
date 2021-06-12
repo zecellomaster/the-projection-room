@@ -10,7 +10,7 @@ permalink: /euro-forecast-2020/methodology/
 
 [<<Back to the forecast<<](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/)
 
-After a year long delay, we can finally watch 24 teams over the course of a month duke it out in the 2020 (errr ... 2021? *shuffling papers* no, wait, [it's still technically "2020"](https://www.uefa.com/uefaeuro-2020/news/025c-0f3dbcbd50d8-e5b818335722-1000/)) Euros.
+After a year long delay, we can finally watch 24 teams over the course of a month duke it out in the 2020 (errr ... 2021? *shuffling papers* ... no, wait, [it's still technically "2020"](https://www.uefa.com/uefaeuro-2020/news/025c-0f3dbcbd50d8-e5b818335722-1000/)) Euros.
 
 This forecast is more or less the same as our [MLS Forecast](https://theprforecast.com/mls-forecast-2021/) and [its methodology](/mls-forecast-2021/methodology), but with a few key differences.
 
