@@ -12,7 +12,7 @@ permalink: /euro-forecast-2020/
 An Elo-based forecast model for the 2020 UEFA Euros that predicts matches and end of torunament results. [How does this work?]()
 
 ## Current Forecast
-<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/EuroTable.html" height="1000" width="100%"></iframe>
+<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/EuroTable.html" height="900" width="100%"></iframe>
 Use the scroll bar to see more probabilities. Hold the shift key to sort by multiple columns.
 It is important to note that this represents a *likelihood* of events happening.
 
