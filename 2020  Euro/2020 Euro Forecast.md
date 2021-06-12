@@ -39,6 +39,8 @@ It is important to note that this represents a *likelihood* of events happening.
 Coming soon
 
 ## Match Predictions
+*Note: The teams under the "home" and "away" appear as listed on the official schedules. It does not account for the fact that certain teams are playing at home.*
+
 ### Next Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/NextGames.html" height="300" width="100%"></iframe>
 
