@@ -43,7 +43,7 @@ Coming soon
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/NextGames.html" height="300" width="100%"></iframe>
 
 ### Completed Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="" height="300" width="100%"></iframe>
+<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/FinishedGames.html" height="300" width="100%"></iframe>
 
 ### All Upcoming Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/UpcomingGames.html" height="300" width="100%"></iframe>
