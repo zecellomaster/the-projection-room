@@ -6,8 +6,6 @@ permalink: /euro-forecast-2020/methodology/
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 
-[<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
-
 # UEFA Euro 2020 Forecast Methodology
 
 [<<Back to the forecast<<](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/)
