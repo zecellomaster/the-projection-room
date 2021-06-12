@@ -4,7 +4,7 @@ title: "UEFA Euro 2020 Forecast"
 permalink: /euro-forecast-2020/
 ---
 <meta name="twitter:card" content="summary">
-<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/Euro%20Icon.jpg">
 
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
