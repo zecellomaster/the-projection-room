@@ -9,7 +9,7 @@ permalink: /euro-forecast-2020/
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
 # 2020 UEFA Euro Forecast
-An Elo-based forecast model for the 2020 UEFA Euros that predicts matches and end of season results. [How does this work?]()
+An Elo-based forecast model for the 2020 UEFA Euros that predicts matches and end of torunament results. [How does this work?]()
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/EuroTable.html" height="1000" width="100%"></iframe>
@@ -40,13 +40,13 @@ How the forecast has altered over the course of the season.
 
 ## Match Predictions
 ### Next Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/NextGames.html" height="100%" width="100%"></iframe>
+<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/NextGames.html" height="300" width="100%"></iframe>
 
 ### Completed Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="" height="600" width="100%"></iframe>
+<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="" height="300" width="100%"></iframe>
 
 ### All Upcoming Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/UpcomingGames.html" height="100%" width="100%"></iframe>
+<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/UpcomingGames.html" height="300" width="100%"></iframe>
 
 ## Other Stuff
 2020 UEFA Euro Scores courtesy [SportsReference.com](https://fbref.com/en/comps/22/schedule/Major-League-Soccer-Scores-and-Fixtures).
