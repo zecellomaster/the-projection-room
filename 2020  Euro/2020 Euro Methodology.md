@@ -12,7 +12,7 @@ permalink: /euro-forecast-2020/methodology/
 
 [<<Back to the forecast<<](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/)
 
-After a year long delay, we can finally watch 24 teams over the course of a month duke it out in the 2020 (errr ... 2021? *shuffling papers* no, wait, [it's still technically "2020"](https://www.uefa.com/uefaeuro-2020/news/025c-0f3dbcbd50d8-e5b818335722-1000/) Euros.
+After a year long delay, we can finally watch 24 teams over the course of a month duke it out in the 2020 (errr ... 2021? *shuffling papers* no, wait, [it's still technically "2020"](https://www.uefa.com/uefaeuro-2020/news/025c-0f3dbcbd50d8-e5b818335722-1000/)) Euros.
 
 This forecast is more or less the same as our [MLS Forecast](https://theprforecast.com/mls-forecast-2021/) and [its methodology](/mls-forecast-2021/methodology), but with a few key differences.
 
@@ -26,7 +26,7 @@ For extra time, the game is simulated again as 1/3rd of a match (since extra tim
 
 If a penalty shootout is required, then the Elos of both teams are used to calculate their predicted conversion rate (i.e. penalties made per attempt). Then each penalty attempt is simulated according to [FIFA standards]( https://en.wikipedia.org/wiki/Penalty_shoot-out_(association_football)) until a winner is determined. This is called a Markov Chain and is inspired by a similar method used by [FiveThirtyEight]( https://fivethirtyeight.com/features/a-chart-for-predicting-penalty-shootout-odds-in-real-time/).
 
-Historically, the average scoring rate for penalty shootouts in the Euros is ~78%, but interestingly lower Elo teams convert at a slightly better rate than higher ones.
+Historically, the average scoring rate for penalty shootouts in the Euros is ~78%, but interestingly, lower Elo teams convert at a slightly better rate than higher ones.
 
 The forecast will be updated before the first game of every match day for the rest of the competition. [Check it out here!](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/).
 
@@ -42,4 +42,3 @@ Check out our [other forecasts](https://zecellomaster.github.io/the-projection-r
 Page built by [@zecellomaster](https://twitter.com/zecellomaster).
 
 Found any errors? Want to make a suggestion? Have any comments? Email us: [theprojectionroomdata@gmail.com](mailto:theprojectionroomdata@gmail.com)
-![image](https://user-images.githubusercontent.com/67310349/121776389-9b6c6700-cb5a-11eb-8631-07a0ec627905.png)
