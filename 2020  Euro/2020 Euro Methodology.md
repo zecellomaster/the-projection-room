@@ -14,7 +14,7 @@ After a year long delay, we can finally watch 24 teams over the course of a mont
 
 This forecast is more or less the same as our [MLS Forecast](https://theprforecast.com/mls-forecast-2021/) and [its methodology](/mls-forecast-2021/methodology), but with a few key differences.
 
-1) We use Elo ratings from the [World Football Elo Ratings](https://www.eloratings.net/) instead of a custom made system. For those who might not know, these ratings are basically the *de facto* international soccer Elo rating system and have been [pretty reliable over the years](http://lasek.rexamine.com/football_rankings.pdf). While FIFA has thier own [offical version](https://www.fifa.com/fifa-world-ranking/ranking-table/men/) it uses a method based off an Elo rating scale.
+1) We use Elo ratings from the [World Football Elo Ratings](https://www.eloratings.net/) instead of a custom made system. For those who might not know, these ratings are basically the *de facto* international soccer Elo rating system and have been [pretty reliable over the years](http://lasek.rexamine.com/football_rankings.pdf). While FIFA has thier own [offical version](https://www.fifa.com/fifa-world-ranking/ranking-table/men/), it uses a method based off an Elo rating scale.
 
 2) We use all international A-team matches (no youth squads) from 2014 onwards for the Poisson regressions. The home Elos are adjusted by adding 100 points to their score.
 
@@ -26,7 +26,7 @@ If a penalty shootout is required, then the Elos of both teams are used to calcu
 
 Historically, the average scoring rate for penalty shootouts in the Euros is ~78%, but interestingly, lower Elo teams convert at a slightly better rate than higher ones.
 
-The forecast will be updated before the first game of every match day for the rest of the competition. [Check it out here!](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/).
+The forecast will be updated before the first game of every match day for the rest of the competition. [Check it out here!](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/)
 
 ## Other Stuff
 UEFA Euro 2020 Scores courtesy [SportsReference.com](https://fbref.com/en/comps/676/schedule/UEFA-Euro-Scores-and-Fixtures).
