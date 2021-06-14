@@ -25,7 +25,7 @@ It is important to note that this represents a *likelihood* of events happening.
 
 *Chance of finishing the group in...* : The chance a team has to finish their group in 1st, 2nd or 3rd place.
 
-*Make R16*: The chance a team has to make the round of 16. The top 2 teams in each group and the top 4 3rd place teams qualify for this stage
+*Make R16*: The chance a team has to make the round of 16. The top two teams in each group and the top four 3rd place teams qualify for this stage
 
 *Make QF*: The chance a team has to make the quarterfinals.
 
