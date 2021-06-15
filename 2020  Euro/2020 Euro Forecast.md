@@ -36,7 +36,13 @@ It is important to note that this represents a *likelihood* of events happening.
 *Win Finals*: The chance a team has to win the finals
 
 ## Changes Over Time
-Coming soon
+![Chance to Win the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Win%20Finals%20Overtime.jpg)
+
+![Chance to Make Round of 16 Groups A and B](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20A%20B.jpg)
+
+![Chance to Make Round of 16 Groups C and D](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20C%20D.jpg)
+
+![Chance to Make Round of 16 Groups E and F](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20E%20F.jpg)
 
 ## Match Predictions
 
