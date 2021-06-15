@@ -14,9 +14,9 @@ After a year long delay, we can finally watch 24 teams over the course of a mont
 
 This forecast is more or less the same as our [MLS Forecast](https://theprforecast.com/mls-forecast-2021/) and [its methodology](/mls-forecast-2021/methodology), but with a few key differences:
 
-1) We use Elo ratings from the [World Football Elo Ratings](https://www.eloratings.net/) instead of a custom made system. For those who might not know, these ratings are basically the *de facto* international soccer Elo rating system and have been [pretty reliable over the years](http://lasek.rexamine.com/football_rankings.pdf). While FIFA has thier own [offical version](https://www.fifa.com/fifa-world-ranking/ranking-table/men/), it uses a method based off an Elo rating scale.
+1) We use Elo ratings from the [World Football Elo Ratings](https://www.eloratings.net/) instead of a custom made one. For those who might not know, these ratings are basically the *de facto* international soccer Elo rating system and have been [pretty reliable over the years](http://lasek.rexamine.com/football_rankings.pdf). While FIFA has thier own [offical version](https://www.fifa.com/fifa-world-ranking/ranking-table/men/), it uses a method based off an Elo rating scale.
 
-2) We use all international A-team matches (no youth squads) from 2014 onwards for the Poisson regressions. The home Elos are adjusted by adding 100 points to their score.
+2) We use all international A-team matches (no youth squads) from 2014 onwards for the nested Poisson regressions. For each match, the home team's Elos are adjusted by adding 100 points to their score.
 
 3) For the knockout rounds, instead of breaking ties using Elo derived win chances we simulate the games more thoroughly.
 
