@@ -19,13 +19,13 @@ It is important to note that this represents a *likelihood* of events happening.
 ### Legend
 *Elo*: The current Elo ratings for all teams.
 
-*Avg. Points*: The average number of points the teams are forecasted to have by the end of the tournament.
+*Avg. Points*: The average number of points the teams are forecasted to have by the end of the group stage.
 
-*Avg. Goal Diff.*: The average goal difference the teams are forecasted to have by the end of the tournament.
+*Avg. Goal Diff.*: The average goal difference the teams are forecasted to have by the end of the group stage.
 
 *Chance of finishing the group in...* : The chance a team has to finish their group in 1st, 2nd or 3rd place.
 
-*Make R16*: The chance a team has to make the round of 16. The top two teams in each group and the top four 3rd place teams qualify for this stage
+*Make R16*: The chance a team has to make the round of 16. The top two teams in each group and the top four 3rd place teams qualify for this stage.
 
 *Make QF*: The chance a team has to make the quarterfinals.
 
@@ -36,6 +36,8 @@ It is important to note that this represents a *likelihood* of events happening.
 *Win Finals*: The chance a team has to win the finals
 
 ## Changes Over Time
+How the forecast has altered during the tournament.
+
 ![Chance to Win the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Win%20Finals%20Overtime.jpg)
 
 ![Chance to Make Round of 16 Groups A and B](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20A%20B.jpg)
