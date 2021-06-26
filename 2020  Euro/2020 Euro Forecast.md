@@ -19,12 +19,6 @@ It is important to note that this represents a *likelihood* of events happening.
 ### Legend
 *Elo*: The current Elo ratings for all teams.
 
-*Avg. Points*: The average number of points the teams are forecasted to have by the end of the group stage.
-
-*Avg. Goal Diff.*: The average goal difference the teams are forecasted to have by the end of the group stage.
-
-*Chance of finishing the group in...* : The chance a team has to finish their group in 1st, 2nd or 3rd place.
-
 *Make R16*: The chance a team has to make the round of 16. The top two teams in each group and the top four 3rd place teams qualify for this stage.
 
 *Make QF*: The chance a team has to make the quarterfinals.
