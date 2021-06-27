@@ -32,7 +32,11 @@ It is important to note that this represents a *likelihood* of events happening.
 ## Changes Over Time
 How the forecast has altered during the tournament.
 
+![Chance to Make the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20Finals%20Overtime.jpg)
+
+
 ![Chance to Win the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Win%20Finals%20Overtime.jpg)
+
 
 ![Chance to Make Round of 16 Groups A and B](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20A%20B.jpg)
 ![Chance to Make Round of 16 Groups C and D](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20C%20D.jpg)
