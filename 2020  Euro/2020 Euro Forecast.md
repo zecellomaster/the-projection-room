@@ -29,17 +29,12 @@ It is important to note that this represents a *likelihood* of events happening.
 
 *Win Finals*: The chance a team has to win the finals
 
-## How We Got Here
+## Changes Over Time
 How the forecast has altered during the tournament.
-
-![Chance to Make the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20Finals%20Overtime.jpg)
 
 ![Chance to Win the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Win%20Finals%20Overtime.jpg)
 
 ## Match Predictions
-
-### Next Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/NextGames.html" height="300" width="100%"></iframe>
 
 ### Completed Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/FinishedGames.html" height="300" width="100%"></iframe>
