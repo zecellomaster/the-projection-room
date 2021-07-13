@@ -8,16 +8,15 @@
 # Home Page
 Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects. Just click on the images to check them out.
 
-[!["UEFA Euro 2020 Forecast"][7]][8]
-
-[7]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/Euro%20Main.jpg
-[8]: https://theprforecast.com/euro-forecast-2020/
-
 [!["2021 Major League Soccer Forecast"][5]][6]
 
 [5]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/MLS%20Preview.jpg
 [6]: https://theprforecast.com/mls-forecast-2021/
 
+[!["UEFA Euro 2020 Forecast"][7]][8]
+
+[7]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/Euro%20Main.jpg
+[8]: https://theprforecast.com/euro-forecast-2020/
 
 [!["2021 Georgia Runoffs Forecast"][1]][2]
 
