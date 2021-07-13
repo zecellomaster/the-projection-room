@@ -30,7 +30,7 @@ It is important to note that this represents a *likelihood* of events happening.
 *Win Finals*: The chance a team has to win the finals
 
 ## Changes Over Time
-How the forecast has altered during the tournament.
+How the forecast altered during the tournament.
 
 ![Chance to Win the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Win%20Finals%20Overtime.jpg)
 
