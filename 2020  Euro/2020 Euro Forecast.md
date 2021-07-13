@@ -34,6 +34,10 @@ How the forecast has altered during the tournament.
 
 ![Chance to Win the Finals](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Win%20Finals%20Overtime.jpg)
 
+![Chance to Make the Round of 16: Groups A/B](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20A%20B.jpg)
+![Chance to Make the Round of 16: Groups C/D](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20C%20D.jpg)
+![Chance to Make the Round of 16: Groups E/F](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20Euros/Make%20R16%20Overtime%20Groups%20E%20F.jpg)
+
 ## Match Predictions
 
 ### Completed Matches
