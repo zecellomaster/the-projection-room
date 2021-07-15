@@ -11,7 +11,7 @@ permalink: /euro-forecast-2020/
 # UEFA Euro 2020 Forecast
 An Elo-based forecast model for UEFA Euro 2020 that predicts matches and tournament stage chances. [How does this work?](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/methodology)
 
-Congrats to Italy for winning Euro 2020! [How did the forecast do](https://zecellomaster.github.io/the-projection-room//euro-forecast-2020/review/)?
+Congrats to Italy for winning Euro 2020! [How did the forecast do?](https://zecellomaster.github.io/the-projection-room//euro-forecast-2020/review/)
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/EuroTable.html" height="900" width="100%"></iframe>
