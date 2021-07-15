@@ -4,6 +4,7 @@ title: "UEFA Euro 2020 Forecast Review"
 permalink: /euro-forecast-2020/review/
 ---
 
+
 [<<Back to the forecast<<](https://zecellomaster.github.io/the-projection-room/euro-forecast-2020/)
 
 # UEFA Euro 2020 Forecast Review
