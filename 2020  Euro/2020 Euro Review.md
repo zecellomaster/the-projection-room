@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "UEFA Euro 2020 Forecast Review"
-permalink: /euro-review-2020/
+permalink: /euro-forecast-2020/review/
 ---
 
 # UEFA Euro 2020 Forecast Review
