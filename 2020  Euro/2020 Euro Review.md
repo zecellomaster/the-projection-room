@@ -35,6 +35,10 @@ The chances we gave both teams to win, lose or draw a match.
 
 *Brier Skill Score*: 0.1554
 
+*Matches Correct (All)*: 31/51 (60.8%)
+
+*Matches Correct (Only Win/Loss)*: 31/43 (72.1%)
+
 The calibration is decent at the lower ends, but strays at the higher bins. Some of this is unavoidable, for example the 85% (really 85.72%) bin only had 1 occurrence, meaning it could either be 100% or 0% This issue can be smoothed out more by increasing the bin size to 10% and the widths to 5%
 
 ![Match Calibration 2](https://user-images.githubusercontent.com/67310349/125843590-647c17f8-53d4-4283-9737-47b686a5a7d3.jpg)
