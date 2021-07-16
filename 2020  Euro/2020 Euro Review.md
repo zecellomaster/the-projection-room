@@ -29,7 +29,7 @@ The chances we gave both teams to win, lose or draw a match.
 
 ![Match Calibration 1](https://user-images.githubusercontent.com/67310349/125840211-65672b3d-22d0-497f-bd9f-399b785d4597.jpg)
 
-*Biggest surprise*: On June 12th, 2021, we gave Finland an 8% chance of winning against Denmark. They did.
+*Biggest surprise*: On June 12th, 2021, we gave Finland an 11% chance of winning against Denmark. They did.
 
 *Brier Score*: 0.5217
 
@@ -58,10 +58,10 @@ Keep in mind that for this review, we ignore situations where the outcome was al
 
 *Brier Skill Score*: 0.5164
 
-As can be seen, this part of the forecast was much more calibrated, and since it has more events to analyze, it does not suffer from the same outlier effect as the previous one. Normally, advancement chances are easier to quantify than match chances, since there are more ways to capture any uncertainty than with an individual match. Nonetheless, our forecast was almost 52% better than an uneducated one, 
+As can be seen, this part of the forecast was much more calibrated, and since it has more events to analyze, it does not suffer from the same outlier effect as the previous one. Normally, advancement chances are easier to quantify than match chances, since there are more ways to capture any uncertainty than with an individual match. Nonetheless, our forecast was almost 52% better than an uneducated one.
 
 ## Thoughts
-Overall, our model performed better than an uneducated guess would, and men’s international soccer tournaments are notoriously difficult to forecast due to their competitiveness. For example, FiveThirtyEight’s 2018 FIFA World Cup forecast model had a Brier Skill Score of 0.1798 (when calculated using the same unskilled forecast that we did), meaning our model’s performance is not too far off from where the pros are. But most important is the fact that our odds are pretty well calibrated, if we gave an event a 30% chance of happening, it happened ~30% of the time.
+Overall, our model performed better than an uneducated guess would, which is impressive considering the fact that men’s international soccer tournaments are notoriously difficult to forecast due to their competitiveness. For example, FiveThirtyEight’s 2018 FIFA World Cup forecast model had a Brier Skill Score of 0.1798 (when calculated using the same unskilled forecast that we did), meaning our model’s performance is not too far off from where the pros are. But most important is the fact that our odds are pretty well calibrated, if we gave an event a 30% chance of happening, it happened ~30% of the time.
 
 That being said, we still see areas for improvement.
 
