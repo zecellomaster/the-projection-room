@@ -81,7 +81,7 @@ During the course of the tournament, “good” teams, or at least teams we thou
 
 3) More research can be done to observe how scoring rates change in extra time, which may in turn lead to more situations where the model is forced to simulate shootouts. For those shootouts, we should look at the win rate as a function of the difference in Elo ratings and use that to simulate scoring rates
 
-The data that our model produced can be found on the [official repository](https://drive.google.com/drive/folders/19KRWDoIbSD1CjxqUkMyk7pENWsBZ13Kf?usp=sharing). Feel free to take a look if you would like to relive the journey or check our work!
+The data that our model produced can be [downloaded here](https://drive.google.com/u/1/uc?id=1fIyV_O1iHDfhADclIOBRyktCR7FZ4xB0&export=download). Feel free to take a look if you would like to relive the journey or check our work!
 
 In the meantime, we will continue to update our [MLS forecast](https://theprforecast.com/mls-forecast-2021/) for the remainder of the season. Thanks to all who joined us, and congratulations once again to Italy on their fantastic win!
 
