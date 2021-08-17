@@ -1,7 +1,6 @@
 ---
 theme: jekyll-theme-cayman
 title: "UEFA Euro 2020 Forecast"
-description: "Who will win it all?"
 permalink: /euro-forecast-2020/
 ---
 <meta name="twitter:card" content="summary">
