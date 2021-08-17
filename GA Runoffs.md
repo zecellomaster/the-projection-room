@@ -1,7 +1,6 @@
 ---
 theme: jekyll-theme-cayman
 title: "Georgia Runoffs Forecast"
-description: "Who will win the seats?"
 permalink: /ga-runoffs-2021/
 ---
 <meta name="twitter:card" content="summary">
