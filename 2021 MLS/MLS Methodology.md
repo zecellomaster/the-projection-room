@@ -17,7 +17,7 @@ Now we've decided its high time to fulfill the other promise made in the byline 
 ## Background
 The forecast uses an MLS oriented version of the [*Elo rating system*](https://en.wikipedia.org/wiki/Elo_rating_system), a concept created by Hungarian-American physicist [Arpad Elo](https://en.wikipedia.org/wiki/Arpad_Elo) as a method to rank chess players. Specifically, it uses an algorithm based on the [World Football Elo Ratings](https://en.wikipedia.org/wiki/World_Football_Elo_Ratings), but has a few adjustments which will be discussed later.
 
-The advantage of such ratings is that it allows for the relative strength of teams to be easily quantified: If a team is above the average rating, then it is a relatively good team. Also, due to the rigorously Bayesian nature of the Elo rating algorithm, well calibrated system is also fairly good at predicting the results of zero sum (i.e. one side loses and the other wins) games.
+The advantage of such ratings is that it allows for the relative strength of teams to be easily quantified: If a team is above the average rating, then it is a relatively good team, and if they are below it, they are below average. Also, due to the rigorously Bayesian nature of the Elo rating algorithm, well calibrated system is also fairly good at predicting the results of zero sum (i.e. one side loses and the other wins) games.
 
 ### Creating The Ratings
 To create the ratings for all MLS Teams, a multistep process is utilized.
@@ -93,14 +93,14 @@ This forecast uses a nested Poisson regression, a technique utilized and describ
 While it takes a couple of extra steps, it allows for each team's offensive and defensive relative strengths to be accounted for, which produces [more accurate results than other methods](https://arxiv.org/pdf/1806.01930.pdf) such as two independent Poisson distributions.
 
 ### Match by Match
-The Poisson regressions can be used in tandem with the Elo ratings (adjusted for home field advantage) to create values for the average number of goals either team is expected to score on each other if the match was played multiple times under the same conditions. Using these values, the probability of a each team will score a certain number of goals can be calculated.
+The Poisson regressions can be used in tandem with the Elo ratings (adjusted for home field advantage) to create values for the average number of goals either team is expected to score on each other if the match was played multiple times under the same conditions. Using these values, the probability that each team will score a certain number of goals can be calculated.
 
 For example, here are the distributions for the Orlando City vs FC Cincinnati match on May 1st, 2021
 
 ![FC Cincinnati](https://user-images.githubusercontent.com/67310349/119240183-1920f200-bb1c-11eb-99f6-2b6c453816bc.jpg)
 ![Orlando City](https://user-images.githubusercontent.com/67310349/119240205-335ad000-bb1c-11eb-8794-5d2f8dc6b3d8.jpg)
 
-These distributions can combined to make a score probability matrix of the match. Below is a visualization of that.
+These distributions can combined to make a score probability matrix for the match. Below is a visualization of that.
 
 ![MatchMatrix](https://user-images.githubusercontent.com/67310349/119240232-52f1f880-bb1c-11eb-91d4-73d2f37c9098.jpg)
 
@@ -115,7 +115,7 @@ For playoff matches, draws are not possible, so in the occurrence of a simulated
 ### What about expansion teams?
 As stated prior, expansion teams (such as Austin FC for the 2021 Season) are given the same Elo rating as any starting team. For their distributions, however, a little creativity is needed.
 
-Generally speaking, expansion teams don't really do so well in their inaugural season.
+Generally speaking, expansion teams don't really do well in their inaugural season.
 ![Expansion Elos](https://user-images.githubusercontent.com/67310349/119240242-61401480-bb1c-11eb-9678-b11856f9e129.jpg)
 
 This can be due to a variety of reasons, such as the squad lacking chemistry, the youth teams/development system still being structured, an inexperienced coaching staff, etc. So for expansion teams, it is assumed that there strength is somewhere in between that of past expansion teams, meaning the results for the first seasons of all expansion teams since 2005 are used for the Poisson regression. This is changed to their actual match based regressions after they have played enough of them.
