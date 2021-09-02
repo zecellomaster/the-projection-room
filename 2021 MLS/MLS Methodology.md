@@ -12,7 +12,7 @@ permalink: /mls-forecast-2021/methodology
 
 The Projection Room Forecast has previously been restricted to predicting political events, with our other forecasts focused on the [2020 Presidential Election](https://zecellomaster.github.io/the-projection-room/president-2020/) and the [2021 Georgia Senate Runoffs](https://zecellomaster.github.io/the-projection-room/ga-runoffs-2021/).
 
-Now we've decided its high time to fulfill the other promise made in the byline of our website header: *predicting sports*. To do this, we're trying our hands at forecasting the 2021 Major League Soccer (MLS) season.
+Now we've decided it's high time to fulfill the other promise made in the byline of our website header: *predicting sports*. To do this, we're trying our hands at forecasting the 2021 Major League Soccer (MLS) season.
 
 ## Background
 The forecast uses an MLS oriented version of the [*Elo rating system*](https://en.wikipedia.org/wiki/Elo_rating_system), a concept created by Hungarian-American physicist [Arpad Elo](https://en.wikipedia.org/wiki/Arpad_Elo) as a method to rank chess players. Specifically, it uses an algorithm based on the [World Football Elo Ratings](https://en.wikipedia.org/wiki/World_Football_Elo_Ratings), but has a few adjustments which will be discussed later.
