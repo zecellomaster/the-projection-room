@@ -43,6 +43,7 @@ It is important to note that this represents a *likelihood* of events happening 
 How the forecast has altered over the course of the season.
 
 ![Chance to Win Supporters' Shield Over Time](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20MLS/Win%20the%20Supporter's%20Shield%20Over%20Time%20%20OverTime.jpg)
+**Update (10/24/21)**: On 10/23, New England won the Supporter's Shield. As such, this visualization will no longer be updated.
 
 ![Chance to Win the MLS Cup Over Time](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/main/2020%20MLS/Win%20the%20MLS%20Cup%20Over%20Time%20%20OverTime.jpg)
 
