@@ -108,7 +108,7 @@ From this, the probability of all match results (win, loss, or draw) can be quan
 
 The same process is done for every future match in the season. This forecast is run "hot", which means these simulated results get treated like actual results and are used to adjust Elo ratings. This way, a wider range of events can be observed, such as a bad team going on a win streak and overperforming expectations, or a good team playing poorly and underperforming them.
 
-This process is repeated 15,000 times, with various observations (the number of points a team has, whether or not they made the playoffs, etc.) made at the end of each iteration. By dividing the number of times those events occurred, we can calculate the probability of those events happening in real life.
+This process is repeated 15,000 times, with various observations (the number of points a team has, whether or not they made the playoffs, etc.) made at the end of each iteration. By dividing the number of times those events occurred with the number of simulations performed, we can calculate the probability of those events happening in real life.
 
 For playoff matches, draws are not possible, so in the occurrence of a simulated draw, the Elo calculated win probability is used to break it.
 
