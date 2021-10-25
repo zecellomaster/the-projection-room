@@ -120,7 +120,7 @@ Generally speaking, expansion teams don't really do well in their inaugural seas
 
 This can be due to a variety of reasons, such as the squad lacking chemistry, the youth teams/development system still being structured, an inexperienced coaching staff, etc. So for expansion teams, it is assumed that their strength is somewhere in between that of past expansion teams, meaning the results for the first seasons of all expansion teams since 2005 are used for the Poisson regression. This is changed to their actual match based regressions after they have played enough of them.
 
-The forecast will be updated before the first game of every match day for the rest of the season. [Check it out here!](https://zecellomaster.github.io/the-projection-room/2021-mls-forecast/)
+The forecast will be updated before the first game of every match day for the rest of the season. [Check it out here!](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021/)
 
 ## Other Stuff
 2021 MLS scores courtesy [SportsReference.com](https://fbref.com/en/comps/22/schedule/Major-League-Soccer-Scores-and-Fixtures).
