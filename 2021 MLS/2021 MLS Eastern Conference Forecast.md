@@ -7,7 +7,7 @@ permalink: /mls-forecast-2021/eastern
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/websitefavicon3.png">
 
 # 2021 MLS Eastern Conference Forecast
-[<<Back to Main Forecast Page<<](https://theprforecast.com/mls-forecast-2021)
+[<<Back to Main Forecast Page<<](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021) or [See the Western Conference Forecast](https://zecellomaster.github.io/the-projection-room/mls-forecast-2021/western)
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20MLS/EastTable.html" height="550" width="100%"></iframe>
