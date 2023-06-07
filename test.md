@@ -4,4 +4,4 @@ title: "Test"
 permalink: /test/
 ---
 
-<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2020%20Euros/EuroTable.html" height="1000" width="100%"></iframe>
+![Test](https://github.com/zecellomaster/tprdatarepo/blob/06ffc8dffa5ecb43dcc2e4236282e478a1d6be93/2022%20MLS/East%20Plot.jpg)
