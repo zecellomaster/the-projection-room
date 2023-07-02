@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: The Projection Room Forecast
 description: An amateur forecast modeling website that predicts elections, sports, and more. 
-background-image: linear-gradient(120deg, #FF8000, #FF0000)
+#background-image: linear-gradient(120deg, FF8000, #FF0000)
 github:
   is_project_page: false
 classes: wide
