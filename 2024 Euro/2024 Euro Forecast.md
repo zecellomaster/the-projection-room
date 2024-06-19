@@ -36,10 +36,10 @@ It is important to note that this represents a *likelihood* of events happening.
 ## Match Predictions
 
 ### Upcoming Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euros/Visuals/EuroUpcomingGames.html" height="300" width="100%"></iframe>
+<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://github.com/zecellomaster/tprdatarepo/blob/248418373d862c9fe0b03fad8bf78b3d97ade9d7/2024%20Euro/Visuals/EuroFinishedGames.html" height="300" width="100%"></iframe>
 
 ### Completed Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euros/Visuals/EuroFinishedGames.html" height="300" width="100%"></iframe>
+<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://github.com/zecellomaster/tprdatarepo/blob/248418373d862c9fe0b03fad8bf78b3d97ade9d7/2024%20Euro/Visuals/EuroUpcomingGames.html" height="300" width="100%"></iframe>
 
 
 
