@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
-title: "UEFA Euro 2024 Forecast"
-permalink: /euro-forecast-2024/
+title: "2024 Copa América Forecast"
+permalink: /copa-forecast-2024/
 ---
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/2024%20Copa%20Main.jpg">
