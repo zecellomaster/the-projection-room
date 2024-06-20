@@ -7,7 +7,7 @@ permalink: /euro-forecast-2024/
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
 # UEFA Euro 2024 Forecast
-An Elo-based forecast model that predicts chances of advancing for every team. Updated after every match.
+An Elo-based forecast model that predicts chances of advancing for every team. Updated daily.
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euro/Visuals/EuroTable.html" height="900" width="100%"></iframe>
