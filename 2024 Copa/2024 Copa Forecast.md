@@ -8,7 +8,7 @@ permalink: /copa-forecast-2024/
 
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
-# UEFA Euro 2024 Forecast
+# 2024 Copa América Forecast
 An Elo-based forecast model that predicts chances of advancing for every team. Updated after every match.
 
 ## Current Forecast
