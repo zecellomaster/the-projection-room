@@ -8,6 +8,12 @@
 # Home Page
 Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects. Just click on the images to check them out.
 
+## Live Forecasts
+[!["2024 Euro 2024 Forecast"][9]][10]
+[9]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/2024%20Euro%20Main.png
+[10]: https://theprforecast.com/euro-forecast-2024/
+
+## Previous Forecasts
 [!["2021 Major League Soccer Forecast"][5]][6]
 
 [5]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/MLS%20Preview.jpg
