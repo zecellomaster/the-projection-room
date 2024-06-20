@@ -10,6 +10,7 @@ Welcome to the main page of The Projection Room Forecast! Here you will find our
 
 ## Live Forecasts
 [!["2024 Euro 2024 Forecast"][9]][10]
+
 [9]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/2024%20Euro%20Main.png
 [10]: https://theprforecast.com/euro-forecast-2024/
 
