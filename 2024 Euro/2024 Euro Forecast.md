@@ -1,11 +1,10 @@
-<meta name="twitter:card" content="summary">
-<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/2024%20Euro%20Main.jpg">
-
 ---
 theme: jekyll-theme-cayman
 title: "UEFA Euro 2024 Forecast"
 permalink: /euro-forecast-2024/
 ---
+<meta name="twitter:card" content="summary">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/2024%20Euro%20Main.jpg">
 
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
