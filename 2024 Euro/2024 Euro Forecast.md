@@ -12,7 +12,7 @@ permalink: /euro-forecast-2024/
 An Elo-based forecast model that predicts chances of advancing for every team. Updated after every match.
 
 ## Current Forecast
-<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euro/Visuals/EuroTable.html" height="900" width="100%"></iframe>
+<iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euro/Visuals/EuroTable.html" height="800" width="100%"></iframe>
 Use the scroll bar to see more probabilities. To sort by multiple columns, hold the shift key and click on them.
 It is important to note that this represents a *likelihood* of events happening.
 
