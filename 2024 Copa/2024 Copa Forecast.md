@@ -40,10 +40,9 @@ It is important to note that this represents a *likelihood* of events happening.
 ### Upcoming Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Copa/Visuals/CopaUpcomingGames.html" height="300" width="100%"></iframe>
 
-<!---
+
 ### Completed Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Copa/Visuals/CopaFinishedGames.html" height="300" width="100%"></iframe>
--->
 
 ### Other Stuff
 Historical match data courtesy [Mart Jürisoo](https://github.com/martj42/international_results).
