@@ -1,7 +1,8 @@
 ---
 theme: jekyll-theme-cayman
-title: "UEFA Euro 2024 Forecast"
-permalink: /euro-forecast-2024/
+title: "International Soccer Methodology"
+description: The nuts and bolts behind our new Elo ratings and forecast.
+permalink: /int-soccer-methodology/
 ---
 
 [\<\<Back to Home Page\<\<](https://zecellomaster.github.io/the-projection-room/)
@@ -87,11 +88,11 @@ The $pG$ for each team in a match can be used to create two independent Poisson 
 
 Take for example the match between France and Romania in Euro 2016.
 
-![](Output/Visuals/GoalDist.jpg)
+![](https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Methodology/GoalDist.jpg)
 
 You can see that France is more likely to score a higher number of goals than Romania is, so therefore they are more likely to win (our model gave them a 61% chance to do just that). By combining the two distributions, we can make a score matrix as shown below.
 
-![](images/image-1360005151.png)
+![](https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Methodology/ScoreMatrix.jpg)
 
 Finding out the result chances is as simple as adding up chances of the scorelines where each team wins, loses, or draws (France beat Romania 2-1 in this match).
 
