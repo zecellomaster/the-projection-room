@@ -18,13 +18,13 @@ Since soccer is *not* always zero sum (it's usually *ternary*; a team could win,
 
 To create the ratings for all international soccer teams, a multistage process is utilized.
 
-1)  [Start every team at a set number of points]{.underline}***.***
+1)  </ins> Start every team at a set number of points</ins>
 
     In this system, we assigned the first international teams to offensive and defensive Elo ratings of 1500 to England, Wales and Scotland, due to the fact that played each other frequently during those early years. New teams are assigned Elo ratings at a certain percentile of their starting confederation's rating distribution, or the international one if their confederation does not have enough teams. This accounts for the fact that new teams in the distant past, such as [Brazil](https://en.wikipedia.org/wiki/Brazil_national_football_team) in 1914, likely played at a level closer to their peers at the time than [South Sudan](https://en.wikipedia.org/wiki/South_Sudan_national_football_team), who played their first match in 2012.
 
     Note that whenever a new team is added, their Elos are below average, so the difference between both their offense and defense Elo rating and the average Elo of 1500 is evenly split between their own respective ratings as well as every other teams'. This is designed to keep the average Elo rating at 1500, and as explained below, since we utilize the difference in the Elo ratings themselves.
 
-2)  [For a matchup, calculate the predicted number of goals each team will score.]{.underline}
+2)  <ins>For a matchup, calculate the predicted number of goals each team will score.</ins>
 
     Think of this number not as an *exact* number of goals that a team would score, but rather the *average* number they would score if the match were repeated an infinite number of times. This system works on the intuition that a match between two teams can be subdivided into a match between a team's offense vs their opponent's defense and vice versa. As such, the difference between a team's offensive Elo and their opponent's defensive Elo determines the average number of goals they are predicted to score.
 
@@ -36,7 +36,9 @@ To create the ratings for all international soccer teams, a multistage process i
 
     This is what the model uses to determine $pG$. Its main variable is the offense-defense rating difference between the two teams facing off, $dr$. $dr$ is adjusted based on home field advantage (HFA) if the match is being played in a non-neutral venue. The exact number of Elo points HFA is worth changes year to year using a method similar to [ClubElo.com](https://web.archive.org/web/20140326034352/http://clubelo.com/Articles/AdaptiveHomeFieldAdvantage.html), but it is currently about 65 points and is added to both the home team's offense and defense Elos.[^1]
 
-4)  [For each match, calculate the number of points ($P$) to be exchanged]{.underline}. This depends on factors such as the difference between the two team's Elo scores, the significance of the match, and the team with home field advantage. $P$ is calculated as:
+4)  <ins>For each match, calculate the number of points ($P$) to be exchanged</ins>
+
+       This depends on factors such as the difference between the two team's Elo scores, the significance of the match, and the team with home field advantage. $P$ is calculated as:
 
     $$P\ =K\ast\ W \ast R \ast G$$
 
@@ -63,7 +65,7 @@ To create the ratings for all international soccer teams, a multistage process i
 
     This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. If a team's offensive Elo rating gains 10 Elo points, their opponent's defensive Elo rating will lose 10 points). If a team is expected to "win", the number of points they gain is *less* than the number that they would drop if they "lost". Conversely, if a team is expected to "lose", they would shed a fewer number of points than what they would gain if they "won". This system means that a team won't always gain points for winning the match overall; teams which under-perform expectations are still liable to lose Elo points.
 
-5)  [Rinse and repeat.]{.underline} This process is done chronologically for every international game we have available, courtesy [Mart Jürisoo](https://github.com/martj42/international_results)'s extensive database.
+6)  <ins>Rinse and repeat.</ins> This process is done chronologically for every international game we have available, courtesy [Mart Jürisoo](https://github.com/martj42/international_results)'s extensive database.
 
 [^1]: More specifically, the concept is based on the idea that if the estimate for HFA is perfect, then on average no points should be exchanged between the home and away teams. After the end of each year, the average number of points exchanged between home and away teams, weighted by the importance of the competition, is added onto the current estimate of HFA. If the estimate was too low, the difference will be positive, so the HFA will be increased. The opposite is true if the estimate is too high.
 
