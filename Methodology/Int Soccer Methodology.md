@@ -24,15 +24,15 @@ To create the ratings for all international soccer teams, a multistage process i
 
     Note that whenever a new team is added, their Elos are below average, so the difference between both their offense and defense Elo rating and the average Elo of 1500 is evenly split between their own respective ratings as well as every other teams'. This is designed to keep the average Elo rating at 1500, and as explained below, since we utilize the difference in the Elo ratings themselves.
 
-2)  <ins>For a matchup, calculate the predicted number of goals each team will score.</ins>
+2)  <ins> For a matchup, calculate the predicted number of goals each team will score.</ins>
 
     Think of this number not as an *exact* number of goals that a team would score, but rather the *average* number they would score if the match were repeated an infinite number of times. This system works on the intuition that a match between two teams can be subdivided into a match between a team's offense vs their opponent's defense and vice versa. As such, the difference between a team's offensive Elo and their opponent's defensive Elo determines the average number of goals they are predicted to score.
 
     At the core of basically every Elo rating system is an S-curve function used to calculate win expectancy. In this system, we use it to calculate the predicted number of goals ($pG$) that a team will score. Our system uses a joint function defined using the equations
 
-    $$x \le 0, \hspace{0.05cm} pG=\frac{2.9536}{{10}^{\frac{dr}{400}+1}}$$
+    $$x \le 0, pG=\frac{2.9536}{{10}^{\frac{dr}{400}+1}}$$
     
-    $$x \ge 0, \hspace{0.05cm} log(10) * \frac{2.9536}{100} * dr + \frac{2.9536}{2} $$
+    $$x \ge 0, log(10) * \frac{2.9536}{100} * dr + \frac{2.9536}{2}$$
 
     This is what the model uses to determine $pG$. Its main variable is the offense-defense rating difference between the two teams facing off, $dr$. $dr$ is adjusted based on home field advantage (HFA) if the match is being played in a non-neutral venue. The exact number of Elo points HFA is worth changes year to year using a method similar to [ClubElo.com](https://web.archive.org/web/20140326034352/http://clubelo.com/Articles/AdaptiveHomeFieldAdvantage.html), but it is currently about 65 points and is added to both the home team's offense and defense Elos.[^1]
 
