@@ -4,7 +4,7 @@ title: "International Soccer Methodology"
 permalink: /int-soccer-methodology/
 ---
 
-[\<\<Back to Home Page\<\<](https://zecellomaster.github.io/the-projection-room/)
+[<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
 # International Soccer Elo Ratings Methodology
 
@@ -31,14 +31,12 @@ To create the ratings for all international soccer teams, a multistage process i
     At the core of basically every Elo rating system is an S-curve function used to calculate win expectancy. In this system, we use it to calculate the predicted number of goals ($pG$) that a team will score. Our system uses a joint function defined using the equations
 
     $$x \le 0, \hspace{0.05cm} pG=\frac{2.9536}{{10}^{\frac{dr}{400}+1}}$$
-
-    $$
-    x \ge 0, \hspace{0.05cm} log(10) * \frac{2.9536}{100} * dr + \frac{2.9536}{2}
-    $$
+    
+    $$x \ge 0, \hspace{0.05cm} log(10) * \frac{2.9536}{100} * dr + \frac{2.9536}{2} $$
 
     This is what the model uses to determine $pG$. Its main variable is the offense-defense rating difference between the two teams facing off, $dr$. $dr$ is adjusted based on home field advantage (HFA) if the match is being played in a non-neutral venue. The exact number of Elo points HFA is worth changes year to year using a method similar to [ClubElo.com](https://web.archive.org/web/20140326034352/http://clubelo.com/Articles/AdaptiveHomeFieldAdvantage.html), but it is currently about 65 points and is added to both the home team's offense and defense Elos.[^1]
 
-3)  [For each match, calculate the number of points ($P$) to be exchanged]{.underline}. This depends on factors such as the difference between the two team's Elo scores, the significance of the match, and the team with home field advantage. $P$ is calculated as:
+4)  [For each match, calculate the number of points ($P$) to be exchanged]{.underline}. This depends on factors such as the difference between the two team's Elo scores, the significance of the match, and the team with home field advantage. $P$ is calculated as:
 
     $$P\ =K\ast\ W \ast R \ast G$$
 
@@ -65,7 +63,7 @@ To create the ratings for all international soccer teams, a multistage process i
 
     This system is zero sum, meaning that the number of points both teams receive is equal and opposite to each other (e.g. If a team's offensive Elo rating gains 10 Elo points, their opponent's defensive Elo rating will lose 10 points). If a team is expected to "win", the number of points they gain is *less* than the number that they would drop if they "lost". Conversely, if a team is expected to "lose", they would shed a fewer number of points than what they would gain if they "won". This system means that a team won't always gain points for winning the match overall; teams which under-perform expectations are still liable to lose Elo points.
 
-4)  [Rinse and repeat.]{.underline} This process is done chronologically for every international game we have available, courtesy [Mart Jürisoo](https://github.com/martj42/international_results)'s extensive database.
+5)  [Rinse and repeat.]{.underline} This process is done chronologically for every international game we have available, courtesy [Mart Jürisoo](https://github.com/martj42/international_results)'s extensive database.
 
 [^1]: More specifically, the concept is based on the idea that if the estimate for HFA is perfect, then on average no points should be exchanged between the home and away teams. After the end of each year, the average number of points exchanged between home and away teams, weighted by the importance of the competition, is added onto the current estimate of HFA. If the estimate was too low, the difference will be positive, so the HFA will be increased. The opposite is true if the estimate is too high.
 
