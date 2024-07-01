@@ -1,7 +1,6 @@
 ---
 theme: jekyll-theme-cayman
 title: "International Soccer Methodology"
-description: The nuts and bolts behind our new Elo ratings and forecast.
 permalink: /int-soccer-methodology/
 ---
 
