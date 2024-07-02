@@ -1,6 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "International Soccer Methodology"
+description: The nuts and bolts behind our new Elo ratings and forecast.
 permalink: /int-soccer-methodology/
 ---
 
@@ -18,7 +19,7 @@ Since soccer is *not* always zero sum (it's usually *ternary*; a team could win,
 
 To create the ratings for all international soccer teams, a multistage process is utilized.
 
-1)  </ins> Start every team at a set number of points</ins>
+1)  <ins> Start every team at a set number of points</ins>
 
     In this system, we assigned the first international teams to offensive and defensive Elo ratings of 1500 to England, Wales and Scotland, due to the fact that played each other frequently during those early years. New teams are assigned Elo ratings at a certain percentile of their starting confederation's rating distribution, or the international one if their confederation does not have enough teams. This accounts for the fact that new teams in the distant past, such as [Brazil](https://en.wikipedia.org/wiki/Brazil_national_football_team) in 1914, likely played at a level closer to their peers at the time than [South Sudan](https://en.wikipedia.org/wiki/South_Sudan_national_football_team), who played their first match in 2012.
 
@@ -38,7 +39,7 @@ To create the ratings for all international soccer teams, a multistage process i
 
     This is what the model uses to determine $pG$. Its main variable is the offense-defense rating difference between the two teams facing off, $dr$. $dr$ is adjusted based on home field advantage (HFA) if the match is being played in a non-neutral venue. The exact number of Elo points HFA is worth changes year to year using a method similar to [ClubElo.com](https://web.archive.org/web/20140326034352/http://clubelo.com/Articles/AdaptiveHomeFieldAdvantage.html), but it is currently about 65 points and is added to both the home team's offense and defense Elos.[^1]
 
-4)  <ins>For each match, calculate the number of points ($P$) to be exchanged</ins>
+4)  <ins>For each match, calculate the number of points ($P$) to be exchanged. </ins>
 
        This depends on factors such as the difference between the two team's Elo scores, the significance of the match, and the team with home field advantage. $P$ is calculated as:
 
