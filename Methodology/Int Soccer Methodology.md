@@ -30,8 +30,10 @@ To create the ratings for all international soccer teams, a multistage process i
 
     At the core of basically every Elo rating system is an S-curve function used to calculate win expectancy. In this system, we use it to calculate the predicted number of goals ($pG$) that a team will score. Our system uses a joint function defined using the equations
 
-    $$x \le 0, pG=\frac{2.9536}{{10}^{\frac{dr}{400}+1}}$$
-    
+    $$x \le 0, pG=\frac{2.9536}{ {10}^{\frac{dr}{400}+1} }$$
+
+    and
+
     $$x \ge 0, log(10) * \frac{2.9536}{100} * dr + \frac{2.9536}{2}$$
 
     This is what the model uses to determine $pG$. Its main variable is the offense-defense rating difference between the two teams facing off, $dr$. $dr$ is adjusted based on home field advantage (HFA) if the match is being played in a non-neutral venue. The exact number of Elo points HFA is worth changes year to year using a method similar to [ClubElo.com](https://web.archive.org/web/20140326034352/http://clubelo.com/Articles/AdaptiveHomeFieldAdvantage.html), but it is currently about 65 points and is added to both the home team's offense and defense Elos.[^1]
