@@ -19,9 +19,9 @@ It is important to note that this represents a *likelihood* of events happening.
 ### Legend
 *Elo*: The current overall Elo ratings for each team.
 
-*Off*: The offensive rating for each team. Represents the number of goals the team would be expected to score vs an average international opponent.
+*Off*: The offensive rating for each team. Represents the number of goals the team would be expected to score vs an average international opponent on a neutral field.
 
-*Def*: The defensive rating for each team. Represents the number of goals the team would be expected to concede vs an average international opponent.
+*Def*: The defensive rating for each team. Represents the number of goals the team would be expected to concede vs an average international opponent on a neutral field.
 
 *Finish group in...*: The chance a team has to finish the group in 1st, 2nd, and 3rd place.
 
