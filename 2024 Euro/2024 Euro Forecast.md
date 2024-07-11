@@ -1,15 +1,13 @@
 ---
 theme: jekyll-theme-cayman
 title: "UEFA Euro 2024 Forecast"
+description: An Elo-based forecast model that predicts match results and chances of advancing for every team. Updated after every match.
 permalink: /euro-forecast-2024/
 ---
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/2024%20Euro%20Main.jpg">
 
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
-
-# UEFA Euro 2024 Forecast
-An Elo-based forecast model that predicts chances of advancing for every team. Updated after every match.
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euro/Visuals/EuroTable.html" height="900" width="100%"></iframe>
