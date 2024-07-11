@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "International Soccer Methodology"
-description: The nuts and bolts behind our new Elo ratings and forecast.
+description: The nuts and bolts behind our new Elo ratings and forecasts.
 permalink: /int-soccer-methodology/
 ---
 
@@ -21,21 +21,27 @@ To create the ratings for all international soccer teams, a multistage process i
 
 Note that whenever a new team is added, their Elos are below average, so the difference between both their offense and defense Elo rating and the average Elo of 1500 is evenly split between their own respective ratings as well as every other teams'. This is designed to keep the average Elo rating at 1500, and as explained below, since we utilize the difference in the Elo ratings themselves.
 
-2)  <ins> For a matchup, calculate the predicted number of goals each team will score.</ins> Think of this number not as an *exact* number of goals that a team would score, but rather the *average* number they would score if the match were repeated an infinite number of times. This system works on the intuition that a match between two teams can be subdivided into a match between a team's offense vs their opponent's defense and vice versa. As such, the difference between a team's offensive Elo and their opponent's defensive Elo determines the average number of goals they are predicted to score. At the core of basically every Elo rating system is an S-curve function used to calculate win expectancy. In this system, we use it to calculate the predicted number of goals ($pG$) that a team will score. Our system uses a joint function defined using the equations
+2)  <ins> For a matchup, calculate the predicted number of goals each team will score.</ins> Think of this number not as an *exact* number of goals that a team would score, but rather the *average* number they would score if the match were repeated an infinite number of times. This system works on the intuition that a match between two teams can be subdivided into a match between a team's offense vs their opponent's defense and vice versa. As such, the difference between a team's offensive Elo and their opponent's defensive Elo determines the average number of goals they are predicted to score. At the core of basically every Elo rating system is an S-curve function used to calculate win expectancy. In this system, we use it to calculate the predicted number of goals ($`pG`$) that a team will score. Our system uses a joint function defined using the equations
 
-$$x \le 0, pG=\frac{2.9536}{ {10}^{\frac{dr}{400}+1} }$$
+```math
+x \le 0, pG=\frac{2.9536}{ {10}^{\frac{dr}{400}+1} }
+```
 
 and
 
-$$x \ge 0, log(10) * \frac{2.9536}{100} * dr + \frac{2.9536}{2}$$
+```math
+x \ge 0, log(10) * \frac{2.9536}{100} * dr + \frac{2.9536}{2}
+```
 
-This is what the model uses to determine $pG$. Its main variable is the offense-defense rating difference between the two teams facing off, $dr$. $dr$ is adjusted based on home field advantage (HFA) if the match is being played in a non-neutral venue. The exact number of Elo points HFA is worth changes year to year using a method similar to [ClubElo.com](https://web.archive.org/web/20140326034352/http://clubelo.com/Articles/AdaptiveHomeFieldAdvantage.html), but it is currently about 65 points and is added to both the home team's offense and defense Elos.[^1]
+This is what the model uses to determine $`pG`$. Its main variable is the offense-defense rating difference between the two teams facing off, $`dr`$. $`dr`$ is adjusted based on home field advantage (HFA) if the match is being played in a non-neutral venue. The exact number of Elo points HFA is worth changes year to year using a method similar to [ClubElo.com](https://web.archive.org/web/20140326034352/http://clubelo.com/Articles/AdaptiveHomeFieldAdvantage.html), but it is currently about 65 points and is added to both the home team's offense and defense Elos.[^1]
 
-4)  <ins>For each match, calculate the number of points ($P$) to be exchanged. </ins> This depends on factors such as the difference between the two team's Elo scores, the significance of the match, and the team with home field advantage. $P$ is calculated as:
+4)  <ins>For each match, calculate the number of points ($`P`$) to be exchanged. </ins> This depends on factors such as the difference between the two team's Elo scores, the significance of the match, and the team with home field advantage. $`P`$ is calculated as:
 
-$$P\ =K\ast\ W \ast R \ast G$$
+```math
+P\ =K\ast\ W \ast R \ast G
+```
 
-$K$ is the k constant and is set at 20. $G$ is the goal difference weight, $R$ is the result of the match ($R$ is -1 for "loss", 1 for a "win'). W is the match weight for the competition being played, which is anywhere from between 1 and 3 depending on the significance as shown below.
+$`K`$ is the k constant and is set at 20. $`G`$ is the goal difference weight, $`R`$ is the result of the match ($`R`$ is -1 for "loss", 1 for a "win'). W is the match weight for the competition being played, which is anywhere from between 1 and 3 depending on the significance as shown below.
 
 | Competition Type                           | Examples                                                              | W   |
 |------------------------|------------------------|------------------------|
@@ -48,11 +54,13 @@ $K$ is the k constant and is set at 20. $G$ is the goal difference weight, $R$ i
 | Major Inter-confederation Tournament (MIT) | Confederations Cup, Finalissima                                       | 2.5 |
 | World Championship (WC)                    | FIFA World Cup, Pre-1992 Olympic Games[^2]                            | 3   |
 
-$G$ is the goal difference weight, which has an adjustment for [autocorrelation](https://www.investopedia.com/terms/a/autocorrelation.asp). Basically, in Elo ratings, autocorrelation is caused by the fact that it utilizes the score in order to determine points exchanged in each match. Good teams facing weaker teams tend to win games by larger margins than they would facing a more equal opponent. $G$ uses the formula
+$`G`$ is the goal difference weight, which has an adjustment for [autocorrelation](https://www.investopedia.com/terms/a/autocorrelation.asp). Basically, in Elo ratings, autocorrelation is caused by the fact that it utilizes the score in order to determine points exchanged in each match. Good teams facing weaker teams tend to win games by larger margins than they would facing a more equal opponent. $`G`$ uses the formula
 
-$$G = 0.69349 * (g_{d})^{0.7} + \frac{1.42118}{1.42118 + (dr_{w} * 0.001)}$$
+```math
+G = 0.69349 * (g_{d})^{0.7} + \frac{1.42118}{1.42118 + (dr_{w} * 0.001)}
+```
 
-where $dr_w$ is the difference between winning and the losing team's Elo rating while $g_d$ is the absolute value of goal difference between the predicted goals scored and the actual goals scored. Obviously, a larger $g_d$ corresponds to a larger $G$ and therefore a larger exchange of points, but there are diminishing returns with greater values. Moreover, the magnitude of this increase is reduced when a team with an Elo advantage wins and increased when the underdog does instead.
+where $`dr_w`$ is the difference between winning and the losing team's Elo rating while $`g_d`$ is the absolute value of goal difference between the predicted goals scored and the actual goals scored. Obviously, a larger $`g_d`$ corresponds to a larger $`G`$ and therefore a larger exchange of points, but there are diminishing returns with greater values. Moreover, the magnitude of this increase is reduced when a team with an Elo advantage wins and increased when the underdog does instead.
 
 In this system, a "win" for the offense is when it scores more goals than expected while a defense "wins" when it allows fewer goals than expected. A "loss" therefore happens when the offense scores fewer goals than expected or when the defense concedes more goals than expected.
 
