@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "UEFA Euro 2024 Forecast"
-description: An Elo-based forecast model that predicts match results and chances of advancing for every team. Updated after every match.
+description: An Elo-based forecast model that predicts game outcomes and chances of advancing for every team. Updated after every match.
 permalink: /euro-forecast-2024/
 ---
 <meta name="twitter:card" content="summary">
@@ -33,9 +33,6 @@ It is important to note that this represents a *likelihood* of events happening.
 
 ## Match Predictions
 
-### Upcoming Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euro/Visuals/EuroUpcomingGames.html" height="300" width="100%"></iframe>
-
 ### Completed Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Euro/Visuals/EuroFinishedGames.html" height="300" width="100%"></iframe>
 
@@ -43,7 +40,6 @@ It is important to note that this represents a *likelihood* of events happening.
 Historical match data courtesy [Mart Jürisoo](https://github.com/martj42/international_results).
 
 Tournament scores from [ESPN](https://www.espn.com/soccer/league/_/name/uefa.euro).
-
 
 Follow us on Twitter: [@theprforecast](https://twitter.com/theprforecast)
 
