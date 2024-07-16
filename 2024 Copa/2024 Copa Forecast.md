@@ -1,15 +1,13 @@
 ---
 theme: jekyll-theme-cayman
 title: "2024 Copa América Forecast"
+description: "An Elo-based forecast model that predicts game outcomes chances of advancing for every team. Updated after every match."
 permalink: /copa-forecast-2024/
 ---
 <meta name="twitter:card" content="summary">
 <meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/master/Preview%20Photos/2024%20Copa%20Main.jpg">
 
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
-
-# 2024 Copa América Forecast
-An Elo-based forecast model that predicts chances of advancing for every team. Updated after every match.
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Copa/Visuals/CopaTable.html" height="700" width="100%"></iframe>
@@ -36,10 +34,6 @@ It is important to note that this represents a *likelihood* of events happening.
 *Win Final*: The chance a team has to win the final.
 
 ## Match Predictions
-
-### Upcoming Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Copa/Visuals/CopaUpcomingGames.html" height="300" width="100%"></iframe>
-
 
 ### Completed Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2024%20Copa/Visuals/CopaFinishedGames.html" height="300" width="100%"></iframe>
