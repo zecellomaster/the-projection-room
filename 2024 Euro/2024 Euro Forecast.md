@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "UEFA Euro 2024 Forecast"
-description: An Elo-based forecast model that predicts game outcomes and chances of advancing for every team. Updated after every match.
+description: An Elo-based forecast model that predicts game outcomes and chances of advancing for each team. Updated after every match.
 permalink: /euro-forecast-2024/
 ---
 <meta name="twitter:card" content="summary">
