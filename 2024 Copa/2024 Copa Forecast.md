@@ -1,7 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: "2024 Copa América Forecast"
-description: "An Elo-based forecast model that predicts game outcomes chances of advancing for every team. Updated after every match."
+description: "An Elo-based forecast model that predicts game outcomes and chances of advancing for each team. Updated after every match."
 permalink: /copa-forecast-2024/
 ---
 <meta name="twitter:card" content="summary">
