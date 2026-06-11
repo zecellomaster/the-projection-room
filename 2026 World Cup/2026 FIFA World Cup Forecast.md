@@ -54,3 +54,5 @@ Follow us on Twitter: [@theprforecast](https://twitter.com/theprforecast)
 Created by [@zecellomaster](https://twitter.com/zecellomaster)
 
 Check out our [other forecasts](https://zecellomaster.github.io/the-projection-room).
+
+Download data: [advancement probabilities](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/refs/heads/main/2026%20World%20Cup/WCOddsHistory.csv?download=1), [completed match probabilites](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/refs/heads/main/2026%20World%20Cup/WCStoredScoreTable.csv?download=1), [upcoming match probabilities](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/refs/heads/main/2026%20World%20Cup/WCRefinedScoreTable.csv?download=1).
