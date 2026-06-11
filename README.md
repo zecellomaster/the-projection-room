@@ -8,6 +8,11 @@
 # Home Page
 Welcome to the main page of The Projection Room Forecast! Here you will find our previous and current projects. Just click on the images to check them out.
 
+## Current Forecast
+[!["2026 FIFA World Cup Forecast"][13]][14]
+[13]: https://raw.githubusercontent.com/zecellomaster/the-projection-room/refs/heads/master/Preview%20Photos/2026%20WC%20Preview.jpg
+[14]: https://theprforecast.com/world-cup-forecast-2026/
+
 ## Previous Forecasts
 [!["Euro 2024 Forecast"][9]][10]
 
