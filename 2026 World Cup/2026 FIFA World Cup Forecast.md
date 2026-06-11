@@ -5,7 +5,7 @@ description: An Elo-based forecast model that predicts game outcomes and chances
 permalink: /world-cup-forecast-2026/
 ---
 <meta name="twitter:card" content="summary">
-<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/refs/heads/master/Preview%20Photos/2026%20WC%20Preview.jpg">
+<meta property="og:image" content="https://raw.githubusercontent.com/zecellomaster/the-projection-room/refs/heads/master/Preview%20Photos/2026%20WC%20Main.jpg">
 
 [<<Back to Home Page<<](https://zecellomaster.github.io/the-projection-room/)
 
