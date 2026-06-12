@@ -33,6 +33,10 @@ It is important to note that this represents a *likelihood* of events happening.
 
 *Win Final*: The chance a team has to win the final.
 
+## Leverage
+How much will the result of each team's next match affect their chances to advance?
+![Leverage Plot](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/refs/heads/main/2026%20World%20Cup/Visuals/Leverage%20Plot%20(Round%20of%2032).png)
+
 ## Next Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2026%20World%20Cup/Visuals/WCNextGames.html" height="400" width="100%"></iframe>
 
