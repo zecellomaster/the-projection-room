@@ -36,13 +36,12 @@ It is important to note that this represents a *likelihood* of events happening.
 ## Next Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2026%20World%20Cup/Visuals/WCNextGames.html" height="400" width="100%"></iframe>
 
+### Completed Matches
+<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2026%20World%20Cup/Visuals/WCFinishedGames.html" height="400" width="100%"></iframe>
+
 ## All Remaining Matches
 <iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2026%20World%20Cup/Visuals/WCUpcomingGames.html" height="400" width="100%"></iframe>
 
-
-### Completed Matches
-<iframe id="igraph" align="center" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2026%20World%20Cup/Visuals/WCFinishedGames.html" height="400" width="100%"></iframe>
- 
 ### Other Stuff
 Historical match data courtesy [Mart Jürisoo](https://github.com/martj42/international_results).
 
