@@ -11,6 +11,9 @@ permalink: /world-cup-forecast-2026/
 
 ## Current Forecast
 <iframe id="igraph" align="left" scrolling="yes" style="border:none;" seamless="seamless" src="https://zecellomaster.github.io/tprdatarepo/2026%20World%20Cup/Visuals/WCTable.html" height="900" width="100%"></iframe>
+
+[Click here for full screen version](https://zecellomaster.github.io/tprdatarepo/2026%20World%20Cup/Visuals/WCTable.html)
+
 Use the scroll bar to see more probabilities. To sort by multiple columns, hold the shift key and click on them.
 It is important to note that this represents a *likelihood* of events happening.
 
