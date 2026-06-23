@@ -36,6 +36,10 @@ It is important to note that this represents a *likelihood* of events happening.
 
 *Win Final*: The chance a team has to win the final.
 
+## Bubble Watch
+What is the likelihood that a third place team with a given number of points and goal difference will advance to the knockout rounds?
+![Bubble Plot](http://raw.githubusercontent.com/zecellomaster/tprdatarepo/refs/heads/main/2026%20World%20Cup/Visuals/Third%20Place%20Plot.png)
+
 ## Leverage
 How much will the result of each team's next match affect their chances to advance?
 ![Leverage Plot](https://raw.githubusercontent.com/zecellomaster/tprdatarepo/refs/heads/main/2026%20World%20Cup/Visuals/Leverage%20Plot%20(Round%20of%2032).png)
